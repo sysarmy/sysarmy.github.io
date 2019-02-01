@@ -1,0 +1,46 @@
+html { font-size:100%; }
+
+body {
+  background-color: #000;
+  color: #ccc;
+  font-family: "Courier New", Courier, monospace;
+  line-height:1.4em;
+}
+
+a, a.visited, a.active {
+  color: #ccc;
+  font-weight: bold;
+  text-decoration: none;	
+}
+
+/* Size specific */
+
+@media (max-width: 640px) 
+{ 
+body,h2 {font-size:1.2rem;}
+code {padding-left:2em;}
+blockquote {padding-left:1.5em;}
+} 
+
+@media (min-width: 641px) 
+{ 
+body,h2 {font-size:1.3rem;}
+code {padding-left:2.8em;}
+blockquote {padding-left:3.5em;}
+} 
+ 
+@media (min-width:960px) 
+{ 
+body,h2 {font-size:1.4rem;}
+code {padding-left:3.5em;}
+blockquote {padding-left:4.5em;}
+} 
+
+@media (min-width:1100px) 
+{ 
+body,h2 {font-size:1.2rem;}
+code {padding-left:4em;}
+blockquote {padding-left:6em;}
+
+} 
+

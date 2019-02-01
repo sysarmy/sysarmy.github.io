@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><itunes:author><![CDATA[sysarmy]]></itunes:author><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+Buscanos en:
+Web: http://sysar.my/
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy]]></description><language>es-ES</language><generator>iVoox</generator><image><url>http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
+<item><title><![CDATA[#EntrevistaTécnica - Jon &quot;Maddog&quot; Hall por Florencia Pulla]]></title><link>http://ar.ivoox.com/es/entrevistatecnica-jon-maddog-hall-florencia-pulla-audios-mp3_rf_31028861_1.html</link><enclosure url="http://ar.ivoox.com/es/entrevistatecnica-jon-maddog-hall-florencia-pulla_mf_31028861_feed_1.mp3" type="audio/mpeg"  length="42960907"/><description><![CDATA[#EntrevistaTécnica es el programa de sysarmy en donde rendimos tributo a distintas personalidades de nuestra industria, recorriendo su vida profesional para conocer su carrera y cómo llegaron a ser lo que son hoy.
+
+
+== En este episodio ==
+En esta edición Florencia Pulla entrevista a Jon "Maddog" Hall, haciendo un repaso por su extensa trayectoria.
+
+== Maddog ==
+Twitter: @maddoghall
+OptDyn: https://optdyn.com
+
+== Florencia Pulla ==
+Twitter: @florws
+InfoTechnology: infotechnology.com
+
+== Lugar ==
+Museo de Informatica: http://museodeinformatica.org.ar/
+Museo de Informatica en Facebook: https://goo.gl/TaASu3
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+Spotify: https://goo.gl/UwLK9n
+
+== Nuestro equipo de legales dice ==
+Las opiniones expresadas por los/las participantes son personales y no reflejan necesariamente las de sysarmy.]]></description><pubDate>Wed, 26 Dec 2018 05:09:54 +0100</pubDate><itunes:duration>01:29:30</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/31028861</guid></item>
+<item><title><![CDATA[Polémica en /var - S02E05 - A Company By...]]></title><link>http://ar.ivoox.com/es/polemica-var-s02e05-a-company-audios-mp3_rf_30534949_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s02e05-a-company_mf_30534949_feed_1.mp3" type="audio/mpeg"  length="18946232"/><description><![CDATA[== Pedí tus remeras y merchandising de sysarmy ==
+remeras[at]sysarmy.com.ar
+
+== Búsquedas laborales ==
+OLX:
+- DevOps Engineer:  https://goo.gl/BWvyq4
+- Site Reliability Engineer, Infrastructure SRE: https://goo.gl/MgBVVQ
+
+Edrans:
+SysAdmin, DevOps Engineers: https://goo.gl/6n7wWP
+
+Medallia:
+Research Scientist - Machine Learning, Inteligencia Artificial y NLP: https://goo.gl/LASxgD
+
+Mulesoft:
+Devops Engineer, Customer Sysops Engineer: https://goo.gl/MU8i5B
+
+Elementum:
+DevOps Engineers: https://goo.gl/oBwzXc
+
+== En este episodio ==
+Discutimos noticias a pleno, parece que llegando a fin de año todo el mundo anda a las corridas y sobraron temas grandes para charlar. Desde los eventos en los que estuvimos como PyconAr y FemIT, pasando por la compra de Red Hat por parte de IBM, las polémicas en Google por los casos de acoso de los que no quisieron hacer mucho ruido, Linus Torvals y su vuelta al kernel más calmado, vulnerabilidades, noticias de la NASA, y las típicas caídas en sistemas desde Facebook hasta Amazon y Walmart.
+
+== Mencionados en este episodio ==
+How Google Protected Andy Rubin, the ‘Father of Android’: https://www.nytimes.com/2018/10/25/te...
+Amazon's move off Oracle caused Prime Day outage: https://www.cnbc.com/2018/10/23/amazo...
+https://twitter.com/Werner/status/105...
+IBM To Acquire Red Hat: https://newsroom.ibm.com/2018-10-28-I...
+Several SSDs with hardware encryption appear to be busted: https://twitter.com/matthew_d_green/s...
+Intel CPUs impacted by new PortSmash side-channel vulnerability: https://www.zdnet.com/article/intel-c...
+VirtualBox NAT E1000 Guest-to-Host Escape: https://twitter.com/_r_netsec/status/...
+Diablo Immortal full QnA: https://www.youtube.com/watch?v=K_XBv...
+Marc Benioff asks Elon Musk to dig tunnels: https://www.cnbc.com/2018/11/07/sales...
+Linux Distro for Windows 10: https://wccftech.com/microsoft-20-lin...
+LINUS POLITE: http://lkml.iu.edu/hypermail/linux/ke...
+Linux se resiste a aplicar los parches de Intel: https://www.muylinux.com/2018/11/23/s...
+Richard Stallman Criticizes Bitcoin: https://yro.slashdot.org/story/18/11/...
+Malicious code found in npm package: https://twitter.com/garybernhardt/sta...
+https://snyk.io/blog/malicious-code-f...
+Amazon y Walmart black friday crash: https://www.tomsguide.com/us/black-fr...
+Facebook blames latest outage on server bug: https://www.digit.in/general/facebook...
+Recovering NASA’s Hubble: https://www.nasa.gov/feature/goddard/...
+NASA Insight: https://mars.nasa.gov/insight/
+
+== Eventos y meetups ==
+Museo de Informática: Sigue la muestra Gamer hasta el 22 de Diciembre.
+
+
+== Organizaciones amigas ==
+Museo de Informática: http://museodeinformatica.org.ar/
+Museo de Informática en Facebook: https://goo.gl/TaASu3
+EkoSpace: http://eko.space/
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+Tecnoparanoids: https://radioela.org/_TecnoParanoids_...
+Ingoberlab: https://hacklab.ingobernable.net 
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+Spotify: https://open.spotify.com/show/4aSX6qC...
+
+== Conducen este episodio ==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+
+== invitadas e Invitados ==
+Caro Cuéliche: @carocueliche
+Juan Manuel Santos: @godlike64]]></description><pubDate>Tue, 04 Dec 2018 16:37:46 +0100</pubDate><itunes:duration>39:28</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/30534949</guid></item>
+<item><title><![CDATA[Polémica en /var - S02 - Micro Especial @FemITconf]]></title><link>http://ar.ivoox.com/es/polemica-var-s02-micro-especial-audios-mp3_rf_30260187_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s02-micro-especial_mf_30260187_feed_1.mp3" type="audio/mpeg"  length="3256457"/><description><![CDATA[== En este episodio ==
+Estuvimos en la @FemITconf , la primera conferencia organizada por @lasdesistemas para celebrar su primer aniversario. En ella hubo diversas exposiciones, lightning talks y hasta un panel en donde personalidades relacionadas con el feminismo y la diversidad dieron su opinion sobre problemáticas que afectan la diversidad en sistemas, o la diversidad desde los sistemas. En este episodio concatenamos una serie de mini entrevistas desde la perspectiva de algunas de sus protagonistas para que cuenten que hicieron y cuales fueron sus sensaciones con respecto a la FemIT Conf.
+
+== Presentador ==
+Jorge Abreu: @ar_jorge1987
+
+== Participan ==
+Nayla Portas: @nportas
+Ángeles Tella Arena: @holasoyangeles
+Mara Jerkovic: @marulisss
+Sol Verniers: @solverniers 
+Laura Nieves
+Sandra Soto: 
+Virginia Barros: @virramona 
+
+== Eventos y meetups ==
+Museo de Informatica: Sigue la muestra Gamer.
+PyConAr: 22, 23, 24 de noviembre, Centro Cultural San Martín.
+
+== Organizaciones amigas ==
+Museo de Informatica: http://museodeinformatica.org.ar/
+Museo de Informatica en Facebook: https://goo.gl/TaASu3
+EkoSpace: http://eko.space/
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+Spotify: https://goo.gl/UwLK9n]]></description><pubDate>Thu, 22 Nov 2018 14:25:18 +0100</pubDate><itunes:duration>06:47</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/30260187</guid></item>
+<item>
+<title>
+<![CDATA[
+Polémica en /var - S02E04 - Entrada libre y gratuita
+]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s02e04-entrada-libre-audios-mp3_rf_29697576_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s02e04-entrada-libre_mf_29697576_feed_1.mp3" type="audio/mpeg" length="16582458"/>
+<description>
+<![CDATA[
+== Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ OLX: https://www.olxgroup.com/search/all-f...
+ Sysarmy en LinkedIn: https://goo.gl/1QMlCv
+ Medallia: https://jobs.medallia.com/?loc=buenos...
+ Edrans: https://edrans.applytojob.com/apply/
+ Mulesoft: https://www.mulesoft.com/careers/job-...
+ 
+ == En este episodio ==
+ Discutimos muchas noticias, la verdad que sucedieron muchas cosas en los ultimos meses y habia muchos temas pendientes para tocar, desde niveles secretos del Doom original recientemente descubiertos, pasando las despedidas de Linus Torvalds en la lista del Kernel y el fin de la revista Users, hasta la muerte de Google Plus y vulnerabilidades en libssh, entre muchas noticias más. Además cerramos el programa con una nueva mesa de Polémica, en donde discutimos las complejidades a la hora de organizar un evento de sistemas libre y gratuito.
+ 
+ == Mencionados en este episodio ==
+ Fortine para moviles y el installer del installer: https://www.androidcentral.com/epic-g...
+ Last official Doom 2 level revealed: https://twitter.com/romero/status/103...
+ Linux 4.19-rc4 released, an apology, and a maintainership note: https://lkml.org/lkml/2018/9/16/167
+ Despedimos a la revista USERS en su última edición: http://www.redusers.com/noticias/edit...
+ One Small Step for the Web: https://medium.com/@timberners_lee/on...
+ Google+ is Shutting Down After a Vulnerability: https://amp.thehackernews.com/thn/201...
+ Microsoft co-founder Paul Allen dead at 65: https://www.theverge.com/2018/10/15/1...
+ libssh versions 0.6 and above have an authentication bypass: https://www.libssh.org/2018/10/16/lib...
+ The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies: https://www.bloomberg.com/news/featur...
+ MongoDB switches up its open-source license: https://techcrunch.com/2018/10/16/mon...
+ 
+ == Eventos y meetups ==
+ Museo de Informatica: Sigue la muestra Gamer.
+ #FemITconf: 17 de Noviembre, Centro Cultural Borges. (solo habrá lugar para 85 personas).
+ PyConAr: 22, 23, 24 de noviembre, Centro Cultural San Martín.
+ 
+ == Organizaciones amigas ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ EkoSpace: http://eko.space/
+ EkoSpace en Facebook: https://goo.gl/VOzYle
+ EkoSpace en Twitter: https://goo.gl/umJHVp
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ Spotify: https://open.spotify.com/show/4aSX6qC...
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Invitados e invitadas ==
+ Nicolás Demarchi: @gilgamezh
+ Luciana Dubiau: @ludubiau
+ Analía Álvarez: @analia_alvarez_
+]]>
+</description>
+<pubDate>Tue, 30 Oct 2018 13:19:42 +0100</pubDate>
+<itunes:duration>34:32</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/29697576</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Polémica en /var - S02 - Panel nerdear.la 2018 ]]>
+</title>
+<link>
+https://gb.ivoox.com/en/polemica-var-s02-panel-nerdear-la-audios-mp3_rf_29233907_1.html
+</link>
+<enclosure url="http://gb.ivoox.com/en/polemica-var-s02-panel-nerdear-la_mf_29233907_feed_1.mp3" type="audio/mpeg" length="16168795"/>
+<description>
+<![CDATA[
+Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+ 
+ == Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ Sysarmy en LinkedIn: https://goo.gl/1QMlCv
+ Medallia Systems Administrator: https://goo.gl/QtzJP9
+ Edrans - Systems Engineer: https://goo.gl/8q53Zr
+ Mulesoft - DevOps y Devops Manager: https://goo.gl/PEJktq
+ 
+ == En este episodio ==
+ Charlamos con Pablo, Natalia y Sebastián sobre diversos temas del mundo de sistemas, desde errores cometidos, cómo arrancar, carreras desconocidas, entre muchas otras cosas, y sobre lo que es nerdear.la para la comunidad.
+ 
+ == Sobre Nerdearla ==
+ Sitio Web: https://nerdear.la/
+ Twitter: @nerdearla
+ Youtube: https://www.youtube.com/user/nerdearl...
+ 
+ == Organizaciones ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ EkoSpace: http://eko.space/
+ EkoSpace en Facebook: https://goo.gl/VOzYle
+ EkoSpace en Twitter: https://goo.gl/umJHVp
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ Spotify: https://goo.gl/UwLK9n
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Invitadas e Invitados ==
+ Natalia Palau: @natypalau
+ Sebastián Domínguez: @sebaminguez
+ Pablo Fredrikson: @pablokbs
+]]>
+</description>
+<pubDate>Wed, 10 Oct 2018 21:22:06 +0200</pubDate>
+<itunes:duration>33:41</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/29233907</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+#EntrevistaTécnica - Beatriz Busaniche por Clarisa Herrera
+]]>
+</title>
+<link>
+http://ar.ivoox.com/es/entrevistatecnica-beatriz-busaniche-clarisa-herrera-audios-mp3_rf_29077109_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/entrevistatecnica-beatriz-busaniche-clarisa-herrera_mf_29077109_feed_1.mp3" type="audio/mpeg" length="29380902"/>
+<description>
+<![CDATA[
+#EntrevistaTécnica es el programa de sysarmy en donde rendimos tributo a distintas personalidades de nuestra industria, recorriendo su vida profesional para conocer su carrera y cómo llegaron a ser lo que son hoy.
+ 
+ 
+ == En este episodio ==
+ En esta edición Clarisa Herrera entrevista a Beatriz Busaniche de Vía Libre, haciendo un repaso por su extensa trayectoria.
+ 
+ == Beatriz Busaniche ==
+ Twitter: @beabusaniche
+ Fundación Vía Libre: www.vialibre.org.ar
+ 
+ == Clarisa Herrera ==
+ Twitter: @theguapa 
+ The clarisa herrera Daily: paper.li/theguapa#/
+ 
+ == Lugar ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ 
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ 
+ == Nuestros abogados dicen ==
+ Las opiniones expresadas por los/las participantes son personales y no reflejan necesariamente las opiniones de sysarmy.
+]]>
+</description>
+<pubDate>Wed, 03 Oct 2018 22:06:28 +0200</pubDate>
+<itunes:duration>01:01:12</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/29077109</guid>
+</item>
+<item>
+<title>
+<![CDATA[Polémica en /var - S02E03 - La droga de entrada a sistemas]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s02e03-la-droga-audios-mp3_rf_28066240_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s02e03-la-droga_mf_28066240_feed_1.mp3" type="audio/mpeg" length="16481010"/>
+<description>
+<![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+ 
+ == Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ Sysarmy en LinkedIn: https://goo.gl/1QMlCv
+ Medallia Systems Administrator: https://jobs.lever.co/medallia/3c3f5d...
+ Edrans - Systems Engineer: https://www.edrans.com/#/bolsa-de-tra...
+ Mulesoft - DevOps y Devops Manager: https://www.mulesoft.com/careers/job-...
+ 
+ == En este episodio ==
+ Discutimos de todo, arrancando por las busquedas laborales del momento, los festejos por la adminfest, las noticias del mes, en donde repasamos algunas de las ultimas caidas de grandes empresas, el partnership de Atlassian y slack, novedades del dataceter acuatico de Microsoft, los 25 años de Wine y de Slackware, vulnerabilidades en tcp y openssh, la actualidad de Python y un repaso por los proximos eventos cerrando con una mesa llena de polémica con las invitadas especiales.
+ 
+ == Mencionados en este episodio ==
+ Encuesta de sueldo: https://goo.gl/gqESHk
+ Atlassian + Slack: https://www.atlassian.com/blog/announ...
+ Microsoft Datacenter submarino: https://natick.research.microsoft.com/
+ Wine cumplió 25 años: https://www.theregister.co.uk/2018/07...
+ Slackware 25 años: https://opensource.com/article/18/7/s...
+ Problemas financieros de Pat: https://www.linuxquestions.org/questi...
+ Y: https://www.paypal.me/volkerdi
+ TCP stack vulnerable a DDOS: https://www.kb.cert.org/vuls/id/962459
+ The default OpenSSH key encryption is bad: https://latacora.singles/2018/08/03/t...
+ Guido Van Rossum se baja como BDFL de Python: https://mail.python.org/pipermail/pyt...
+ 
+ == Eventos y meetups ==
+ nerdear.la: 30 de agosto al 1 de septiembre: https://nerdear.la/
+ Museo de Informatica: Sigue la muestra Gamer.
+ NotPinkCon: Vie 24 ago. 2018 https://www.eventbrite.es/e/entradas-...
+ Ekoparty: 26 - 28 de septiembre https://www.ekoparty.org/
+ 
+ == Organizaciones ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ EkoSpace: http://eko.space/
+ EkoSpace en Facebook: https://goo.gl/VOzYle
+ EkoSpace en Twitter: https://goo.gl/umJHVp
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Invitadas ==
+ Vero Ovando: @verovand
+ Regina Loustau: @Rhapsody_Girl]]>
+</description>
+<pubDate>Fri, 24 Aug 2018 19:53:38 +0200</pubDate>
+<itunes:duration>34:20</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/28066240</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Polémica en /var - S02E02 - Digitalmente Dominados ]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s02e02-digitalmente-dominados-audios-mp3_rf_26779912_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s02e02-digitalmente-dominados_mf_26779912_feed_1.mp3" type="audio/mpeg" length="24954715"/>
+<description>
+<![CDATA[
+== Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ Sysarmy en LinkedIn: https://goo.gl/1QMlCv
+ Medallia Systems Administrator: https://jobs.lever.co/medallia/3c3f5d...
+ Edrans - Systems Engineer: https://www.edrans.com/#/bolsa-de-tra...
+ 
+ == En este episodio ==
+ Charlamos sobre como el MIT le encomendó a una IA aprender desde Reddit, sobre como la NASA se anima a tirar updates en sondas que están mas allá de Plutón, el bloqueo a Uber en Argentina, Drones con reconocimientos de movimientos violentos en personas, Microsoft hundiendo un datacenter, Data Breach en MyHeritage, y la compra de GitHub por parte de MIcrosoft.
+ 
+ == Mencionados en este episodio ==
+ MIT fed an AI data from Reddit: https://www.theverge.com/2018/6/7/174...
+ NASA’s New Horizons probe woke up today: https://www.theverge.com/2018/6/5/174...
+ El bloqueo a Uber: https://www.clarin.com/opinion/bloque...
+ Drones taught to spot violent behavior: https://www.theverge.com/2018/6/6/174...
+ Microsoft sinks a data center: https://www.theverge.com/2018/6/6/174...
+ MyHeritage breach leaks: https://www.theverge.com/2018/6/5/174...
+ Microsoft has acquired GitHub: https://techcrunch.com/2018/06/04/mic...
+ 
+ == Eventos y meetups ==
+ nerdear.la: 30 de agosto al 1 de septiembre: https://nerdear.la/
+ Museo de Informatica: Sigue la muestra Gamer.
+ 
+ == Organizaciones ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ EkoSpace: http://eko.space/
+ EkoSpace en Facebook: https://goo.gl/VOzYle
+ EkoSpace en Twitter: https://goo.gl/umJHVp
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Invitados ==
+ Claudio Regis: @dominiodigital 
+ Daniel Sentinelli: @dsentinelli 
+ 
+ == Dominio Digital ==
+ Youtube: https://www.youtube.com/user/techbiz/...
+ Web: http://www.dominiodigital.com.ar/
+ Facebook: https://www.facebook.com/dominiodigit...
+ Ivoox: http://ar.ivoox.com/es/podcast-domini...
+ Entrevista al Chacal por Regis: https://www.youtube.com/watch?v=i_lK_...
+ 
+ == Producción ==
+ Regina Loustau: @Rhapsody_Girl
+]]>
+</description>
+<pubDate>Thu, 28 Jun 2018 17:39:59 +0200</pubDate>
+<itunes:duration>51:59</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/26779912</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Polémica en /var - S02 - Micro Especial #MujeresProgramadoras
+]]>
+</title>
+<link>
+http://www.ivoox.com/polemica-var-s02-micro-especial-audios-mp3_rf_25575940_1.html
+</link>
+<enclosure url="http://www.ivoox.com/polemica-var-s02-micro-especial_mf_25575940_feed_1.mp3" type="audio/mpeg" length="1537088"/>
+<description>
+<![CDATA[
+El evento de Mujeres Programadoras se celebró el 11 de Abil de 2018 en el Centro Cultural de la Ciencia, organizado por la empresa Medallia en conjunto con la organizacion Chicas en Tecnologia, con el objetivo de medir el ingreso de mujeres en carreras universitarias relacionadas con la programacion.
+ 
+ == Presentador ==
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Sitio oficial de Mujeres Programadoras ==
+ http://mujeresprogramadoras.com.ar/
+ 
+ == Organizadores ==
+ Medallia: https://www.medallia.com/
+ C3: http://ccciencia.gob.ar/
+ Chicas en Tecnologia: https://www.chicasentecnologia.org/
+ 
+ == Micro grabado en ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+]]>
+</description>
+<pubDate>Mon, 23 Apr 2018 22:30:13 +0200</pubDate>
+<itunes:duration>03:12</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/25575940</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Polémica en /var - S02E01 - Black Mirror ]]>
+</title>
+<link>
+http://www.ivoox.com/polemica-var-s02e01-black-mirror-audios-mp3_rf_25575373_1.html
+</link>
+<enclosure url="http://www.ivoox.com/polemica-var-s02e01-black-mirror_mf_25575373_feed_1.mp3" type="audio/mpeg" length="14261438"/>
+<description>
+<![CDATA[
+== Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ En este episodio charlamos sobre las ultimas noticias relacionadas con las criptomonedas y la nueva prohibicion de sus publicidades en las palataformas de Google, un vehiculo autonomo de Uber mató a una persona en una choque, el backslash que sufre Facebook luego de que una empresa parseara información de 50 millones de perfiles perimitiéndoles identificar uniquivocamente a las personas para publicidad. Un corte de luz en una fábrica de Samsung destruye un importante número memorias NAND, muchas noticias más, y como cierre una mesa redonda de polémica en donde discutimos varios temas con como "la nube", sus beneficios, sus contras, si lo usamos de manera correcta, los estereotipos de la gente de Ops, entre otras cosas mientras nos hacemos soporte entre nosotros.
+ 
+ == Mencionados en este episodio ==
+ Prohibicion de publicidad de criptomonedas en Google: https://goo.gl/yboE7Q
+ Accidente de Uber: https://goo.gl/naF29A
+ Parseo de perfiles de Facebook por Cambridge Analytica: https://goo.gl/HhzLTe
+ Corte de luz en Samsung: https://goo.gl/YZvuxQ
+ DDOS a Github: https://goo.gl/trqLV7
+ Linus vs los que publicaron las vulns de AMD: https://goo.gl/nCgqbm
+ Kali en Windows: https://goo.gl/V16djq
+ Microsoft y los updates: https://goo.gl/mBkVir
+ 
+ == Eventos y meetups ==
+ Mujeres programadoras: https://goo.gl/nv823v
+ Editatón Mujeres en las Ciencias: https://goo.gl/8tbuqo
+ Campus Party: https://goo.gl/sQ6jrA
+ Open Data Day: https://opendataday.org/
+ 
+ == Búsquedas laborales ==
+ 
+ sysarmy en LinkedIn: https://goo.gl/1QMlCv
+ Medallia: http://medallia.com.ar
+ Edrans: http://edrans.com
+ 
+ == Organizaciones ==
+ Museo de Informatica: http://museodeinformatica.org.ar/
+ Museo de Informatica en Facebook: https://goo.gl/TaASu3
+ EkoSpace: http://eko.space/
+ EkoSpace en Facebook: https://goo.gl/VOzYle
+ EkoSpace en Twitter: https://goo.gl/umJHVp
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Invitados ==
+ Eduardo: @jedux
+ Joel: @pastelhigienico
+ 
+ == Producción ==
+ Regina Loustau: @Rhapsody_Girl
+]]>
+</description>
+<pubDate>Mon, 23 Apr 2018 21:57:06 +0200</pubDate>
+<itunes:duration>29:42</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/25575373</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Polémica en /var - S02E00 - #Meltdown y #Spectre con Iván Arce
+]]>
+</title>
+<link>
+http://www.ivoox.com/polemica-var-s02e00-meltdown-y-audios-mp3_rf_23495832_1.html
+</link>
+<enclosure url="http://www.ivoox.com/polemica-var-s02e00-meltdown-y_mf_23495832_feed_1.mp3" type="audio/mpeg" length="15500791"/>
+<description>
+<![CDATA[
+Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+ 
+ Agradecemos a Iván Arce por su generosidad en acompañarnos en este especial.
+ 
+ == Ayudanos a mejorar con esta encuesta y ganá premios ==
+ https://goo.gl/uEH93v
+ 
+ == Pedí tus remeras y merchandising de sysarmy ==
+ remeras@sysarmy.com.ar
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ LinkedIn: https://goo.gl/1QMlCv
+ IRC en Freenode: #sysarmy
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ 
+ == Producción ==
+ Regina Loustau: @Rhapsody_Girl
+]]>
+</description>
+<pubDate>Thu, 01 Feb 2018 16:02:43 +0100</pubDate>
+<itunes:duration>32:17</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/23495832</guid>
+</item>
+<item><title><![CDATA[Polémica en /var - S01E08 - #iamroot]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e08-iamroot-audios-mp3_rf_22881382_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e08-iamroot_mf_22881382_feed_1.mp3" type="audio/mpeg"  length="16411315"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+== Ayudanos a mejorar con esta encuesta y ganá premios ==
+https://goo.gl/uEH93v
+
+== Pedí tus remeras y merchandising de sysarmy ==
+remeras@sysarmy.com.ar
+
+¿Usás Mac y no te acordás la contraseña de root? No te preocupes, apretá Enter dos veces y listo. El adiós a Linux Journal, a Net Neutrality y los cambios en la protección de datos en la Unión Europea, por Johanna Faliero.
+Se jubila el BIOS y descubrimos cuál es el Sistema Operativo más utilizado en computadoras modernas. Algo de AI, algunos eventos en los que estuvimos y mucho más en el último episodio de la temporada.
+
+== Mencionados en este episodio ==
+
+Bug en OS X High Sierra: https://goo.gl/Dn32zb
+Script de @axelvf para saber si te afectó el bug: https://goo.gl/hqQVQU
+Charlas de la ekoparty: https://goo.gl/wbPrPs
+Cierra LinuxJournal: https://goo.gl/dGaRwL
+La FCC mató la neutralidad en la red: https://goo.gl/rHcCsn
+Johanna Faliero (@JoyCfTw): https://goo.gl/AmCTsj
+Adiós al BIOS en 2020: https://goo.gl/AGgYcD
+Carta abierta de Andrew Tanenbaum a Intel: https://goo.gl/o1ncwr
+AlphaZero le gana al mejor software de ajedrez: https://goo.gl/tCWV3S
+
+== Eventos y meetups ==
+Noche de los Museos: https://goo.gl/LwYoqP
+Devs4Good: https://goo.gl/XagtYo
+PyCon Argentina: https://goo.gl/kGgJim
+@vkmc en CephDay: https://goo.gl/zoAH4M
+@enriquetaso en CephDay: https://goo.gl/HrUsJT
+Ceph Day Buenos Aires: https://goo.gl/gsZhgE
+FullStack Conf: https://goo.gl/HoJPsx
+@sebamontini en re:Invent: https://goo.gl/Zja5Vo
+#Nardoz: https://goo.gl/AJ8kpS
+DevOpsCon Munich: https://goo.gl/ZSPchv
+#LasDeSistemas: https://goo.gl/bJiQ1A
+
+== Búsquedas laborales ==
+Edrans: https://goo.gl/bQzc3E
+Medallia: https://goo.gl/BEHaz2
+Despegar.com: https://goo.gl/ct3fG2
+sysarmy en LinkedIn: https://goo.gl/1QMlCv
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+
+== Conducen este episodio ==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+
+== Producción ==
+Regina Loustau: @Rhapsody_Girl]]></description><pubDate>Thu, 28 Dec 2017 21:22:54 +0100</pubDate><itunes:duration>34:11</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/22881382</guid></item><item><title><![CDATA[Polémica en /var - S01E07 - Ekofax]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e07-ekofax-audios-mp3_rf_21841288_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e07-ekofax_mf_21841288_feed_1.mp3" type="audio/mpeg"  length="10975756"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+¡Como siempre, tenemos de todo! Ya hay algunos analisis muy interesantes de la encuenta de sueldos de Sysarmy, paso la Akoparty y dejó de todo, Jolo estuvo de viaje por Estados Unidos y nos trajo imagenes del Museo de la Informatica de Sillicon Valley, además de una curiosa entrevista con gente de Cloudflare que involucra Lava Lamps. Hackeos, hackeos y más hackeos, en este caso cayó Equifax, se llevo en el camino a Veraz, y como si fuera poco encontraron un keylogger en los drones militares de Estados Unidos. En otro orden de noticias salió la nueva SNES Mini de Nintendo, y nos enteramos de que corre Linux, y hablando de Linux tenemos que mencionar la muerte de Solaris, ya que Oracle parece que echó un monton de gente y esta cerrando lo poco que quedaba de la vieja Sun Microsystems.
+
+== Mencionados en este episodio ==
+Evolucion de encuesta de sueldos: https://goo.gl/9zXwzB
+Encuesta de sueldos por Genero: https://goo.gl/AdMVHB
+Caso Equifax: https://goo.gl/r1frz3
+Computer virus hits US Predator and Reaper: https://goo.gl/jLP41M
+Ekoparty Blog: https://ekoparty.blogspot.com.ar/
+Cloudflare INternet Summit: https://goo.gl/zzf7Ck
+Punto final para Sun en Oracle: https://goo.gl/v3z8MB
+
+
+== Eventos y meetups ==
+Noche de los Museos: https://goo.gl/LwYoqP
+All Day DevOps viewing party: https://goo.gl/vqv6pE
+Docker Meetup #15 @ Red Hat: https://goo.gl/9sGxnG
+
+== Búsquedas laborales ==
+Edrans: https://goo.gl/fJ71LH
+Medalia: https://goo.gl/emSP3n
+sysarmy en LinkedIn: https://goo.gl/1QMlCv
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+
+==Conducen este episodio==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+
+==Producción==
+Regina Loustau: @Rhapsody_Girl]]></description><pubDate>Thu, 02 Nov 2017 16:14:22 +0100</pubDate><itunes:duration>22:51</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/21841288</guid></item><item><title><![CDATA[Polémica en /var - S01E06 - Game of Leaks]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e06-game-of-audios-mp3_rf_20609348_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e06-game-of_mf_20609348_feed_1.mp3" type="audio/mpeg"  length="17293016"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+Leaks, leaks, hacks, hacks, y alguna que otra caida. ¿Que pasó en este ultimo mes? De todo: TestingAR sacó su propio podcast llamado SyntaxError, nos visitó Alfredo Ortega, un consultor en Seguridad Informatica que la tiene clarisima para charlar sobre su experiencia en la DEFCON y sobre el Voto Electronico en Argentina. Se cayó internet en Argentina por el corte de unos cables en Las Toninas, pasó el dia de la Neutralidad en la Red, se cayó New Relic y muchas empresas durante 2 horas no tenian visibilidad de logs, se cayó el servicio de HBO Go (basicamente todos los domingos que sale un episodio nuevo de Game Of Thrones), hackearon servidores de HBO, leakearon episodios de Game Of Thrones, leakearon guiones de series de HBO, y hasta mails y telefonos de actores. Hackearon a Taringa, en Google un Dev con pocas luces distribuyó un memo en contra de sus pares mujeres, Microsoft y el Paint un solo corazon, Nerdearla, Sysarmy, EuroPython, de todo, ¡esperamos que les guste!
+
+== Mencionados en este episodio ==
+Caída de Las Toninas: https://goo.gl/rVXdPq
+Net Neutrality Day: https://goo.gl/22ntxN
+Caida New Relic: https://goo.gl/uuL52J
+Caída de HBO Go: https://goo.gl/pYYCLk
+HBO Leak de capítulos: https://goo.gl/ZQytxC
+Hackeo a HBO: https://goo.gl/H6oShb
+Hackeo Taringa: https://goo.gl/s2KMbD
+Memo interno de Google: https://goo.gl/cHeKj2
+Microsoft y Paint: https://goo.gl/ovNqLb
+Nerdear.la Online: https://www.youtube.com/user/nerdearla
+Sysarmy 5 años: https://www.youtube.com/watch?v=qc4o0...
+Europython: https://ep2017.europython.eu/en/
+OpenQube: http://openqube.io/
+Encuesta de Sueldos: https://t.co/87XZKWvIyl
+
+== Eventos y meetups ==
+Ekoparty: https://www.ekoparty.org
+Meetarmy 31/8 en Edrans: https://goo.gl/tCqBAc
+Hackathon devs4good: http://www.laburojoven.com/
+
+== Búsquedas laborales ==
+Conexión HR: https://goo.gl/Ujpc1q
+Medallia: https://goo.gl/GfKMUK
+Despegar: https://goo.gl/6ui6Wq
+sysarmy en LinkedIn: https://goo.gl/1QMlCv
+
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+
+==Conducen este episodio==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+
+==Producción==
+Regina Loustau: @Rhapsody_Girl
+
+==Invitados==
+Alfredo Ortega: @ortegaalfredo]]></description><pubDate>Wed, 30 Aug 2017 21:31:20 +0200</pubDate><itunes:duration>36:01</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/20609348</guid></item><item><title><![CDATA[Polémica en /var - S01E05 - Nerdeandola]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e05-nerdeandola-audios-mp3_rf_19928118_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e05-nerdeandola_mf_19928118_feed_1.mp3" type="audio/mpeg"  length="15116491"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+En este genial episodio repasamos lo que fueron los tres dias de Nerdearla 2017, cuales fueron nuestros momentos favoritos, y las actividades que se relizaron. Charlamos tambien sobre la expo internet que hubo en La Rural en donde nos dimos el gusto de hacer algunas entrevistas, y como siempre algunas novedades y noticias para charlar y discutir.
+
+== Mencionados en este episodio ==
+Area Tres y Google: http://www.lanacion.com.ar/2040699-un...
+Infografia encuesta Medallia: http://www.medallia.com.ar/voiceof/ne...
+StackOverflow a HTTS: https://nickcraver.com/blog/2017/05/2...
+Bug en SystemD: https://www.bleepingcomputer.com/news...
+Fondos para LemonPy: http://www.lanacion.com.ar/2040737-cu...
+OpenQube: http://openqube.io/
+Encuesta de Sueldos: https://t.co/87XZKWvIyl
+
+== Eventos y meetups ==
+AdminFest: https://goo.gl/8XdCo5
+Ekoparty: https://www.ekoparty.org
+
+== Búsquedas laborales ==
+Talent IT up: https://goo.gl/skUvhh
+Despegar: https://goo.gl/HqadKJ
+OLX: https://goo.gl/BaWy8l
+Medallia: https://goo.gl/b5fU8F
+sysarmy en LinkedIn: https://goo.gl/1QMlCv
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+Area Tres sitio web: https://goo.gl/a8fM8B
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+
+==Conducen este episodio==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+
+==Producción==
+Regina Loustau: @Rhapsody_Girl]]></description><pubDate>Fri, 21 Jul 2017 17:47:31 +0200</pubDate><itunes:duration>31:29</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/19928118</guid></item><item><title><![CDATA[Polémica en /var - S01E04 - Want to cry]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e04-want-to-audios-mp3_rf_18830001_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e04-want-to_mf_18830001_feed_1.mp3" type="audio/mpeg"  length="19422307"/><description><![CDATA[En este genial episodio hablamos de los eventos de abril y mayo como GeekOut Fest y Flisol, de la empresa ADA con Celeste Medina de invitada, que busca darle un empujón a las mujeres que se quieren dedicar al desarrollo web, de la DrupalCon, de la caída de WhatsApp y de WannaCry, el Ransomware que puso en pánico a medio mundo, con otro invitado especial: Federico Kirschbaum.
+
+== Mencionados en este episodio ==
+Ubuntu disponible en la Windows Store: http://www.muylinux.com/2017/05/12/ub...
+Canonical starts IPO path: http://www.zdnet.com/article/canonica...
+Caída de WhatsApp: http://www.redusers.com/noticias/mala...
+WannaCry: http://www.bbc.com/news/technology-39...
+ADA: http://www.ada.com.ar
+Programá tu futuro: http://www.buenosaires.gob.ar/educaci...
+
+== Eventos y meetups ==
+nerdear.la: https://nerdear.la
+Ekoparty: https://www.ekoparty.org
+
+== Búsquedas laborales ==
+Talent IT up: https://goo.gl/skUvhh
+OLX: https://goo.gl/BaWy8l
+Medallia: https://goo.gl/b5fU8F
+sysarmy en LinkedIn: https://goo.gl/1QMlCv
+
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+
+==Conducen este episodio==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+
+==Producción==
+Regina Loustau: @Rhapsody_Girl
+
+==Invitados==
+Celes Medina: @celes_medina
+Federico Kirschbaum: @fede_k]]></description><pubDate>Mon, 22 May 2017 20:12:55 +0200</pubDate><itunes:duration>40:27</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/18830001</guid></item><item><title><![CDATA[Polémica en /var - S01E03 - Fools in April]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e03-fools-in-audios-mp3_rf_18267470_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e03-fools-in_mf_18267470_feed_1.mp3" type="audio/mpeg"  length="14820144"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+Esta vez retomamos lo hablado en el episodio anterior sobre CloudBleed y GitLab, y charlamos sobre la caída similar que tuvo Digital Ocean, en otro orden de noticias una empresa acusó a su ex sysadmin, los chistes del April Fool's Day, un picadito de noticias y cobertura de eventos.
+
+
+== Mencionados en este episodio ==
+Incident report on CloudBleed: https://goo.gl/r1EW5C
+How is team-member-1 doing?: https://goo.gl/soHFnn
+Digital Ocean April 5th outage: https://goo.gl/M5fp2F
+Sysadmin 'trashed old bosses' Oracle database with ticking logic bomb': https://goo.gl/yKeXw7
+Google Wind: https://goo.gl/ENlfK4
+Stack Overflow Dance Dance Authentication: https://goo.gl/da2UiS
+PornHub April Fools': https://goo.gl/tUKWSC
+PornHub HTTPS: https://goo.gl/ZL5Qw9
+USA ISP data sharing: https://goo.gl/DYN4Ci
+Open a tab and make some noise: https://goo.gl/KMp7JV
+Android overtakes Windows: https://goo.gl/NmKV46
+Shutting down CodePlex: https://goo.gl/PFJHnC
+Canonical Shuts Door On Unity, Ubuntu Phone: https://goo.gl/1lGNOq
+Canonical, Jane Silber stepping down: https://goo.gl/455oa0
+
+
+== Eventos y meetups ==
+VII Encuentro nacional ArNog: https://goo.gl/EWBx4L
+#meetarmy: https://goo.gl/W9fi4l
+FLISOL CABA: https://goo.gl/34b6IY
+#AdminBirras: https://goo.gl/EqGCSx
+Geek Out Fest 3.0: https://goo.gl/uC2eX8
+CFP nerdear.la: https://goo.gl/SPNzlf
+
+
+== Búsquedas laborales ==
+Talent IT up: https://goo.gl/skUvhh
+MuleSoft: https://goo.gl/wK0qAk
+OLX: https://goo.gl/BaWy8l
+sysarmy en LinkedIn: https://goo.gl/1QMlCv
+
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+
+==Conducen este episodio==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987]]></description><pubDate>Fri, 21 Apr 2017 15:42:43 +0200</pubDate><itunes:duration>30:52</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/18267470</guid></item><item><title><![CDATA[Polémica en /var - S01E02 - Error humano]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e02-error-humano-audios-mp3_rf_17469020_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e02-error-humano_mf_17469020_feed_1.mp3" type="audio/mpeg"  length="15399436"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc. Esta vez charlamos sobre el traspié que está siendo este 2017 con la caída de Gitlab, la colisión en SHA1, Cloudbleed, y el outage de AWS S3.
+
+
+== Mencionados en este episodio ==
+GitLab.com Incident - 2017/01/31: https://goo.gl/qGRUja
+SHA1 function is now dead: https://goo.gl/7nFx2M
+the Impact of "Cloudbleed": https://goo.gl/zJ4EkT
+Amazon S3 Service Disruption: https://goo.gl/ojWeoo
+
+== Otros mencionados ==
+EkoSpace en Facebook: https://goo.gl/VOzYle
+EkoSpace en Twitter: https://goo.gl/umJHVp
+FLISOL CABA: https://goo.gl/34b6IY
+FLISOL LATAM: https://goo.gl/Z9sUyb
+Sin humo podcast: https://goo.gl/9mthTY
+
+== Meetups ==
+Meetup de sysarmy: https://goo.gl/mJDvzD
+Meetup de Datascience: https://goo.gl/yhqz3L
+
+== Búsquedas laborales ==
+Jampp - Full Stack Javascript Developer: https://goo.gl/HU75Mq
+Talent IT up - DevOps Engineer: https://goo.gl/skUvhh
+MuleSoft - DevOps Engineer (AWS + SaltStack): https://goo.gl/jo9gPT
+
+== Buscanos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy
+Pocketcast: pca.st/D3H0
+iTunes: goo.gl/Nrt22g]]></description><pubDate>Fri, 10 Mar 2017 14:53:49 +0100</pubDate><itunes:duration>32:04</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/17469020</guid></item><item><title><![CDATA[Polémica en /var - S01 - Especial Bloque Ubuntu Linux]]></title><link>http://ar.ivoox.com/es/polemica-var-s01-especial-bloque-audios-mp3_rf_17133922_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01-especial-bloque_mf_17133922_feed_1.mp3" type="audio/mpeg"  length="2984192"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+En este caso charlamos sobre Ubuntu, como le fue en el 2016, algunas noticias, y hasta sobre un Robot que corre sobre la distro de Canonical!
+
+== Búsquedas laborales ==
+Talent IT up https://goo.gl/7Y8OEj
+MuleSoft - DevOps (AWS + SaltStack) https://goo.gl/jo9gPT
+
+== Mencionados en el episodio ==
+Las mejores distribuciones GNU/Linux de 2016: http://www.muylinux.com/2016/12/30/me...
+Watch This Terrifying 13ft Robot Walk, Assisted by Ubuntu: http://www.omgubuntu.co.uk/2017/01/me...
+
+== Buscanos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy]]></description><pubDate>Tue, 21 Feb 2017 17:05:49 +0100</pubDate><itunes:duration>06:12</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/17133922</guid></item><item><title><![CDATA[Polémica en /var - S01E01]]></title><link>http://ar.ivoox.com/es/polemica-var-s01e01-audios-mp3_rf_17133277_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s01e01_mf_17133277_feed_1.mp3" type="audio/mpeg"  length="14333431"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+== Mencionados en este episodio ==
+CloudFlare y el leap second: https://goo.gl/SbgtN2
+#oncallselfie: https://goo.gl/6cMQay
+Encuesta de sueldos: https://goo.gl/5rpHPH
+Startup simulator: https://goo.gl/IoBXQ5
+Our security auditor is an idiot: https://goo.gl/5BaCSW
+Bug en PHPMailer: https://goo.gl/rdqOpW
+Steam y drivers open source: https://goo.gl/oW2f2Y
+Linux en autos: https://goo.gl/xYp7dj
+Nueva interfaz en LibreOffice 5.3: https://goo.gl/MxjJHj
+seebotschat: https://goo.gl/5hDzs2
+RIP in 2016: https://goo.gl/x1h5bg
+#damesudo: https://goo.gl/R6ko0J
+
+== Búsquedas laborales ==
+Talent IT up https://goo.gl/7Y8OEj
+MuleSoft - DevOps (AWS + SaltStack) https://goo.gl/jo9gPT
+
+== AdminBirras ==
+19/1 https://meetup.com/sysarmy
+
+== Buscanos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy]]></description><pubDate>Tue, 21 Feb 2017 16:46:15 +0100</pubDate><itunes:duration>29:51</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/17133277</guid></item><item><title><![CDATA[Polémica en /var - s00e01]]></title><link>http://ar.ivoox.com/es/polemica-var-s00e01-audios-mp3_rf_17130177_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s00e01_mf_17130177_feed_1.mp3" type="audio/mpeg"  length="11938525"/><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+
+Ayudanos a mejorar Polémica en /var y ganá premios ! https://goo.gl/yXVufv
+
+Episodio anterior: https://www.youtube.com/watch?v=UO9ai...
+
+Búsquedas laborales mencionadas en este episodio:
+
+Talent IT up https://goo.gl/7Y8OEj
+MuleSoft - DevOps (AWS + SaltStack) https://goo.gl/jo9gPT
+Core Security - Linux + Hadoop https://goo.gl/oU3OW2
+DataArt - DevOps + Cfg management https://goo.gl/gB5bZY
+
+Mencionados en este episodio:
+Magic Leap demo hoax: https://www.youtube.com/watch?v=kPMHc...
+Google Home / Amazon Alexa loop: https://www.youtube.com/watch?v=ZfCfT...
+Canal de DevDayAr: https://www.youtube.com/channel/UCANZ...
+
+== Lanzamientos de Juegos para Linux mencionados ==
+Total War Warhammer: http://store.steampowered.com/app/364...
+The Dwarves: http://store.steampowered.com/app/403...
+
+== AdminBirras ==
+29/12 https://meetup.com/sysarmy
+
+Buscanos en:
+Web: http://sysar.my/
+Twitter: @sysarmy
+Facebook: Elección Root
+IRC en Freenode: #sysarmy]]></description><pubDate>Tue, 21 Feb 2017 15:27:47 +0100</pubDate><itunes:duration>24:52</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/17130177</guid></item></channel></rss>
