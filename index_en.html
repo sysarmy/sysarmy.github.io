@@ -1,83 +1,135 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>sysarmy - El soporte de los que dan soporte</title>
+  <link rel="shortcut icon" href="favicon.png" />
+  <meta name='description' content='sysarmy - Comunidad argentina de administradores de sistemas.' />
+  <!--[if IE 6]>
+    <html id="ie6" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
+  <!--[if IE 7]>
+    <html id="ie7" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
+  <!--[if IE 8]>
+    <html id="ie8" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
 
 
-<HTML><HEAD><TITLE>sysarmy - Support for those who give support</TITLE>
-		<link rel="shortcut icon" href="favicon.png" />
-		<meta name='keywords' content='sysadmin, systems administrator, linux, unix, solaris, freebsd, openbsd, aix, hp-ux, system administrator' />
-		<meta name='description' content='sysarmy - Argentine Systems Community.' />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-		<!--[if IE 6]>n
-		<html id="ie6" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-		<![endif]-->
-		<!--[if IE 7]>
-		<html id="ie7" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-		<![endif]-->
-		<!--[if IE 8]>
-		<html id="ie8" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-		<![endif]-->
-		
-		
-		<meta charset="UTF-8" />
-		<meta property="fb:admins" content="ajolo" />
-		<meta property="og:description" content="Manpage for the Argentine Systems Community." />
-		<meta property="og:image" content="http://www.sysarmy.com.ar/images/logo.png" />
-		<meta property="og:site_name" content="sysarmy" />
-		<meta property="og:title" content="sysarmy - Support for those who give support" />
-		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://www.sysarmy.com.ar" />
-		<link rel="stylesheet" type="text/css" href="styles.css" />
-		
-		<meta name="twitter:card" content="summary_large_image">
-                <meta name="twitter:site" content="@sysarmy">
-                <meta name="twitter:creator" content="@sysarmy">
-                <meta name="twitter:title" content="sysarmy">
-                <meta name="twitter:description" content="sysarmy is the Argentine Systems Community, who brings together all IT professionals for knowledge exchange and fun. /j us ! ##sysarmy-en @ freenode">
-                <meta name="twitter:image:src" content="http://sysarmy.com.ar/ctrlc.jpg">
+  <meta charset="UTF-8" />
+  <meta property="fb:admins" content="ajolo" />
+  <meta property="og:description" content="Comunidad Argentina de Administradores de Sistemas." />
+  <meta property="og:image" content="http://www.sysarmy.com.ar/images/logo.png" />
+  <meta property="og:site_name" content="sysarmy" />
+  <meta property="og:title" content="sysarmy - El soporte de los que dan soporte" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.sysarmy.com.ar" />
+  <link rel="stylesheet" type="text/css" href="/styles.css" />
 
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36359098-1']);
+    _gaq.push(['_trackPageview']);
 
-</HEAD><BODY>
-<script type="text/javascript">
+    (function () {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    document.addEventListener('touchstart', onTouchStart, { passive: true });
+  </script>
+</head>
 
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-36359098-1']);
-		_gaq.push(['_trackPageview']);
+<body>
 
-		(function() {
-		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-</script>
-<H2>NAME</H2>
-<code>sysarmy - <b>Support for those who give support.</b></code>
-<H2>SYNOPSIS</H2>
-<code>sysarmy --lang=[<a href="/?es">es</a>|<a href="/?en">en</a>] [options]</code>
-<H2>DESCRIPTION</H2>
-<code>sysarmy is the Argentine Systems Community, who brings together all IT professionals for knowledge exchange and fun.</code>
-<H2>OPTIONS</H2>
-<code><a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank">--irc</a><BR></code>
-<blockquote>Our IRC channel is where we gather every day, at any hour. No matter if it is for technical questions or just for fun: <a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank"><strong>#sysarmy</strong> at <strong>freenode.net</strong></a><BR></blockquote>
-<code><a href="http://sysarmy.com.ar/help" target="_blank">--help</a><BR></code>
-<blockquote>Technical Q&A site where users also get points for each interaction.<BR></blockquote>
-<code><a href="http://www.sysarmy.com.ar/blog" target="_blank">--blog</a><BR></code>
-<blockquote>In our <a href="http://www.sysarmy.com.ar/blog" target="_blank">blog</a> we publish news and articles, related to our community and IT in general.<BR></blockquote>
-<code><a href="http://www.facebook.com/nerdearla" target="_blank">--facebook</a><BR></code>
-<blockquote>You can like our <a href="https://www.facebook.com/nerdearla" target="_blank">Facebook page</a> and get news, how-to's, articles and funny posts.<BR></blockquote>
-<code><a href="http://twitter.com/sysarmy" target="_blank">--twitter</a><BR></code>
-<blockquote>You can also follow us on <a href="https://twitter.com/sysarmy" target="_blank">@sysarmy</a>.<BR></blockquote>
-<code><a href="http://www.linkedin.com/groups?gid=4736196" taget="_blank">--linkedin</a></code>
-<blockquote>In this <a href="http://www.linkedin.com/groups?gid=4736196" taget="_blank">group</a> you will find job postings.</blockquote>
-<code><a href="http://www.meetup.com/sysarmy/" target="_blank">--meetup</a><BR></code>
-<blockquote>We organize our events and meetups using <a href="http://www.meetup.com/sysarmy/" target="_blank">meetup.com</a>.<BR></blockquote>
-<code><a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank">--mailinglist</a><BR></code>
-<blockquote>In our <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank">mailing list</a> you can find technical questions and announcements.<BR></blockquote>
-<code><B>--adminbeers</B><BR></code>
-<blockquote>We get together once a month at <a href="https://www.instagram.com/genkbeerhouse/" target="_blank">Genk Beer House</a>. Check with us in IRC or any of the previous links for the schedule.<BR></blockquote>
-<H2>BUGS</H2>
-<code>It's not a good idea to attend AdminBeers while being on-call. Don't drink and type.</code>
-<H2>AUTHOR</H2>
-<code><A HREF="mailto:root@sysarmy.com.ar">root@sysarmy.com.ar</A></code>
-<HR>
-</BODY>
-</HTML>
+  <h1>sysarmy</h1>
+
+  <section>
+    <h2>NAME</h2>
+    <p>sysarmy - El soporte de los que dan soporte.</p>
+  </section>
+
+  <section>
+    <h2>SYNOPSIS</h2>
+    <p>sysarmy [options]</p>
+  </section>
+
+  <section>
+    <h2>DESCRIPTION</h2>
+    <p>sysarmy es la comunidad Argentina de sistemas, que nuclea a todos los profesionales del &aacute;rea para
+      favorecer el contacto y el intercambio de conocimiento de manera informal.</p>
+  </section>
+
+  <section>
+    <h2>OPTIONS</h2>
+
+    <ul>
+      <li>
+        <a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank" rel="noreferrer">--irc</a>
+        <p>Our IRC channel is where we gather every day, at any hour. No matter if it is for technical questions or
+          just for fun: <a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank"
+            rel="noreferrer"><b>#sysarmy</b> at
+            <b>freenode.net</b></a></p>
+      </li>
+      <li>
+        <a href="http://sysarmy.com.ar/help" target="_blank" rel="noreferrer">--help</a>
+        <p>Technical Q&A site where users also get points for each interaction.</p>
+      </li>
+      <li>
+        <a href="http://www.sysarmy.com.ar/blog" target="_blank" rel="noreferrer">--blog</a>
+        <p>In our <a href="http://www.sysarmy.com.ar/blog" target="_blank" rel="noreferrer">blog</a> we publish news and
+          articles,
+          related to our community and IT in general.</p>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/adminfest" target="_blank" rel="noreferrer">--facebook</a>
+        <p>You can like our <a href="https://www.facebook.com/nerdearla" target="_blank">Facebook page</a> and get
+          news, how-to's, articles and funny posts.</p>
+      </li>
+      <li>
+        <a href="https://twitter.com/sysarmy" target="_blank" rel="noreferrer">--twitter</a>
+        <p>You can also follow us on <a href="https://twitter.com/sysarmy" target="_blank"
+            rel="noreferrer">@sysarmy</a>.</p>
+      </li>
+      <li>
+        <a href="http://www.linkedin.com/groups?gid=4736196" target="_blank" rel="noreferrer">--linkedin</a>
+        <p>In this <a href="http://www.linkedin.com/groups?gid=4736196" taget="_blank" rel="noreferrer">group</a> you
+          will find job postings.</p>
+      </li>
+      <li>
+        <a href="https://plus.google.com/103305001192885391568" target="_blank" rel="noreferrer">--googleplus</a>
+        <p>We organize our events and meetups using <a href="http://www.meetup.com/sysarmy/"
+            target="_blank">meetup.com</a>.</p>
+      </li>
+      <li>
+        <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank"
+          rel="noreferrer">--mailinglist</a>
+        <p>En la <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank"
+            rel="noreferrer">mailing list</a> you can find technical questions and announcements.</p>
+      </li>
+      <li>
+        <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank"
+          rel="noreferrer">--adminbirras</a>
+        <p>We get together once a month at <a href="https://www.instagram.com/genkbeerhouse/" target="_blank"
+            rel="noreferrer">Genk Beer House</a>. Check with us in IRC or any of the previous links for the schedule.
+        </p>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>BUGS</h2>
+    <p>It's not a good idea to attend AdminBeers while being on-call. Don't drink and type.</p>
+  </section>
+
+  <section>
+    <h2>AUTHOR</h2>
+    <p><a href="mailto:root@sysarmy.com.ar">root@sysarmy.com.ar</a>.</p>
+  </section>
+
+</body>
+
+</html>
