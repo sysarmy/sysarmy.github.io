@@ -1,82 +1,138 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>sysarmy - El soporte de los que dan soporte</title>
+  <link rel="shortcut icon" href="favicon.png" />
+  <meta name='keywords'
+    content='sysadmin, administrador de sistemas, linux, unix, solaris, freebsd, openbsd, aix, hp-ux, system administrator' />
+  <meta name='description' content='sysarmy - Comunidad argentina de administradores de sistemas.' />
+  <!--[if IE 6]>
+    <html id="ie6" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
+  <!--[if IE 7]>
+    <html id="ie7" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
+  <!--[if IE 8]>
+    <html id="ie8" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
 
 
-<HTML><HEAD><TITLE>sysarmy - El soporte de quienes dan soporte</TITLE>
-		<link rel="shortcut icon" href="favicon.png" />
-		<meta name='keywords' content='sysadmin, administrador de sistemas, linux, unix, solaris, freebsd, openbsd, aix, hp-ux, system administrator' />
-		<meta name='description' content='sysarmy - Comunidad argentina de sistemas.' />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-		<!--[if IE 6]>
-		<html id="ie6" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-		<![endif]-->
-		<!--[if IE 7]>
-		<html id="ie7" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-		<![endif]-->
-		<!--[if IE 8]>
-		<html id="ie8" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-		<![endif]-->
-		
-		
-		<meta charset="UTF-8" />
-		<meta property="fb:admins" content="ajolo" />
-		<meta property="og:description" content="Manpage de la Comunidad Argentina de Administradores de Sistemas." />
-		<meta property="og:image" content="http://www.sysarmy.com.ar/images/logo.png" />
-		<meta property="og:site_name" content="sysarmy" />
-		<meta property="og:title" content="sysarmy - El soporte de quienes dan soporte" />
-		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://www.sysarmy.com.ar" />
-		<link rel="stylesheet" type="text/css" href="styles.css" />
-		
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@sysarmy">
-		<meta name="twitter:creator" content="@sysarmy">
-		<meta name="twitter:title" content="sysarmy">
-		<meta name="twitter:description" content="sysarmy es la Comunidad Argentina de Sistemas, con el objetivo de nuclear a profesionales del sector y de &aacute;reas afines para favorecer el contacto y el intercambio de conocimiento de manera informal.">
-		<meta name="twitter:image:src" content="http://sysarmy.com.ar/ctrlc.jpg">
+  <meta charset="UTF-8" />
+  <meta property="fb:admins" content="ajolo" />
+  <meta property="og:description" content="Manpage de la Comunidad Argentina de Administradores de Sistemas." />
+  <meta property="og:image" content="http://www.sysarmy.com.ar/images/logo.png" />
+  <meta property="og:site_name" content="sysarmy" />
+  <meta property="og:title" content="sysarmy - El soporte de los que dan soporte" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.sysarmy.com.ar" />
+  <link rel="stylesheet" type="text/css" href="/styles.css" />
 
-</HEAD><BODY style="padding:0 10px 0 10px;">
-<script type="text/javascript">
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36359098-1']);
+    _gaq.push(['_trackPageview']);
 
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-36359098-1']);
-		_gaq.push(['_trackPageview']);
+    (function () {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    document.addEventListener('touchstart', onTouchStart, { passive: true });
+  </script>
+</head>
 
-		(function() {
-		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-</script>
-<H2>NAME</H2>
-<code>sysarmy - <b>El soporte de quienes dan soporte.</b></code>
-<H2>SYNOPSIS</H2>
-<code>sysarmy --lang=[<a href="/?es">es</a>|<a href="/?en">en</a>] [options]</code>
-<H2>DESCRIPTION</H2>
-<code>Es la Comunidad Argentina de Sistemas, con el objetivo de nuclear a profesionales del sector para favorecer el contacto y el intercambio de conocimiento.</code>
-<H2>OPTIONS</H2>
-<code><a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank">--irc</a><BR></code>
-<blockquote>Es donde nos encontramos todos los d&iacute;as, a toda hora para pasar el rato y compartir las frustraciones del trabajo: <a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank"><strong>#sysarmy</strong> en <strong>freenode.net</strong></a><BR></blockquote>
-<code><a href="http://sysarmy.com.ar/help" target="_blank">--help</a><BR></code>
-<blockquote>Preguntas y respuestas t&eacute;cnicas, donde adem&aacute;s gan&aacute;s puntos por cada interacci&oacute;n.<BR></blockquote>
-<code><a href="http://www.sysarmy.com.ar/blog" target="_blank">--blog</a><BR></code>
-<blockquote>En nuestro <a href="http://www.sysarmy.com.ar/blog" target="_blank">blog</a> publicamos las noticias de la comunidad y art&iacute;culos relacionados con el ecosistema IT.<BR></blockquote>
-<code><a href="http://www.facebook.com/nerdearla" target="_blank">--facebook</a><BR></code>
-<blockquote>Pueden hacerse fans de <a href="https://www.facebook.com/nerdearla" target="_blank">sysarmy en Facebook</a> y estar al tanto de novedades, art&iacute;culos, how-to's y humor.<BR></blockquote>
-<code><a href="http://twitter.com/sysarmy" target="_blank">--twitter</a><BR></code>
-<blockquote>Y tambi&eacute;n compartimos informaci&oacute;n en <a href="https://twitter.com/sysarmy" target="_blank">@sysarmy</a>.<BR></blockquote>
-<code><a href="http://www.linkedin.com/groups?gid=4736196" taget="_blank">--linkedin</a><BR></code>
-<blockquote>En este <a href="http://www.linkedin.com/groups?gid=4736196" taget="_blank">grupo</a> publicamos b&uacute;squedas y propuestas laborales.<BR></blockquote>
-<code><a href="http://www.meetup.com/sysarmy/" target="_blank">--meetup</a><BR></code>
-<blockquote>A trav&eacute;s de <a href="http://www.meetup.com/sysarmy/" target="_blank">meetup.com</a> organizamos los eventos y juntadas.<BR></blockquote>
-<code><a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank">--mailinglist</a><BR></code>
-<blockquote>En la <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank">lista de correo</a> se hacen algunas consultas t&eacute;cnicas y anuncios espor&aacute;dicos.<BR></blockquote>
-<code><B>--adminbirras</B><BR></code>
-<blockquote>Nos juntamos una vez por mes en <a href="https://www.instagram.com/genkbeerhouse/" target="_blank">Genk Beer House</a>. Para saber cu&aacute;ndo es la pr&oacute;xima reuni&oacute;n, pod&eacute;s preguntar en IRC o ver alguno de los links anteriores.<BR></blockquote>
-<H2>BUGS</H2>
-<code>No es recomendable asistir a las AdminBirras estando de guardia.</code>
-<H2>AUTHOR</H2>
-<code><A HREF="mailto:root@sysarmy.com.ar">root@sysarmy.com.ar</A></code>
-<HR>
-</BODY>
-</HTML>
+<body>
+
+  <h1>sysarmy</h1>
+
+  <section>
+    <h2>NAME</h2>
+    <p>sysarmy - El soporte de los que dan soporte.</p>
+  </section>
+
+  <section>
+    <h2>SYNOPSIS</h2>
+    <p>sysarmy [options]</p>
+  </section>
+
+  <section>
+    <h2>DESCRIPTION</h2>
+    <p>sysarmy es la comunidad Argentina de sistemas, que nuclea a todos los profesionales del &aacute;rea para
+      favorecer el contacto y el intercambio de conocimiento de manera informal.</p>
+  </section>
+
+  <section>
+    <h2>OPTIONS</h2>
+
+    <ul>
+      <li>
+        <a href="http://webchat.freenode.net/?channels=#sysarmy" target="_blank" rel="noreferrer">--irc</a>
+        <p>IRC es donde nos encontramos todos los d&iacute;as, a toda hora. Ya sea para hacer alguna consulta
+          t&eacute;cnica o simplemente para pasar el rato y compartir con otros admins</p>
+        <p>las frustraciones del trabajo: <b>#sysarmy</b> en <a href="http://webchat.freenode.net/?channels=#sysarmy"
+            target="_blank" rel="noreferrer">freenode.net</a></p>
+      </li>
+      <li>
+        <a href="http://planet.sysarmy.com.ar" target="_blank" rel="noreferrer">--planet</a>
+        <p>El <a href="http://planet.sysarmy.com.ar" target="_blank" rel="noreferrer">planet</a> es el agregador de
+          blogs de los miembros
+          de la comunidad.</p>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/adminfest" target="_blank" rel="noreferrer">--facebook</a>
+        <p>Pueden hacerse fans de <a href="https://www.facebook.com/adminfest" target="_blank" rel="noreferrer">sysarmy
+            en Facebook</a> y
+          estar al tanto de novedades, art&iacute;culos, how-to's y humor.</p>
+      </li>
+      <li>
+        <a href="https://twitter.com/sysarmy" target="_blank" rel="noreferrer">--twitter</a>
+        <p>Para aquellos que no tengan Facebook, tambi&eacute;n compartimos informaci&oacute;n en <a
+            href="https://twitter.com/sysarmy" target="_blank" rel="noreferrer">@sysarmy</a>.</p>
+      </li>
+      <li>
+        <a href="http://www.linkedin.com/groups?gid=4736196" target="_blank" rel="noreferrer">--linkedin</a>
+        <p>En este <a href="http://www.linkedin.com/groups?gid=4736196" taget="_blank">grupo</a> publicamos
+          b&uacute;squedas y propuestas laborales.</p>
+      </li>
+      <li>
+        <a href="https://plus.google.com/103305001192885391568" target="_blank" rel="noreferrer">--googleplus</a>
+        <p><a href="https://plus.google.com/103305001192885391568" rel="publisher" target="_blank"
+            rel="noreferrer">+sysarmy</a> es donde
+          organizamos los eventos para las juntadas.</p>
+      </li>
+      <li>
+        <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank"
+          rel="noreferrer">--mailinglist</a>
+        <p>En la <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank"
+            rel="noreferrer">lista de
+            correo</a> se hacen algunas consultas t&eacute;cnicas y anuncios espor&aacute;dicos.</p>
+      </li>
+      <li>
+        <a href="http://listas.usla.org.ar/cgi-bin/mailman/listinfo/sysarmy" target="_blank"
+          rel="noreferrer">--adminbirras</a>
+        <p>Nos juntamos cada dos jueves, en <a
+            href="https://www.google.com.ar/maps/place/Bellagamba/@-34.592519,-58.431984,15z/data=!4m2!3m1!1s0x0:0x59f716d5e6ff5e6"
+            target="_blank" rel="noreferrer">Bellagamba de Palermo</a>; para saber cu&aacute;ndo es la pr&oacute;xima
+          reuni&oacute;n,
+          pueden preguntar en IRC o en alguno de los links anteriores.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>BUGS</h2>
+    <p>No es recomendable estar de guardia mientras se asiste a las adminbirras. Si tom&oacute;, no maneje consolas.</p>
+  </section>
+
+  <section>
+    <h2>AUTHOR</h2>
+    <p><a href="mailto:root@sysarmy.com.ar">root@sysarmy.com.ar</a>.</p>
+  </section>
+
+</body>
+
+</html>
