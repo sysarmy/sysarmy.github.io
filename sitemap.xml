@@ -16,14 +16,10 @@
   <loc>http://sysarmy.com.ar/?en</loc>
 </url>
 <url>
+  <loc>http://sysarmy.com.ar/sudo/</loc>
+</url>
+<url>
   <loc>http://sysarmy.com.ar/help/</loc>
-</url>
-<url>
-  <loc>http://sysarmy.com.ar/chownealo/</loc>
-</url>
-<url>
-  <loc>http://sysarmy.com.ar/planet/</loc>
-  <lastmod>2017-08-12T22:40:13+00:00</lastmod>
 </url>
 <url>
   <loc>http://sysarmy.com.ar/help/?qa=ask</loc>
@@ -226,9 +222,6 @@
 </url>
 <url>
   <loc>http://sysarmy.com.ar/help/?qa=tag/aws</loc>
-</url>
-<url>
-  <loc>http://sysarmy.com.ar/help/?qa=tag/-</loc>
 </url>
 <url>
   <loc>http://sysarmy.com.ar/help/?qa=tag/debian</loc>
