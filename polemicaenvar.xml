@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><itunes:author><![CDATA[sysarmy]]></itunes:author><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
 
 Buscanos en:
@@ -5,6 +6,142 @@ Web: http://sysar.my/
 Twitter: @sysarmy
 Facebook: Elección Root
 IRC en Freenode: #sysarmy]]></description><language>es-ES</language><generator>iVoox</generator><image><url>http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
+<item><title><![CDATA[Polémica en /var - S03M01 - #EnDondeMeMetí]]></title><link>https://www.ivoox.com/polemica-var-s03m01-endondememeti-audios-mp3_rf_34193306_1.html</link><enclosure url="http://www.ivoox.com/polemica-var-s03m01-endondememeti_mf_34193306_feed_1.mp3" type="audio/mpeg"  length="9672339"/><description><![CDATA[Llegó la Mesa de Polémica en /var, ese lugar en el que nos sentamos a discutir diversos temas relacionados con el mundo de sistemas con invitados especiales. En esta ocación nos visita Guido Vilariño, en una mesa conducida por Eduardo Casarero, para dialogar sobre OnBoarding. Desde qué es el Onboarding, recomendaciones, teoria, y discusiones sobre situaciones personales bajo el hashtag: #EnDondeMeMetí
+
+== Pedí tus remeras y merchandising de sysarmy ==
+remeras[at]sysarmy.com.ar
+
+== Búsquedas laborales ==
+Medallia:
+Software Engineer - backend: http://bit.ly/2CzlsWI
+
+Mulesoft:
+Devops Engineer (AWS, Saltstack, Scripting): http://bit.ly/2WmZuO1
+
+Elementum:
+DevOps Engineers (Terraform, Linux, AWS, Docker): http://bit.ly/2Fzbt5z
+
+Avature:
+Developers (mobile - PHP - Java): http://bit.ly/2HTeJKz
+
+OLX:
+Sr. DevOps Engineer (Cloud, Orchestration, Docker, Kubernetes): http://bit.ly/2Fzcz1q
+
+Percona:
+Kubernetes Engineer, Senior Mysql DBA: http://bit.ly/2FAMxL6
+
+== Organizaciones amigas ==
+Museo de Informática: http://museodeinformatica.org.ar/
+Museo de Informática en Facebook: https://goo.gl/TaASu3
+
+== Conduce esta Mesa ==
+Eduardo Casarero: @jedux
+
+== Invitado especial ==
+Guido Vilariño: @gvilarino
+
+== Panelistas en esta Mesa ==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+Regina Loustau: @Rhapsody_Girl
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+Youtube: https://youtube.com/c/SysarmyAr
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+iTunes: https://goo.gl/Nrt22g
+Spotify: http://bit.ly/polemicaenvar]]></description><pubDate>Mon, 08 Apr 2019 16:20:53 +0200</pubDate><itunes:duration>20:09</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/34193306</guid></item>
+<item>
+<title>
+<![CDATA[ Polémica en /var - S03E01 ]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s03e01-audios-mp3_rf_33731301_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s03e01_mf_33731301_feed_1.mp3" type="audio/mpeg" length="14384411"/>
+<description>
+<![CDATA[
+Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+ 
+ == Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ Medallia:
+ Software Engineer - backend: http://bit.ly/2CzlsWI
+ 
+ Mulesoft:
+ Devops Engineer (AWS, Saltstack, Scripting): http://bit.ly/2WmZuO1
+ 
+ Elementum:
+ DevOps Engineers (Terraform, Linux, AWS, Docker): http://bit.ly/2Fzbt5z
+ 
+ Avature:
+ Developers (mobile - PHP - Java): http://bit.ly/2HTeJKz
+ 
+ OLX:
+ Sr. DevOps Engineer (Cloud, Orchestration, Docker, Kubernetes): http://bit.ly/2Fzcz1q
+ 
+ Percona:
+ Kubernetes Engineer, Senior Mysql DBA: http://bit.ly/2FAMxL6
+ 
+ == En este episodio ==
+ Charlamos de las noticias de los últimos meses porque pasó de todo. Descubrimos que Winrar no solo tiene 500 millones de usuarios activos, sino que ademas tiene un bug hace 19 años. Siguen apareciendo vulnerabilidades en los procesadores Intel, mientras tanto MySpace elimina "Sin Querer" millones de canciones en una migración "no exitosa". Spotify Vs Apple por el negocio de la música en streaming, F5 compra Nginx y muchisimas cosas más en este episodio que marca la vuelta de Polemica en /var.
+ 
+ == Mencionados en este episodio ==
+ Bug de 19 años en winrar: https://amp.thehackernews.com/thn/2019/02/winrar-malware-exploit.html?__twitter_impression=true
+ Otra falla de Intel: SPOILER: https://www.theregister.co.uk/AMP/2019/03/05/spoiler_intel_processor_flaw/
+ Security vulnerability has been disclosed for a flaw in RUNC: https://www.zdnet.com/article/doomsday-docker-security-hole-uncovered/
+ MySpace pierde 50millones de canciones: https://twitter.com/waxpancake/status/1107442118643994624?s=19
+ Internet archive va a guardar los posts de Google+: https://m.slashdot.org/story/353396
+ Microsoft borra data de sql servers en azure: https://www.theregister.co.uk/AMP/2019/01/30/azure_sql_delete/?__twitter_impression=true
+ Update frena autos una hora: https://www.xataka.com/vehiculos/coche-electrico-nio-se-queda-parado-hora-pleno-atasco-actualizacion-software
+ 737max crashes not because of software: https://twitter.com/trevorsumner/status/1106934362531155974?s=19
+ Spotify vs Apple: https://www.timetoplayfair.com/timeline/
+ F5 compra nginx: https://m.slashdot.org/story/353372
+ Nadie se presenta para las elecciones anuales de leader de Debian: https://m.slashdot.org/story/353376
+ 
+ == Eventos y meetups ==
+ Percona University (25/4 en Área 3, registro abierto):
+ PERCONA MONITORING AND MANAGEMENT 101
+ Performance Review
+ Percona Toolkit
+ Keynote PZ: opensource databases one for each workload.
+ Encuesta de sueldos y openqube
+ 
+ Museo de lnformatica de Buenos Aires: Abrió la nueva muestra R/Evolución.
+ 
+ == Organizaciones amigas ==
+ Museo de Informática: http://museodeinformatica.org.ar/
+ Museo de Informática en Facebook: https://goo.gl/TaASu3
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Youtube: youtube.com/c/SysarmyAr
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ iTunes: https://goo.gl/Nrt22g
+ Spotify: https://open.spotify.com/show/4aSX6qC...
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ Regina Loustau: @Rhapsody_Girl
+ Eduardo Casarero: @jedux
+]]>
+</description>
+<pubDate>Tue, 26 Mar 2019 16:03:32 +0100</pubDate>
+<itunes:duration>29:58</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/33731301</guid>
+</item>
 <item><title><![CDATA[#EntrevistaTécnica - Jon &quot;Maddog&quot; Hall por Florencia Pulla]]></title><link>http://ar.ivoox.com/es/entrevistatecnica-jon-maddog-hall-florencia-pulla-audios-mp3_rf_31028861_1.html</link><enclosure url="http://ar.ivoox.com/es/entrevistatecnica-jon-maddog-hall-florencia-pulla_mf_31028861_feed_1.mp3" type="audio/mpeg"  length="42960907"/><description><![CDATA[#EntrevistaTécnica es el programa de sysarmy en donde rendimos tributo a distintas personalidades de nuestra industria, recorriendo su vida profesional para conocer su carrera y cómo llegaron a ser lo que son hoy.
 
 
@@ -1030,3 +1167,4 @@ Web: http://sysar.my/
 Twitter: @sysarmy
 Facebook: Elección Root
 IRC en Freenode: #sysarmy]]></description><pubDate>Tue, 21 Feb 2017 15:27:47 +0100</pubDate><itunes:duration>24:52</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/17130177</guid></item></channel></rss>
+
