@@ -57,7 +57,7 @@
 <script type="text/javascript">
   var userLang = navigator.language || navigator.userLanguage; 
   if (userLang == 'es') {
-    window.location.href = ('./es');
+    window.location.href = ('https:' + window.location.href.substring(window.location.protocol.length) + '/es');
   }else{
     window.location.href = ('./en');
   }
