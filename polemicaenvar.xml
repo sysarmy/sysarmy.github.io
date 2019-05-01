@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><itunes:author><![CDATA[sysarmy]]></itunes:author><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link><description><![CDATA[Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
 
 Buscanos en:
@@ -6,6 +5,73 @@ Web: http://sysar.my/
 Twitter: @sysarmy
 Facebook: Elección Root
 IRC en Freenode: #sysarmy]]></description><language>es-ES</language><generator>iVoox</generator><image><url>http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
+<item><title><![CDATA[Polémica en /var - S03E02]]></title><link>https://www.ivoox.com/polemica-var-s03e02-audios-mp3_rf_35085125_1.html</link><enclosure url="http://www.ivoox.com/polemica-var-s03e02_mf_35085125_feed_1.mp3" type="audio/mpeg"  length="17488385"/><description><![CDATA[== Pedí tus remeras y merchandising de sysarmy ==
+remeras[at]sysarmy.com.ar
+
+== Búsquedas laborales ==
+Medallia - Software Engineer - backend: http://bit.ly/2CzlsWI 
+Mulesoft - Devops Engineer (AWS, Saltstack, Scripting): http://bit.ly/2WmZuO1
+Elementum - DevOps Engineers (Terraform, Linux, AWS, Docker): http://bit.ly/2Fzbt5z
+OLX - DevOps para Properati (AWS o Google Cloud Provider, Kubernetes): http://bit.ly/2IFOFDh 
+Avature - Developers (mobile - PHP - Java): http://bit.ly/2HTeJKz
+
+== En este episodio ==
+Muchas noticias interesantes sucedieron en estas ultimas semanas, algunas con una gran impronta espacial como el primer lanzamiento comercial del Falcon Heavy, el alunizaje duro de Beresheet, y hasta la primer imagen de la historia de un agujero negro. Más noticias sobre las canciones borradas de MySpace, la detención de Assange, HBO Go no anduvo de nuevo durante Game of Thrones y hasta hackeos a autos modernos. Un episodio lleno de contenido.
+
+== Mencionados en este episodio ==
+Primera Imágen del agujero negro: https://www.bbc.com/mundo/noticias-47880446
+
+SpaceX Falcon Heavy - Triple Landing: https://spaceflightnow.com/2019/04/11/spacexs-falcon-heavy-successful-in-commercial-debut/
+
+Beresheet: https://thesiliconreview.com/2019/4/beresheet-moon-landing-probe-failed/
+Pager Duty goes public: https://techcrunch.com/2019/04/11/ceo-jennifer-tejada-just-took-pagerduty-public-we-talked-just-now-about-the-roadshow-this-morning-and-what-comes-next/
+Assange detenido : https://cnnespanol.cnn.com/2019/04/11/julian-assange-es-detenido-en-la-embajada-de-ecuador-en-londres/
+https://www.theguardian.com/media/2019/apr/11/julian-assange-charged-with-computer-hacking-conspiracy
+
+
+Encuesta de Stack Overflow : https://www.xataka.com/aplicaciones/programadores-aman-rust-quieren-aprender-python-ganan-dinero-clojure-muchos-escuchan-heavy-metal/amp
+Resultados encuesta de Burnout : https://sysarmy.wordpress.com/2019/04/04/encuesta-de-burnout/
+Acoso sexual en Microsoft : https://www.theverge.com/2019/4/4/18295647/microsoft-workers-sexual-harassment-stories-internal-email-chain
+Internet Archive había guardado archivos de MySpace : https://slashdot.org/story/354172
+TicTocTrack Smartwatch Flaws Can Be Abused to Track Kids : https://threatpost.com/tictoctrack-smartwatch-flaws-track-kids/143791/
+TicTioctrack una empresa de smartwatchsno 
+GMail cumple 15 años / Killed by Google : https://killedbygoogle.com/
+
+'Game of Thrones' glitch: Some reported streaming issues while others got premiere early:
+https://www.usatoday.com/story/tech/2019/04/15/game-thrones-premiere-glitches-hit-hulu-hbo-go-and-directv-now/3470682002/?utm_source=google&utm_medium=amp&utm_campaign=speakable
+https://www.businessinsider.com/game-of-thrones-season-8-premiere-hbo-go-hulu-outages-2019-4
+Hackean un Tesla para que choque : https://arstechnica.com/information-technology/2019/04/researchers-trick-tesla-autopilot-into-steering-into-oncoming-traffic/
+
+ “Car 2 Go” app “hacked” : https://chicago.cbslocal.com/2019/04/17/car2go-temporarily-suspends-service-in-chicago/
+Product hunt : https://www.torodb.com/ 
+
+== Eventos y meetups ==
+Muestra del Museo de Informática
+Flisol - Sábado 27 de abril
+AdminBirras - Jueves 2 de mayo
+CABASE Internet Day - 16 y 17 de mayo
+
+== Organizaciones amigas ==
+Museo de Informática: http://museodeinformatica.org.ar/
+Museo de Informática en Facebook: https://goo.gl/TaASu3
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+Youtube: https://youtube.com/c/SysarmyAr
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+Playerfm: http://bit.ly/polemicaenvarplayerfm
+iTunes: https://goo.gl/Nrt22g
+Spotify: http://bit.ly/polemicaenvar
+
+== Conducen este episodio ==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+Regina Loustau: @Rhapsody_Girl
+Eduardo Casarero: @jedux]]></description><pubDate>Mon, 29 Apr 2019 15:08:17 +0200</pubDate><itunes:duration>36:26</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/35085125</guid></item>
 <item><title><![CDATA[Polémica en /var - S03M01 - #EnDondeMeMetí]]></title><link>https://www.ivoox.com/polemica-var-s03m01-endondememeti-audios-mp3_rf_34193306_1.html</link><enclosure url="http://www.ivoox.com/polemica-var-s03m01-endondememeti_mf_34193306_feed_1.mp3" type="audio/mpeg"  length="9672339"/><description><![CDATA[Llegó la Mesa de Polémica en /var, ese lugar en el que nos sentamos a discutir diversos temas relacionados con el mundo de sistemas con invitados especiales. En esta ocación nos visita Guido Vilariño, en una mesa conducida por Eduardo Casarero, para dialogar sobre OnBoarding. Desde qué es el Onboarding, recomendaciones, teoria, y discusiones sobre situaciones personales bajo el hashtag: #EnDondeMeMetí
 
 == Pedí tus remeras y merchandising de sysarmy ==
@@ -1167,4 +1233,3 @@ Web: http://sysar.my/
 Twitter: @sysarmy
 Facebook: Elección Root
 IRC en Freenode: #sysarmy]]></description><pubDate>Tue, 21 Feb 2017 15:27:47 +0100</pubDate><itunes:duration>24:52</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/17130177</guid></item></channel></rss>
-
