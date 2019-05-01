@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sysarmy on Blog Sysarmy</title>
+    <title>Sysarmy on El blog de quienes dan soporte</title>
     <link>https://sysarmy.com/blog/tags/sysarmy/</link>
-    <description>Recent content in sysarmy on Blog Sysarmy</description>
+    <description>Recent content in Sysarmy on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -34,7 +34,7 @@ Completar esto fue un llamado a la introspección que ni me lo esperaba.</descri
 Les dejamos este Spreadsheet para que puedan ver y analizar los resultados (pueden hacer una copia o bajar las hojas en formato csv). Esperamos también los análisis de la comunidad!
 La imagen del post es de @facu_pedrini y les dejamos algunas de las frases que nos regalaron:
 Blockchain
-Deberíamos apagar Internet antes de que sea demasiado tarde</description>
+ Deberíamos apagar Internet antes de que sea demasiado tarde</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ Deberíamos apagar Internet antes de que sea demasiado tarde</description>
 Les dejamos este Google Spreadsheet para que puedan ver y analizar los resultados (pueden hacer una copia o bajar las hojas en formato csv). Esperamos con ansias los análisis de la comunidad!
 Como siempre, algunas frases que nos regalaron:
 A este paso voy a vivir sola cuando mis viejos estiren la pata.
-Al menos traigan facturas</description>
+ Al menos traigan facturas</description>
     </item>
     
     <item>
@@ -73,11 +73,11 @@ Falta de perspectiva de género en compañeros de trabajo
     </item>
     
     <item>
-      <title>Cómo funciona Netflix - el complejo proceso (en términos sencillos) que se pone en marcha cada vez que reproducís un video</title>
-      <link>https://sysarmy.com/blog/2017/12/06/como-funciona-netflix-el-complejo-proceso-en-terminos-sencillos-que-se-pone-en-marcha-cada-vez-que-reproducis-un-video/</link>
+      <title>Cómo funciona Netflix - el complejo proceso en términos sencillos</title>
+      <link>https://sysarmy.com/blog/2017/12/06/como-funciona-netflix-el-complejo-proceso-en-terminos-sencillos/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sysarmy.com/blog/2017/12/06/como-funciona-netflix-el-complejo-proceso-en-terminos-sencillos-que-se-pone-en-marcha-cada-vez-que-reproducis-un-video/</guid>
+      <guid>https://sysarmy.com/blog/2017/12/06/como-funciona-netflix-el-complejo-proceso-en-terminos-sencillos/</guid>
       <description>Artículo original en inglés: https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b
 Hace poco volvió Stranger Things con su segunda temporada y se puso fin a la larga espera que tenía en vilo a todos los amantes de la ciencia ficción. Para estas personas, empezar una maratón es algo tan sencillo como disponer de un dispositivo o un control remoto, abrir la aplicación de Netflix y apretar “Reproducir”. Una gratificación sencilla, rápida e instantánea.
 Lo que no resulta tan sencillo es todo el proceso que se pone en marcha al ejecutar Netflix, un servicio que transmite alrededor de 250 millones de horas de video por día a 98 millones de suscriptores en 190 países.</description>
@@ -104,7 +104,8 @@ No se lo deseo ni a mi peor enemigo.</description>
       <guid>https://sysarmy.com/blog/2017/08/15/como-levante-un-viejo-proliant-o-la-espada-del-rey-arturo/</guid>
       <description>Por Pablo Carboni.
 El sábado de la última semana de junio, asistí a nerdear.la 2017 - puntual, 9hs - a las charlas previstas. Además de eso, concurrí con una vieja notebook (año 2000), con todo sus elementos originales, CDs grabados inclusive, de FreeBSD(4.x), lista para donarla al Museo de la Informática.
-En el evento había como desafío &#39;revivir&#39; un Compaq Proliant DL360 G1 (2001) e instalarle un servidor web.</description>
+En el evento había como desafío &#39;revivir&#39; un Compaq Proliant DL360 G1 (2001) e instalarle un servidor web.
+Todo el mundo había intentado bootear diferentes CDs de Linux.</description>
     </item>
     
     <item>
