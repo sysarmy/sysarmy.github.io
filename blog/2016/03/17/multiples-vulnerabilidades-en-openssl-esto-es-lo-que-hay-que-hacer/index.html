@@ -62,7 +62,7 @@
     <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="https://sysarmy.com/blog//css/style.css">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/favicon.ico" />	
 </head>
 
 <body lang="en" itemscope itemtype="http://schema.org/Article">
@@ -98,6 +98,57 @@
   		<h1 itemprop="name" id="title">Múltiples Vulnerabilidades en OpenSSL – Esto es lo que hay que hacer</h1>
         <article itemprop="articleBody" id="content">
            <img src="/blog/assets/drown-1.png" alt="Múltiples Vulnerabilidades en OpenSSL – Esto es lo que hay que hacer">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
            <p><p><em>Post original escrito por <a href="https://twitter.com/johannorrman">Johan Norrman</a> de <a href="https://detectify.com/">Detectify</a> para <strong>sysarmy</strong>.</em></p>
 <p>&nbsp;</p>
 <p class="western"><span style="color:#000000;"><span style="font-family:Arial, serif;"><span lang="en-US">Marzo podría haber empezado mejor para el equipo de OpenSSL. Durante la última semana, el equipo de desarrollo de OpenSSL publicó dos CVEs de alto impacto, </span></span></span><span style="color:#0000ff;"><u><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0800"><span style="color:#000000;"><span style="font-family:Arial, serif;"><span lang="en-US">CVE-2016-0800</span></span></span></a></u></span><span style="color:#000000;"><span style="font-family:Arial, serif;"><span lang="en-US"> y </span></span></span><span style="color:#0000ff;"><u><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0703"><span style="color:#000000;"><span style="font-family:Arial, serif;"><span lang="en-US">CVE-2016-0703</span></span></span></a></u></span><span style="color:#000000;"><span style="font-family:Arial, serif;"><span lang="en-US">. En este post, explicamos cómo las CVEs pueden comprometer tu seguridad y qué pasos podés tomar para asegurarte.</span></span></span></p>
@@ -164,10 +215,10 @@
 
     <div>
         <section id="prev">
-            &nbsp;<a class="previous" href="https://sysarmy.com/blog/2016/03/21/multiple-vulnerabilities-in-openssl-heres-what-you-need-to-do/"><i class="icon-arrow-left"></i> Multiple Vulnerabilities in OpenSSL – Here’s What You Need to Do</a><br>
+            &nbsp;<a class="previous" href="https://sysarmy.com/blog/2016/03/01/resultados-encuesta-de-sueldos-2016-1/"><i class="icon-arrow-left"></i> Resultados encuesta de sueldos 2016.1</a><br>
         </section>
         <section id="next">
-            &nbsp;<a class="next" href="https://sysarmy.com/blog/2016/03/01/resultados-encuesta-de-sueldos-2016-1/">Resultados encuesta de sueldos 2016.1 <i class="icon-arrow-right"></i></a>
+            &nbsp;<a class="next" href="https://sysarmy.com/blog/2016/03/21/multiple-vulnerabilities-in-openssl-heres-what-you-need-to-do/">Multiple Vulnerabilities in OpenSSL – Here’s What You Need to Do <i class="icon-arrow-right"></i></a>
         </section>
     </div>
 
@@ -187,7 +238,7 @@
   </div>
 </footer>
 
-<script>
+<script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -198,6 +249,14 @@ if (!doNotTrack) {
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
+
+    
+	
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+	<script src="js/load-photoswipe.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+	
 </body>
 </html>
 
