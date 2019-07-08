@@ -42,8 +42,6 @@
   <loc>http://sysarmy.com/backup</loc>
   <lastmod>2019-07-08T20:08:04+00:00</lastmod>
 </url>
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>
 https://help.sysarmy.com/?qa=9/antivirus-para-linux
@@ -11088,5 +11086,4 @@ https://help.sysarmy.com/?qa=tag/cloud-aws-gcp-vmware-openstack-cloudstack
 <loc>https://help.sysarmy.com/?qa=tag/mvware</loc>
 <priority>0.25</priority>
 </url>
-</urlset>
 </urlset>
