@@ -5,6 +5,156 @@ Web: http://sysar.my/
 Twitter: @sysarmy
 Facebook: Elección Root
 IRC en Freenode: #sysarmy]]></description><language>es-ES</language><generator>iVoox</generator><image><url>http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
+<item>
+<title>
+<![CDATA[ Polémica en /var - S03E03 ]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s03e03-audios-mp3_rf_36894691_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s03e03_mf_36894691_feed_1.mp3" type="audio/mpeg" length="19608483"/>
+<description>
+<![CDATA[
+== Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ 
+ Real Trends:
+ Python Backend Developer Senior (Python 3, Django, bases de datos) http://bit.ly/pythonrt
+ Site Reliability Engineer (Scripting, Cloud, Monitoring) http://bit.ly/sre-rt
+ 
+ 
+ Medallia: Software Engineer - backend: http://bit.ly/2CzlsWI 
+ 
+ Mulesoft - Devops Engineer (AWS, Saltstack, Scripting): http://bit.ly/2WmZuO1
+ 
+ Elementum - Software Engineer - Back End (JAVA, Experiencia en REST APIs y Microservicios): http://bit.ly/2Xrevzt 
+ 
+ OLX - DevOps para Properati (AWS o Google Cloud Provider, Kubernetes): http://bit.ly/2IFOFDh 
+ 
+ Avature - Developers (mobile - PHP - Java): http://bit.ly/2HTeJKz
+ 
+ == En este episodio ==
+ Noticias, polémicas (como debe ser), y novedades bizarras. Increible la diversidad de cosas que sucedieron en tan poco tiempo, desde la muerte de una celebridad de internet hasta discusiones al mejor estilo Black Mirror con respecto a si se debe utilizar el reconocimiento facial desde el estado o no. Un episodio imperdible al que se sumo en la mesa la gran Anita Almada para charlar con nosotros sobre la actualidad del mundo de sistemas.
+ 
+ == Mencionados en este episodio ==
+ ‘Zork’ Source Code: https://kryptonradio.com/2019/04/18/zork-source-code-presumed-lost-forever-has-been-uploaded-to-github/?fbclid=IwAR1tWAOU5mVmwKmRcZQGuHx6fHwxEpm5kiK535Z1q2eE9sHHR_nRTPrQS7k
+ ‘Zork’ Source Code: https://github.com/historicalsource/
+ Happy 30th B-Day, Game Boy: https://arstechnica.com/gaming/2019/04/game-boy-20th-anniversary/
+ Apple reportedly signed a $1.5 billion, 5-year deal with Amazon's cloud: https://amp.businessinsider.com/apple-amazon-web-services-spending-report-2019-4
+ Linux Kernel Prior to 5.0.8 Vulnerable to Remote Code Execution: https://www.bleepingcomputer.com/news/security/linux-kernel-prior-to-508-vulnerable-to-remote-code-execution/
+ Over two million IoT devices vulnerable because of P2P component: https://www.zdnet.com/article/over-two-million-iot-devices-vulnerable-because-of-p2p-component-flaws/
+ Market place de CABASE: http://cabaseiot.com.ar/ http://cabaseiot.com.ar/soluciones-iot/
+ Docker Hub Hacked – 190k accounts, GitHub tokens revoked, builds disabled: https://news.ycombinator.com/item?id=19763413
+ Docker Bug Allows Root Access to Host File System: https://duo.com/decipher/docker-bug-allows-root-access-to-host-file-system
+ Side Channel Vulnerability Microarchitectural Data Sampling: https://www.intel.com/content/www/us/en/architecture-and-technology/mds.html
+ Introducing Windows Terminal: https://devblogs.microsoft.com/commandline/introducing-windows-terminal/
+ Samsung spilled SmartThings app source code and secret keys: https://techcrunch.com/2019/05/08/samsung-source-code-leak/
+ Congratulations to Uber, the Worst Performing IPO: https://gizmodo.com/congratulations-to-uber-the-worst-performing-ipo-in-us-1834681882
+ San Francisco Prohibio el reconocimiento facial: https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html
+ Huawei has lost immediate access to Android and Google:
+ https://www.androidauthority.com/huawei-google-android-ban-988382/
+ Huawei has lost immediate access to Android and Google: https://www.scmp.com/news/china/diplomacy/article/3012504/inside-donald-trumps-blacklisting-huawei-china-hardliners
+ Percona herds the open source cats: https://www.zdnet.com/article/percona-herds-the-open-source-cats/
+ Percona Cloud Native Autonomous Database Initiative: https://www.percona.com/software/percona-kubernetes-operators 
+ Google Has Stored Some Passwords in Plaintext Since 2005: https://www.wired.com/story/google-stored-gsuite-passwords-plaintext/
+ Hackers stole Flipboard users’ email addresses and hashed passwords: https://www.grahamcluley.com/hackers-stole-flipboard-users-email-addresses-and-hashed-passwords/
+ Internet star "Grumpy Cat" dies at the age of 7: https://economictimes.indiatimes.com/news/international/world-news/internet-star-grumpy-cat-dies-at-the-age-of-7/internet-sensation/slideshow/69409390.cms
+ After nearly 20 years, Apple is saying goodbye to iTunes: https://consequenceofsound.net/2019/05/apple-itunes-shutting-down-rip/
+ OMS recognizes burnout as medical condition: https://www.who.int/mental_health/evidence/burn-out/en/
+ Google recovers from outage that took down YouTube, Gmail, and Snapchat: https://www.theverge.com/2019/6/2/18649635/youtube-snapchat-down-outage
+ https://www.fastcompany.com/90358396/that-major-google-outage-meant-some-nest-users-couldnt-unlock-doors-or-use-the-ac 
+ HP Enterprise compra Cray, el fabricante de los ordenadores más avanzados del mundo, por 1.300 millones de dólares: https://cincodias.elpais.com/cincodias/2019/05/17/companias/1558107115_002679.html
+ HP Enterprise compra Cray, el fabricante de los ordenadores más avanzados del mundo, por 1.300 millones de dólares: https://www.phoronix.com/scan.php?page=news_item&px=MTE4NjU
+ CPU FAIL: https://cpu.fail/
+ 
+ 
+ == Eventos y meetups ==
+ Muestra del Museo de Informática
+ Geekout Fest: https://www.ticketek.com.ar/geek-out-fest/colegio-san-jose
+ 
+ == Organizaciones amigas ==
+ Museo de Informática: http://museodeinformatica.org.ar/
+ Museo de Informática en Facebook: https://goo.gl/TaASu3
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Youtube: https://youtube.com/c/SysarmyAr
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ Playerfm: http://bit.ly/polemicaenvarplayerfm
+ iTunes: https://goo.gl/Nrt22g
+ Spotify: http://bit.ly/polemicaenvar
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ Regina Loustau: @Rhapsody_Girl
+ Eduardo Casarero: @jedux
+ 
+ == Colega invitada ==
+ Anita Almada: @anitalmada
+]]>
+</description>
+<pubDate>Mon, 10 Jun 2019 17:24:16 +0200</pubDate>
+<itunes:duration>40:51</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/36894691</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Polémica en /var - S03M02 - #GameOfRoles ]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s03m02-gameofroles-audios-mp3_rf_35746501_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s03m02-gameofroles_mf_35746501_feed_1.mp3" type="audio/mpeg" length="21776437"/>
+<description>
+<![CDATA[
+Llegó la Mesa de Polémica en /var, ese lugar en el que nos sentamos a discutir diversos temas relacionados con el mundo de sistemas con invitados especiales. En esta ocasión nos visita Andrea, en una mesa conducida por Eduardo Casarero, para dialogar sobre Roles en IT, tanto los oficiales como los no oficiales y su impacto en los diferentes vertices de una empresa o grupo de trabajo.
+ 
+ == Pedí tus remeras y merchandising de sysarmy ==
+ remeras[at]sysarmy.com.ar
+ 
+ == Búsquedas laborales ==
+ Medallia - Software Engineer - backend: http://bit.ly/2CzlsWI 
+ Mulesoft - Devops Engineer (AWS, Saltstack, Scripting): http://bit.ly/2WmZuO1
+ Elementum - DevOps Engineers (Terraform, Linux, AWS, Docker): http://bit.ly/2Fzbt5z
+ OLX - DevOps para Properati (AWS o Google Cloud Provider, Kubernetes): http://bit.ly/2IFOFDh 
+ Avature - Developers (mobile - PHP - Java): http://bit.ly/2HTeJKz
+ 
+ == Conduce esta Mesa ==
+ Eduardo Casarero: @jedux
+ 
+ == Invitada especial ==
+ Andrea: @peorth
+ 
+ == Panelistas en esta Mesa ==
+ Ariel Jolo: @ajolo
+ Regina Loustau: @Rhapsody_Girl
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Youtube: https://youtube.com/c/SysarmyAr
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ Playerfm: http://bit.ly/polemicaenvarplayerfm
+ iTunes: https://goo.gl/Nrt22g
+ Spotify: http://bit.ly/polemicaenvar
+]]>
+</description>
+<pubDate>Mon, 13 May 2019 15:53:45 +0200</pubDate>
+<itunes:duration>45:22</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/35746501</guid>
+</item>
 <item><title><![CDATA[Polémica en /var - S03E02]]></title><link>https://www.ivoox.com/polemica-var-s03e02-audios-mp3_rf_35085125_1.html</link><enclosure url="http://www.ivoox.com/polemica-var-s03e02_mf_35085125_feed_1.mp3" type="audio/mpeg"  length="17488385"/><description><![CDATA[== Pedí tus remeras y merchandising de sysarmy ==
 remeras[at]sysarmy.com.ar
 
