@@ -7,6 +7,128 @@ Facebook: Elección Root
 IRC en Freenode: #sysarmy]]></description><language>es-ES</language><generator>iVoox</generator><image><url>http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="http://static-2.ivooxcdn.com/canales/9/4/7/9/9871487689749_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
 <item>
 <title>
+<![CDATA[ Polémica en /var - S03E04 ]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s03e04-audios-mp3_rf_39520292_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s03e04_mf_39520292_feed_1.mp3" type="audio/mpeg" length="24269355"/>
+<description>
+<![CDATA[
+Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+ 
+== Pedí tus remeras y merchandising de sysarmy ==
+remeras[at]sysarmy.com.ar
+ 
+== Búsquedas laborales ==
+Despegar:
+DBA https://despegar.avature.net/oportunidades/JobDetail?jobId=4541
+JAVA JR/SSR/SR https://despegar.avature.net/oportunidades/JobDetail?jobId=1579
+
+Medallia:
+Site Reliability Engineer (LInux, Scripting, Kubernetes) - http://bit.ly/2Yh5Weg
+
+Mulesoft:
+Devops Engineer (AWS, Saltstack, Scripting) http://bit.ly/2WmZuO1
+
+Elementum:
+Software Engineer - Back End (JAVA, Experiencia en REST APIs y Microservicios)
+http://bit.ly/2Xrevzt 
+
+Avature:
+Developers (mobile - PHP - Java) http://bit.ly/2HTeJKz
+ 
+ == En este episodio ==
+ Noticias, polémicas (como debe ser), robos, se cayó cloudflare y todos entraron en pánico, hackeos a la NASA, información sobre el gran apagón en Argentina, libros que desaparecen en el Store de Microsoft, de todo.
+ 
+ == Mencionados en este episodio ==
+ Ex-Microsoft dev used test account to swipe $10m: https://www.theregister.co.uk/2019/07/17/exmicrosoft_engineer_arrested_fraud/
+ 
+ Introducing the face of the new £50 note: https://www.bankofengland.co.uk/banknotes/50-pound-note-nominations
+ 
+ Cloudflare outage on July 2, 2019
+ : https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/ 
+ https://blog.cloudflare.com/cloudflare-outage/
+ 
+ WHO’S LISTENING WHEN YOU TALK TO YOUR GOOGLE ASSISTANT?: https://www.wired.com/story/whos-listening-talk-google-assistant/ 
+ 
+ Amazon CloudFront Edge Location in Argentina: https://aws.amazon.com/es/blogs/aws-spanish/aws-announces-amazon-cloudfront-edge-location-in-argentina/?sc_channel=sm&sc_campaign=AWS_LATAM&sc_publisher=TWITTER&sc_country=LATAM&sc_geo=LATAM&sc_outcome=awareness&trkCampaign=launches_latam&trk=27June19_launches_latam_tw_es_AmazonCloudFrontEdge_TWITTER&sc_content=lp_launches_latam_tw_es_AmazonCloudFrontEdge&sc_category=Amazon+CloudFront&linkId=69630083 
+ 
+ Varias vulnrabilidades en zoom: https://medium.com/bugbountywriteup/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5
+ 
+ British Airways faces record £183m fine for data breach: https://www.bbc.com/news/business-48905907 
+ 
+ Municipio con criptomonedas: https://www.cronista.com/finanzasmercados/Un-municipio-lanza-su-criptomoneda-para-impulsar-el-consumo-y-ahorrar-impuestos-20190703-0031.html
+ 
+ El co-creador de Wikipedia convoca a una huelga masiva en las redes sociales: https://www.infobae.com/america/tecno/2019/07/03/por-que-el-creador-de-wikipedia-convoca-a-una-huelga-masiva-en-las-redes-sociales/
+ 
+ Ebooks Purchased From Microsoft Will Be Deleted : https://gizmodo.com/ebooks-purchased-from-microsoft-will-be-deleted-this-mo-1836005672
+ 
+ Apagón en Argentina: https://econojournal.com.ar/2019/07/el-gobierno-responsabilizara-a-los-privados-por-el-historico-apagon/
+ https://blog.segu-info.com.ar/2019/06/apagon-en-argentina-blackout.html
+ 
+ certificate spamming attack against two high-profile contributors in the OpenPGP: https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f 
+ 
+ Linus vuelve a sus andadas: https://lkml.org/lkml/2019/6/14/127
+ 
+ Microsoft open-sources a linux kernel : https://twitter.com/andreasklinger/status/1144802782962167809?s=19 Warren Seine
+ Jony Ive, iPhone designer, announces Apple departure: https://www.ft.com/content/947e557a-98a8-11e9-8cfb-30c211dcd229
+ 
+ Funding the Load Bearing Internet People: https://esr.gitlab.io/loadsharers/ 
+ http://esr.ibiblio.org/?p=8383 
+ 
+ Why New York's Subway Still Uses OS/2.: https://news.slashdot.org/story/19/06/17/0345216/why-new-yorks-subway-still-uses-os2 
+ 
+ Bill Gates Just Confessed His Greatest Ever Mistake: https://www.inc.com/chris-matyszczyk/bill-gates-just-confessed-his-greatest-ever-mistake-he-still-hasnt-got-over-it.html 
+ 
+ Hackers Used a Cheap Raspberry Pi Computer to Breach NASA: https://fortune.com/2019/06/20/hackers-raspberry-pi-computer-nasa/ 
+ 
+ Argentinian hacker Julio Ardita, aka El Griton, broke into several sites including NASA JPL.: https://www.clarin.com/sociedad/habla-hacker-argentino-puso-jaque-fbi_0_SkaeFh6gRKx.html
+ 
+ WhatsApp sin Internet: Google lanzará un nuevo servicio: https://www.clarin.com/tecnologia/google-confirmo-lanzamiento-servicio-similar-whatsapp-conexion-internet_0_2PCjIIBj5.amp.html 
+ 
+ Genius said it used morse code to catch Google stealing lyrics: https://mashable.com/article/google-genius-steal-lyrics/ 
+ 
+ Amazon marca mas valiosa del mundo.: https://www.puromarketing.com/14/32229/amazon-marca-mas-valiosa-mundo-encima-apple-google.html
+ 
+ 
+ == Eventos y meetups ==
+ Muestra del Museo de Informática
+ 
+ 
+ == Organizaciones amigas ==
+ Museo de Informática: http://museodeinformatica.org.ar/
+ Museo de Informática en Facebook: https://goo.gl/TaASu3
+ 
+ == Encontranos en ==
+ Web: http://sysar.my
+ Twitter: @sysarmy
+ Facebook: https://goo.gl/tGcpcw
+ IRC en Freenode: #sysarmy
+ Youtube: https://youtube.com/c/SysarmyAr
+ Ivoox: https://goo.gl/GtISQ9
+ Pocketcast: http://pca.st/D3H0
+ Playerfm: http://bit.ly/polemicaenvarplayerfm
+ iTunes: https://goo.gl/Nrt22g
+ Spotify: http://bit.ly/polemicaenvar
+ 
+ == Conducen este episodio ==
+ Ariel Jolo: @ajolo
+ Jorge Abreu: @ar_jorge1987
+ Regina Loustau: @Rhapsody_Girl
+ Eduardo Casarero: @jedux
+ 
+ == Colega invitado ==
+ Darío Nievas - @darionievas
+]]>
+</description>
+<pubDate>Tue, 06 Aug 2019 18:57:47 +0200</pubDate>
+<itunes:duration>50:33</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/39520292</guid>
+</item>
+<item>
+<title>
 <![CDATA[
 Polémica en /var - S03M03 - #ShowMeTheMoney - Part 1
 ]]>
