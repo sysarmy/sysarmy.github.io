@@ -10,6 +10,82 @@ IRC en Freenode: #sysarmy]]></description>
     <itunes:email>polemica@sysarmy.com.ar</itunes:email>
 </itunes:owner>
  <language>es-ES</language><generator>iVoox</generator><image><url>http://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
+<item><title><![CDATA[Polémica en /var - S03E05]]></title><link>http://ar.ivoox.com/es/polemica-var-s03e05-audios-mp3_rf_41615065_1.html</link><enclosure url="http://ar.ivoox.com/es/polemica-var-s03e05_mf_41615065_feed_1.mp3" type="audio/mpeg"  length="16285917"/><description><![CDATA[== Pedí tus remeras y merchandising de sysarmy ==
+remeras[at]sysarmy.com.ar
+
+== Búsquedas laborales ==
+Despegar: DBA - https://despegar.avature.net/oportunidades/JobDetail?jobId=4541
+JAVA JR/SSR/SR https://despegar.avature.net/oportunidades/JobDetail?jobId=1579
+
+Medallia: Site Reliability Engineer (LInux, Scripting, Kubernetes) - http://bit.ly/2Yh5Weg
+
+Mulesoft: Devops Engineer (AWS, Saltstack, Scripting) - http://bit.ly/2WmZuO1
+
+Avature: Developers (mobile - PHP - Java) - http://bit.ly/2HTeJKz
+
+Santander: DevOps Engineer - 
+
+== En este episodio ==
+Discusiones, chistes, polémicas y problemas. Todas las novedades sobre los Activos de Marcos Paz, Tumblr no va a ser comprado por PornHub como queria la gente en Twitter, a unos se les dio por ponerse a minar criptomonedas desde una central nuclear, la IPO de WeWork, novedades sobre Windows 10 y Slackware, vulnerabilidades, leaks, y por qué este es el año de Linux.
+
+== Mencionados en este episodio ==
+Automattic reportedly bought Tumblr: https://mobile.reuters.com/article/amp/idUSKCN1V21W8?utm_campaign=trueAnthem%3A%2BTrending%2BContent&utm_content=5d51fef465fc1d0001357160&utm_medium=trueAnthem&utm_source=twitter&__twitter_impression=true 
+Geeky license plate earns hacker $12,000 in parking tickets: https://arstechnica.com/cars/2019/08/wiseguy-changes-license-plate-to-null-gets-12k-in-parking-tickets/
+WeWork reveals massive $900 million loss in filing to go public: https://www.cnbc.com/amp/2019/08/14/wework-releases-s-1-filing-for-ipo.html?__twitter_impression=trueno
+Teslas cerrados por servidor caido: https://www.ambito.com/los-duenos-los-tesla-no-pudieron-abrir-sus-autos-porque-se-cayo-el-servidor-n5052791
+Facebook audio de los usuarios de sus servicios.: https://www.infobae.com/america/tecno/2019/08/14/facebook-tambien-admitio-que-tenia-un-equipo-de-personas-dedicada-a-escuchar-audios-de-sus-usuarios/
+WordPad and the classic Paint optional features: https://slashdot.org/story/359772
+Tiling para windows 10: https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md
+Slackware news:https://www.patreon.com/slackwarelinux/overview
+Npm malicious: https://www.bleepingcomputer.com/news/security/npm-pulls-malicious-package-that-stole-login-passwords/
+Backdoor Webmin: https://threatpost.com/backdoor-found-in-utility-for-linux/147581/
+Js standard empezó a tener ads en la terminal: https://www.zdnet.com/article/popular-javascript-library-starts-showing-ads-in-its-terminal/
+Jack Dorsey account hacked: https://www.bbc.com/news/amp/technology-49532244?__twitter_impression=true
+exFAT forma parte de Open Invention Network: https://computerhoy.com/noticias/tecnologia/microsoft-libera-exfat-introducirlo-kernel-linux-482737?amp
+Facebook scans system libraries : https://twitter.com/wongmjane/status/1167463054709334017?s=19
+Power outage fried hardware within one of Amazon Web Services: https://www.theregister.co.uk/2019/09/04/aws_power_outage_data_loss/
+Nuclear plant to the internet so they can mine cryptocurrency: https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/
+Richard Stallman is giving a talk at Microsoft: https://twitter.com/italypaleale/status/1169354916281778176
+Facebook Tinder: https://www.infobae.com/america/tecno/2019/09/05/ya-se-lanzo-la-competencia-de-tinder-facebook-dating-disponible-en-argentina-mexico-y-17-paises-mas/
+ARSAT $447 por megabyte: https://www.infobae.com/economia/2019/09/06/el-gobierno-congelo-y-pesifico-las-tarifas-mayoristas-de-internet-hasta-2020/
+Millions of phone numbers linked to Facebook  accounts have been found online.: https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/
+GPS trackers using the same default password of 123456: https://yro.slashdot.org/story/19/09/05/2040213/600000-gps-trackers-left-exposed-online-with-a-default-password-of-123456
+Get access to the hidden PCIe interface of Raspberry Pi 4: http://labs.domipheus.com/blog/raspberry-pi-4-pci-express-it-actually-works-usb-sata-gpu/ 
+Lilo ransomware: https://www.zdnet.com/google-amp/art/?__twitter_impression=trueicle/thousands-of-servers-infected-with-new-lilocked-lilu-ransomware 
+John McAfee Released From Jail in the Dominican Republic: https://slashdot.org/story/358834
+Capital One discloses massive data breach: https://twitter.com/zackwhittaker/status/1155985629362061314?s=19
+KDE y Gnome juntos: https://fossbytes.com/kde-gnome-joining-hands-build-linux-desktop/
+Security audit of Kubernetes: https://www.theregister.co.uk/2019/08/06/kubernetes_security_audit/
+Centro de datos en pilar: https://www.cronista.com/apertura-negocio/empresas/Efecto-Amazon-desarrolladora-estadounidense-de-data-centers-invierte-us-100-M-en-su-arribo-al-pais-20190807-0004.html
+Mas sobre Activos Marcos Paz: http://www.marcospaz.gov.ar/municipio2/municipio-columna-2/programas/item/2636-activos.html
+
+== Eventos y meetups ==
+Muestra del Museo de Informática
+
+== Organizaciones amigas ==
+Museo de Informática: http://museodeinformatica.org.ar/
+Museo de Informática en Facebook: https://goo.gl/TaASu3
+
+== Encontranos en ==
+Web: http://sysar.my
+Twitter: @sysarmy
+Facebook: https://goo.gl/tGcpcw
+IRC en Freenode: #sysarmy
+Youtube: https://youtube.com/c/SysarmyAr
+Ivoox: https://goo.gl/GtISQ9
+Pocketcast: http://pca.st/D3H0
+Playerfm: http://bit.ly/polemicaenvarplayerfm
+iTunes: https://goo.gl/Nrt22g
+Spotify: http://bit.ly/polemicaenvar
+
+== Conducen este episodio ==
+Ariel Jolo: @ajolo
+Jorge Abreu: @ar_jorge1987
+Regina Loustau: @Rhapsody_Girl
+Eduardo Casarero: @jedux
+
+== Colega invitada ==
+Julia Cacciapuoti: @JuliCaccia]]></description><pubDate>Wed, 18 Sep 2019 14:58:55 +0200</pubDate><itunes:duration>33:55</itunes:duration><itunes:episodeType>full</itunes:episodeType><guid>http://www.ivoox.com/41615065</guid></item>
 <item>
 <title>
 <![CDATA[ Polémica en /var - S03M04 - #DaysWithoutIncidents ]]>
