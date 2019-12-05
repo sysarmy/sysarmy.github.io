@@ -9,7 +9,27 @@ IRC en Freenode: #sysarmy]]></description>
     <itunes:name>Sysarmy</itunes:name>
     <itunes:email>polemica@sysarmy.com.ar</itunes:email>
 </itunes:owner>
- <language>es-ES</language><generator>iVoox</generator><image><url>http://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg" /><itunes:explicit>clean</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" />
+<language>es-ES</language><generator>iVoox</generator><image><url>http://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg</url><title><![CDATA[Polemica en /var]]></title><link>http://www.ivoox.com/podcast-polemica-var_sq_f1386484_1.html</link></image><atom:link href="http://ar.ivoox.com/es/polemica-var_fg_f1386484_filtro_1.xml" rel="self" type="application/rss+xml" /><itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg" /><itunes:explicit>clean</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology" />
+<item>
+<title>
+<![CDATA[ Polémica en /var - S03E07 - #FireInTheHole ]]>
+</title>
+<link>
+http://ar.ivoox.com/es/polemica-var-s03e07-fireinthehole-audios-mp3_rf_45140279_1.html
+</link>
+<enclosure url="http://ar.ivoox.com/es/polemica-var-s03e07-fireinthehole_mf_45140279_feed_1.mp3" type="audio/mpeg" length="23176915"/>
+<description>
+<![CDATA[
+== Pedí tus remeras y merchandising de sysarmy == remeras[at]sysarmy.com.ar == En este episodio == Bajas, delicadeza, humanidad, empatía, necesidad, urgencia.. Hablamos de todo lo relacionado cuando llega el momento de tener que echar a alguien, recorte de personal, o cuando nos notifican que van a echar a alguien. == Eventos y meetups == Muestra del Museo de Informática == Organizaciones amigas == Museo de Informática: http://museodeinformatica.org.ar/ Museo de Informática en Facebook: https://goo.gl/TaASu3 == Encontranos en == Web: http://sysar.my Twitter: @sysarmy Facebook: https://goo.gl/tGcpcw IRC en Freenode: #sysarmy Ivoox: https://goo.gl/GtISQ9 Pocketcast: http://pca.st/D3H0 Playerfm: http://bit.ly/polemicaenvarplayerfm iTunes: https://goo.gl/Nrt22g Spotify: http://bit.ly/polemicaenvar == Conducen este episodio == Ariel Jolo: @ajolo Jorge Abreu: @ar_jorge1987 Regina Loustau: @Rhapsody_Girl Eduardo Casarero: @jedux == Invitada espoecial == Euge: @chichaylimonada
+]]>
+</description>
+<pubDate>Thu, 05 Dec 2019 17:29:37 +0100</pubDate>
+<itunes:duration>46:49</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>http://www.ivoox.com/45140279</guid>
+</item>
 <item>
 <title>
 <![CDATA[ Polémica en /var - S03E07 ]]>
