@@ -1,0 +1,14 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Test Files
+      uses:  Cyb3r-Jak3/html5validator-action@v0.4
+      with:
+        root: /
