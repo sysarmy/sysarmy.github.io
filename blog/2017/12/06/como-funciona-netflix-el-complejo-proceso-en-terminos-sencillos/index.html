@@ -127,7 +127,9 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
     </div>
 </div>
 
-           <p><em>Artículo original en inglés: <a href="https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b" target="_blank" rel="noopener">https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b</a></em></p>
+           
+
+<p><em>Artículo original en inglés: <a href="https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b" target="_blank" rel="noopener">https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b</a></em></p>
 
 
 <link rel="stylesheet" href="css/hugo-easy-gallery.css" />
@@ -158,7 +160,7 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
 </div>
 
 
-<p>      Dave Hahn, Sr. Engineer del Departamento de Cloud Operations &amp; Reliability Engineering de Netflix, muestra la arquitectura completa de la empresa en un diagrama de flujo. (Amazon Web Services/YouTube)</h6>
+       Dave Hahn, Sr. Engineer del Departamento de Cloud Operations &amp; Reliability Engineering de Netflix, muestra la arquitectura completa de la empresa en un diagrama de flujo. (Amazon Web Services/YouTube)</h6>
 <p>&nbsp;</p>
 <h2>Cientos de microservicios englobados en un servicio gigante</h2>
 <p>Para comprender cómo se estructura Netflix desde el punto de vista tecnológico, lo vamos a ilustrar con un ejemplo.</p>
@@ -167,7 +169,7 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
 <p>Todo el tiempo invertido en LocoList se fue al tacho porque un cambio que se realizó en Mapas dejó inservible a tu aplicación. Si bien a esta escala no parece un asunto grave, si lo pasamos a la escala de un servicio enorme como Netflix, que la aplicación entera quede en desuso porque se realizó un cambio no solo puede arruinarle la experiencia a los usuarios, también significa que hay que reescribir el resto de las partes de la aplicación para adaptarse a ese pequeño cambio que realizaste. Esta estructura es lo que llamamos <i>arquitectura monolítica. </i></p>
 <p>Netflix marcó literalmente el inicio de una revolución hace diez años al reescribir las aplicaciones que ejecutan la totalidad del servicio bajo una <i>arquitectura de microservicios</i>, lo que implica que cada aplicación, o el código y los recursos de cada <i>microservicio</i>, son independientes. Por principio, no comparten el código con otras aplicaciones. Entonces, cuando dos aplicaciones necesitan comunicarse, usan una <i>interfaz de programación de aplicaciones </i>(API, por sus siglas en inglés), un conjunto de reglas muy controladas que los dos programas pueden manejar. De esta forma, los desarrolladores pueden hacer numerosos cambios en cada aplicación, sean mínimos o exhaustivos, siempre y cuando se aseguren de que se respeta la API. Dado que los programas conocen bien la API del otro, las modificaciones no van a interrumpir el intercambio de información.</p>
 <p>Netflix estima que utiliza alrededor de 700 microservicios para controlar cada una de las numerosas partes que conforman la totalidad del servicio: un microservicio guarda todos los programas que viste, otro debita la suscripción mensual de tu tarjeta de crédito, otro le brinda a tu dispositivo los archivos de video correctos para que pueda reproducirlos, otro evalúa tu historial de programas vistos y usa algoritmos para generar una lista de películas que te pueden gustar, otro te brinda los nombres y las imágenes de esas películas para que se vean en una lista en el menú principal. Y esto es tan solo la punta del iceberg. Los ingenieros de Netflix pueden modificar cualquier parte de la aplicación para introducir cambios nuevos de forma rápida y sin que ninguna otra parte del servicio se interrumpa.</p>
-<p>En conclusión ¿por qué una arquitectura de microservicios es tan importante para Netflix? Bien, estos son los resultados obtenidos gracias a elegir esta arquitectura:</p></p>
+<p>En conclusión ¿por qué una arquitectura de microservicios es tan importante para Netflix? Bien, estos son los resultados obtenidos gracias a elegir esta arquitectura:</p>
 
 
 
@@ -240,9 +242,9 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
 </div>
 
 
-<p><h6>Una síntesis de CDN (CDN Reviews/cdnreviews.com)</h6>
+<h6>Una síntesis de CDN (CDN Reviews/cdnreviews.com)</h6>
 <p>El espectro completo de operaciones que forman parte del ecosistema de Netflix (el software, el contenido y la tecnología) se vuelve inservible si la conexión de Internet del usuario final es muy pobre para soportar la calidad de video. En líneas generales, Internet funciona de esta manera: cuando hacés alguna cosa que necesita acceso a la red, se envía una <i>solicitud</i> a tu proveedor de servicios de Internet (ISP, por sus siglas en inglés). El ISP envía esa solicitud a los servidores de destino que maneja el sitio web, y esos servidores generan una <i>respuesta</i> que se repite en tu computadora y le da forma al resultado. Para Netflix y otros sitios de primer nivel, en los que se repiten millones de horas de contenido de video a lo largo de Internet entre los servidores y los usuarios, hace falta una red de servidores mucho más amplia para que el servicio funcione de forma correcta. Esto se logra gracias a la Red de entrega de contenidos (CDN, por sus siglas en inglés).</p>
-<p>Básicamente, las CDN toman el sitio web original y el contenido que se encuentra en el sitio, y lo copian a lo largo de cientos de servidores localizados en todo el mundo. Por lo tanto, cuando iniciás sesión desde Budapest, en vez de conectarse al servidor principal de Netflix en los Estados Unidos, se va a cargar una copia igual de ese contenido ubicada en el servidor CDN más cercano a Budapest. De esta manera, se reduce en gran medida la latencia (el tiempo entre una solicitud y una respuesta) y todo se carga con mucha velocidad. Los CDN son la razón por la que los sitios web con un número enorme de usuarios como Google, Facebook o YouTube son capaces de cargar contenido con rapidez, sin importar dónde estés o con qué velocidad de Internet contás.</p></p>
+<p>Básicamente, las CDN toman el sitio web original y el contenido que se encuentra en el sitio, y lo copian a lo largo de cientos de servidores localizados en todo el mundo. Por lo tanto, cuando iniciás sesión desde Budapest, en vez de conectarse al servidor principal de Netflix en los Estados Unidos, se va a cargar una copia igual de ese contenido ubicada en el servidor CDN más cercano a Budapest. De esta manera, se reduce en gran medida la latencia (el tiempo entre una solicitud y una respuesta) y todo se carga con mucha velocidad. Los CDN son la razón por la que los sitios web con un número enorme de usuarios como Google, Facebook o YouTube son capaces de cargar contenido con rapidez, sin importar dónde estés o con qué velocidad de Internet contás.</p>
 
 
 
@@ -256,11 +258,11 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
 </div>
 
 
-<p><h6>Las cajas Open Connect de Netflix, que se entregan a los proveedores de internet. (NDTV Gadgets360/gadgets.ndtv.com)</h6>
+<h6>Las cajas Open Connect de Netflix, que se entregan a los proveedores de internet. (NDTV Gadgets360/gadgets.ndtv.com)</h6>
 <p>En un principio, Netflix utilizaba una variedad de redes CDN operadas por gigantes como Akamai, Level 3 y Limelight Networks. Sin embargo, el crecimiento en la cantidad de usuarios se tradujo en la necesidad de entregar mayor cantidad de contenido a más lugares y, al mismo tiempo, a costos más bajos. En consecuencia, crearon su propia CDN: <b>Open Connect</b>.</p>
 <p>En este caso, en lugar de utilizar los servidores AWS, instalaron sus propios servidores alrededor del mundo. Pero estos servidores tienen un único propósito: guardar contenido de forma eficiente y entregarlo a los usuarios. Netflix cierra acuerdos con proveedores de servicios de Internet y les entrega la caja roja que se ve en la foto superior sin costo alguno. Los proveedores las instalan junto con sus servidores. Estas cajas <i>Open Connect</i> descargan la librería de Netflix de esa región desde los servidores principales en los Estados Unidos. En los casos en que existen múltiples servidores, cada uno va a guardar el contenido más popular entre los usuarios de la región para darle prioridad a la velocidad. Por lo tanto, es probable que una película poco popular tarde más en cargarse que un episodio de <i>Stranger Things</i>. Ahora bien, cuando te conectás a Netflix, la caja <i>Open Connect</i> más cercana a vos te envía el contenido que necesitás y, por lo tanto, los videos se van a cargar mucho más rápido que si la aplicación lo cargara desde el servidor principal.</p>
 <p>Se puede considerar a las cajas como discos duros ubicados en todo el mundo que guardan videos y, mientras más cerca estén, más rápido vas a poder bajar y cargar el contenido. Se esconden muchos otros trucos tras bambalinas: como se explica en <a href="https://scaleyourcode.com/interviews/interview/11" target="_blank" rel="noopener">esta entrevista</a> (en inglés), cada vez que reproducís un programa, Netflix localiza las diez cajas <i>Open Connect</i> más cercanas a vos que ya cargaron el programa. El sitio web o la aplicación de Netflix intentarán a continuación detectar cuál de estas cajas es la más cercana o funciona más rápido de acuerdo a tu conexión de Internet para luego cargar el video desde esa ubicación. Esta es la razón por la que los videos se ven al comienzo borrosos pero se vuelven nítidos de repente: Netflix cambia de servidor hasta conectarse con ese que te va a brindar la mejor calidad de video.</p>
-<hr /></p>
+<hr />
 
 
 
@@ -274,7 +276,7 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
 </div>
 
 
-<p><h6> Captura de pantalla del autor</h6>
+<h6> Captura de pantalla del autor</h6>
 <h2><b>En pocas palabras…</b></h2>
 <p>Esto es lo que ocurre cada vez que reproducís un video en Netflix:</p>
 <ul>
@@ -287,8 +289,8 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
 <p>Parecía tan sencillo, ¿no?</p>
 <p>&nbsp;</p>
 <hr />
-<p><em>Artículo original en inglés: <a href="https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b" target="_blank" rel="noopener"><a href="https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b">https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b</a></a></em></p>
-<p>&nbsp;</p></p>
+<p><em>Artículo original en inglés: <a href="https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b" target="_blank" rel="noopener">https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b</a></em></p>
+<p>&nbsp;</p>
 
            <div class="ve-desktop">
 <ins class='dcmads' style='display:inline-block;width:728px;height:90px'

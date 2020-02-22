@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El blog de quienes dan soporte</title>
@@ -6,10 +6,22 @@
     <description>Recent content on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resultados de la Encuesta de sueldos 2020.1</title>
+      <link>https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2020-1/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2020-1/</guid>
+      <description>&amp;nbsp;
+&amp;nbsp;
+Queremos agradecerle a las más de 6200 personas que se tomaron unos minutos para completar la encuesta. Estamos felices de compartir las respuestas con la comunidad para que puedan hacer sus análisis. Al tener más del 90% de las entradas provinientes de Argentina, separamos los archivos en dos: Argentina y resto de los países relevados. Ya pueden ver el análisis de openqube openqube.io/sueldos
+ Resultados 2020.1 para Argentina Resultados 2020.</description>
+    </item>
     
     <item>
       <title>Resultados de la Encuesta de sueldos 2019.2</title>
@@ -17,8 +29,10 @@
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2019-2/</guid>
-      <description>Queremos agradecerle a las más de 3200 personas que se tomaron unos minutos para completar el pulso de julio. Estamos felices de compartir las respuestas con la comunidad para que puedan hacer sus análisis. Al tener más del 90% de las entradas provinientes de Argentina, separamos los archivos en dos: Argentina y resto de los países relevados. Esperamos en los próximos días lanzar las estadísticas desde openqube.io
- Resultados 2019.2 para Argentina Resultados 2019.</description>
+      <description>&amp;nbsp;
+&amp;nbsp;
+Queremos agradecerle a las más de 3200 personas que se tomaron unos minutos para completar el pulso de julio. Estamos felices de compartir las respuestas con la comunidad para que puedan hacer sus análisis. Al tener más del 90% de las entradas provinientes de Argentina, separamos los archivos en dos: Argentina y resto de los países relevados. Esperamos en los próximos días lanzar las estadísticas desde openqube.io
+ Resultados 2019.</description>
     </item>
     
     <item>
@@ -32,7 +46,7 @@
 ¡Lanzamos la décima edición de nuestra encuesta de sueldos!
 Te agradecemos si podés tomarte unos minutos para contarnos cómo estás a nivel remuneración en https://bit.ly/sueldos20192
 Al igual que en enero, openqube va a hacer un análisis de los resultados que obtengamos! y, como siempre, publicaremos la data para que quienes lo deseen hagan sus propios análisis.
-&amp;nbsp;
+--- &amp;nbsp;
 Aprovechamos este espacio para agrecerle a Axel por la migración del blog y a Nelson por el hermoso billete de 500 - Internal Server Error, que estará decorando ésta y las próximas ediciones de la encuesta</description>
     </item>
     
@@ -81,7 +95,7 @@ A este paso voy a vivir sola cuando mis viejos estiren la pata.
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/2018/08/06/irc-sysarmy-r-en-freenode/</guid>
-      <description>En estos últimos días Freenode (la red de IRC donde está alojado el canal de chat de sysarmy) está sufriendo ataques de spam diarios:  &amp;lt;RyanKnack27&amp;gt; Christel just posted this &amp;ldquo;denial&amp;rdquo; on the freenode blog https://freenode.net/news/spam-shake &amp;lt;RyanKnack27&amp;gt; This blog is essentially an ad for the Handshake ICO scam with a one-line &amp;ldquo;denial&amp;rdquo; of involvement mixed in there. It&amp;rsquo;s obviously very unethical of Christel to not mention her own involvement in the scam which the blog post promotes.</description>
+      <description>En estos últimos días Freenode (la red de IRC donde está alojado el canal de chat de sysarmy) está sufriendo ataques de spam diarios:  &amp;lt;RyanKnack27&amp;gt; Christel just posted this &#34;denial&#34; on the freenode blog https://freenode.net/news/spam-shake &amp;lt;RyanKnack27&amp;gt; This blog is essentially an ad for the Handshake ICO scam with a one-line &#34;denial&#34; of involvement mixed in there. It&#39;s obviously very unethical of Christel to not mention her own involvement in the scam which the blog post promotes.</description>
     </item>
     
     <item>
@@ -128,8 +142,7 @@ No se lo deseo ni a mi peor enemigo.</description>
       <guid>https://sysarmy.com/blog/2017/08/15/como-levante-un-viejo-proliant-o-la-espada-del-rey-arturo/</guid>
       <description>Por Pablo Carboni.
 El sábado de la última semana de junio, asistí a nerdear.la 2017 - puntual, 9hs - a las charlas previstas. Además de eso, concurrí con una vieja notebook (año 2000), con todo sus elementos originales, CDs grabados inclusive, de FreeBSD(4.x), lista para donarla al Museo de la Informática.
-En el evento había como desafío &#39;revivir&#39; un Compaq Proliant DL360 G1 (2001) e instalarle un servidor web.
-Todo el mundo había intentado bootear diferentes CDs de Linux.</description>
+En el evento había como desafío &#39;revivir&#39; un Compaq Proliant DL360 G1 (2001) e instalarle un servidor web.</description>
     </item>
     
     <item>
@@ -249,7 +262,7 @@ You might already have heard about CVE-2016-0800 by its nickname &#34;</descript
 &amp;nbsp;
 Marzo podría haber empezado mejor para el equipo de OpenSSL. Durante la última semana, el equipo de desarrollo de OpenSSL publicó dos CVEs de alto impacto, CVE-2016-0800y CVE-2016-0703. En este post, explicamos cómo las CVEs pueden comprometer tu seguridad y qué pasos podés tomar para asegurarte.
 CVE-2016-0800 (DROWN) 
-Probablemente hayas escuchado hablar acerca de CVE-2016-0800 por su nick, &amp;ldquo;DROWN&amp;rdquo;.</description>
+Probablemente hayas escuchado hablar acerca de CVE-2016-0800 por su nick, &#34;</description>
     </item>
     
     <item>
@@ -327,7 +340,7 @@ Configuración y primeros pasos para levantar el motor de base de datos.
 Como usuario Informix
 Primero, exportar estas tres variables de ambiente:
 export INFORMIXDIR=/opt/IBM/informix export PATH=$PATH:$INFORMIXDIR/bin export INFORMIXSERVER=ol_informix_raspi  Ponerlas en el .bashrc para dejarlas por defecto a nuestro usuario informix.
-informix@raspberrypi ~ $ tail .bashrc # this, if it&#39;s already enabled in /etc/bash.bashrc and /etc/profile # sources /etc/bash.</description>
+informix@raspberrypi ~ $ tail .bashrc # this, if it&#39;s already enabled in /etc/bash.</description>
     </item>
     
     <item>
@@ -434,7 +447,7 @@ De qué trabaja un SysAdmin? Soy la puta que esta para hacer todo lo que se te c
       <guid>https://sysarmy.com/blog/2015/02/20/de-que-trabajas/</guid>
       <description>De dónde venimos? Hacia dónde vamos? De qué trabajás?
  Ésas deben ser las preguntas más difíciles de responder para alguien de sistemas.
-Cómo explicar a los que tienen poco conocimiento de lo nuestro, que hay personas que trabajan con computadoras &amp;ldquo;más grandes&amp;rdquo; que las que ellos conocen y que están conectadas entre sí por cables que no son los que ellos usan.
+Cómo explicar a los que tienen poco conocimiento de lo nuestro, que hay personas que trabajan con computadoras &#34;más grandes&#34; que las que ellos conocen y que están conectadas entre sí por cables que no son los que ellos usan.
 Que armar estas computadoras o estas redes puede llevar muchísimo tiempo y costar miles de dólares, para que el resultado final sea esa paginita a la que acceden todos los días o ese sistemita que usan en el trabajo y que cada tanto se cae.</description>
     </item>
     
@@ -468,8 +481,7 @@ Que armar estas computadoras o estas redes puede llevar muchísimo tiempo y cost
 &amp;nbsp;
 Para eso hicimos un pequeño formulario donde pueden votar sus temas favoritos, además de dejarnos comentarios/sugerencias/puteadas para el evento que se viene :)
 &amp;nbsp;
-Esperamos su colaboración !
-@nerdearla</description>
+Esperamos su colaboración !</description>
     </item>
     
     <item>
