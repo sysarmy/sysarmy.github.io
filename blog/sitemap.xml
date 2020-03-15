@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sysarmy.com/blog/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <loc>https://sysarmy.com/blog/tags/coronavirus/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sysarmy.com/blog/tags/encuesta/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <loc>https://sysarmy.com/blog/tags/covid19/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/cuarentena/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/posts/cuarentenarmy/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sysarmy.com/blog/posts/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/sysarmy/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/encuesta/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,16 +54,6 @@
   
   <url>
     <loc>https://sysarmy.com/blog/tags/sueldos/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/sysarmy/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
