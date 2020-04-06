@@ -36,6 +36,25 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <item>
+    <title>
+    <![CDATA[ Polemica en /var - S04E00 ]]>
+    </title>
+    <link>
+    https://ar.ivoox.com/es/polemica-var-s04e00-audios-mp3_rf_49659395_1.html
+    </link>
+    <enclosure url="https://ar.ivoox.com/es/polemica-var-s04e00_mf_49659395_feed_1.mp3" type="audio/mpeg" length="21825036"/>
+    <description>
+    <![CDATA[
+    El segmento de noticias de Polémica. Rusia probando desconectar internet, CoronaVirus, ZFS y Linus Torvalds, Rambler vs Nginx. 2FA via SMS y muchas noticias mas, vamos a dejar todos los links en el blog de sysarmy. Participan de este segmento Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Ariel (@ajolo) y Edu (@jedux).
+    ]]>
+    </description>
+    <pubDate>Mon, 06 Apr 2020 06:11:14 +0200</pubDate>
+    <itunes:duration>45:28</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid>https://www.ivoox.com/49659395</guid>
+    </item>
+    <item>
+    <item>
         <title>
             <![CDATA[Polémica en /var - S04E00 - #Opt - Netiquette ]]>
         </title>
