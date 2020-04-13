@@ -6,10 +6,28 @@
     <description>Recent content in Tags on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>join</title>
+      <link>https://sysarmy.com/blog/tags/join/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysarmy</title>
+      <link>https://sysarmy.com/blog/tags/sysarmy/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/sysarmy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>podcast</title>
@@ -35,15 +53,6 @@
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/sistemas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sysarmy</title>
-      <link>https://sysarmy.com/blog/tags/sysarmy/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sysarmy.com/blog/tags/sysarmy/</guid>
       <description></description>
     </item>
     
