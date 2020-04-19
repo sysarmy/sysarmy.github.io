@@ -37,6 +37,25 @@
     <itunes:category text="Technology"/>
     <item>
         <title>
+        <![CDATA[ #PolemicaEnVar - S04E00 - #Opt - Cuarentesting ]]>
+        </title>
+        <link>
+        https://www.ivoox.com/polemicaenvar-s04e00-opt-cuarentesting-audios-mp3_rf_50155430_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemicaenvar-s04e00-opt-cuarentesting_mf_50155430_feed_1.mp3" type="audio/mpeg" length="22641453"/>
+        <description>
+        <![CDATA[
+        Charlamos sobre el proceso de desarrollo del kernel de linux, las diferentes etapas del ciclo, las herramientas de testing, integración continua y un interesante pedido de reescribir el kernel en perl. Participan de este segmento Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Ariel (@ajolo) y Edu (@jedux).
+        ]]>
+        </description>
+        <pubDate>Sun, 19 Apr 2020 04:17:11 +0200</pubDate>
+        <itunes:duration>47:10</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/50155430</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+        </item>
+    <item>
+        <title>
         <![CDATA[ Polemica en /var - S04E00 ]]>
         </title>
         <link>
