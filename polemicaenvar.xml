@@ -36,6 +36,25 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <item>
+    <title>
+        <![CDATA[ Polemica en /var - S04E01 ]]>
+        </title>
+        <link>
+        https://www.ivoox.com/polemica-var-s04e01-audios-mp3_rf_50719606_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e01_mf_50719606_feed_1.mp3" type="audio/mpeg" length="26974866"/>
+        <description>
+        <![CDATA[
+        El segmento de noticias de Polémica. COVID COVID COVID, seguridad de Zoom, incidentes con palas, COBOL, Apple con nuevos procesadores y particularidades de sus laptops. Ademas de novedades de nuestras corporaciones malignas favoritas. Participan de este segmento Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Ariel (@ajolo) y Edu (@jedux).
+        ]]>
+        </description>
+        <pubDate>Tue, 05 May 2020 06:21:23 +0200</pubDate>
+        <itunes:duration>56:11</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/50719606</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+        </item>
+    <item>
         <title>
         <![CDATA[ #PolemicaEnVar - S04E00 - #Opt - Cuarentesting ]]>
         </title>
