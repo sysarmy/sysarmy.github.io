@@ -36,6 +36,25 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <item>
+        <title>
+        <![CDATA[ #PolemicaEnVar - S04E01 - #Oncall ]]>
+        </title>
+        <link>
+        https://www.ivoox.com/polemicaenvar-s04e01-oncall-audios-mp3_rf_51427508_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemicaenvar-s04e01-oncall_mf_51427508_feed_1.mp3" type="audio/mpeg" length="28970349"/>
+        <description>
+        <![CDATA[
+        En este episodio abordamos a fondo el tema del #oncall, que cosas implica estar de guardia. Cuales son los roles clave, como es el proceso de aprendizaje y cómo gestionar la compleja maquinaria de las operaciones en el momento de estar de guardia. Participan de este segmento Vero (@verovand), Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Ariel (@ajolo) y Edu (@jedux).
+        ]]>
+        </description>
+        <pubDate>Tue, 26 May 2020 03:16:26 +0200</pubDate>
+        <itunes:duration>01:00:21</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/51427508</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
     <title>
         <![CDATA[ Polemica en /var - S04E01 ]]>
         </title>
