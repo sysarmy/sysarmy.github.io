@@ -37,7 +37,22 @@
     <itunes:category text="Technology"/>
     <item>
         <title>
-        <![CDATA[ #PolemicaEnVar - S04E01 - #Oncall ]]>
+            <![CDATA[ Polemica en /var - S04E02 ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e02-audios-mp3_rf_51871681_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e02_mf_51871681_feed_1.mp3" type="audio/mpeg" length="26482868"/>
+        <description>
+            <![CDATA[ El segmento de noticias de Polémica. COVID COVID COVID, Zoom, incidentes con vacas, fichines, Apple con zero-day de 100k USD. Además de novedades de nuestras corporaciones malignas favoritas. Participan de este segmento Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Ariel (@ajolo) y Edu (@jedux). ]]>
+        </description>
+        <pubDate>Tue, 09 Jun 2020 00:51:12 +0200</pubDate>
+        <itunes:duration>55:10</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/51871681</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ PolemicaEnVar - S04E01 - #Oncall ]]>
         </title>
         <link>
         https://www.ivoox.com/polemicaenvar-s04e01-oncall-audios-mp3_rf_51427508_1.html
