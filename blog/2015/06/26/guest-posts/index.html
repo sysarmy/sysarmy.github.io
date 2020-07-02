@@ -180,10 +180,34 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
           
         </ul>
     </div>
-    
-    <br>
     <p><h4>Dejanos tu comentario:</h4></p>
-    <div class="fb-comments" data-href="https://sysarmy.com/blog" data-width="" data-numposts="5"></div>
+
+    <div id="vanilla-comments"></div>
+    <script type="text/javascript">
+         
+        var vanilla_forum_url = 'https://help.sysarmy.com/'; 
+        var vanilla_identifier = "https:\/\/sysarmy.com\/blog\/2015\/06\/26\/guest-posts\/"; 
+        var vanilla_title = "Guest posts";
+
+         
+        
+        var vanilla_category_id = '11'; 
+
+         
+        (function() {
+            var vanilla = document.createElement('script');
+            vanilla.type = 'text/javascript';
+            var timestamp = new Date().getTime();
+            vanilla.src = vanilla_forum_url + '/js/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(vanilla);
+        })();
+    </script>
+    <noscript>
+        Please enable JavaScript to view the
+        <a href="http://vanillaforums.com/?ref_noscript">
+            comments powered by /Help.
+        </a>
+    </noscript>
 
     <div>
         <section id="prev">

@@ -6,10 +6,20 @@
     <description>Recent content in containers on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/containers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comandos Básicos con Docker - 2da Parte</title>
+      <link>https://sysarmy.com/blog/posts/docker-comandos-basicos-segunda-parte/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/docker-comandos-basicos-segunda-parte/</guid>
+      <description>Además de crear, ejecutar, detener y eliminar contenedores como explicamos en nuestro post previo hay muchas más operaciones que podemos realizar. Entre ellas se destacan el ver la configuración, darle almacenamiento persistente, e inspeccionar sus logs. En este artículo veremos ejemplos de cada una de estas acciones. Para poder ilustrarlas mejor, crearemos un nuevo contenedor con opciones adicionales.
+Comandos de administración La salida de docker help devuelve dos secciones claramente separadas: Management Commands (agrupados por categoría) y la más genérica Commands (a secas).</description>
+    </item>
     
     <item>
       <title>Comandos Básicos con Docker - 1era Parte</title>
