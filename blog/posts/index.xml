@@ -6,10 +6,20 @@
     <description>Recent content in Posts on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Polémica en /var S04E04 - Tips para 1x engineers</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e04-1x-engineers/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e04-1x-engineers/</guid>
+      <description>&lt;p&gt;En este episodio vamos a estar charlando sobre consejos y lecciones aprendidas para 1x engineers. Topics sobre productividad, aprendizaje, lenguajes de programación, testing, tecnologías, devops, seguridad y project management. Participan en este episodio: Adriel Paredes(@adrielparedes), Juan (@godlike64), Andrea (@peorth) y Eduardo (@jedux)&lt;/p&gt;
+&lt;p&gt;Escuchanos en Spotify &lt;a href=&#34;https://open.spotify.com/episode/1RpnkNYnd1ovsrzq2r6CxB?si=tAYYoVSYShCQFjURNwRoHQ&#34;&gt;Parte 1&lt;/a&gt; &lt;a href=&#34;https://open.spotify.com/episode/6EAMtJVREYEcN4SuR7nVxh?si=wXAyogCsQgefePkXhlDPTw&#34;&gt;Parte 2&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Comandos Básicos con Docker - 2da Parte</title>
