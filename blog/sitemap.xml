@@ -4,12 +4,47 @@
   
   <url>
     <loc>https://sysarmy.com/blog/tags/aprender/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sysarmy.com/blog/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/gitops/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/posts/gitops-infraestructura-siguiente-nivel/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/kubernetes/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/posts/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/sistemas/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/sysarmy/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,26 +59,6 @@
   
   <url>
     <loc>https://sysarmy.com/blog/posts/polemicaenvar-s04e04-1x-engineers/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/posts/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/sistemas/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/sysarmy/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   

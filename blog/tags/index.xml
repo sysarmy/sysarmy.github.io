@@ -6,7 +6,7 @@
     <description>Recent content in Tags on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>aprender</title>
       <link>https://sysarmy.com/blog/tags/aprender/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/aprender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitops</title>
+      <link>https://sysarmy.com/blog/tags/gitops/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/gitops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://sysarmy.com/blog/tags/kubernetes/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistemas</title>
+      <link>https://sysarmy.com/blog/tags/sistemas/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/sistemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysarmy</title>
+      <link>https://sysarmy.com/blog/tags/sysarmy/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/sysarmy/</guid>
       <description></description>
     </item>
     
@@ -35,24 +71,6 @@
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/polemicaenvar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sistemas</title>
-      <link>https://sysarmy.com/blog/tags/sistemas/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sysarmy.com/blog/tags/sistemas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sysarmy</title>
-      <link>https://sysarmy.com/blog/tags/sysarmy/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sysarmy.com/blog/tags/sysarmy/</guid>
       <description></description>
     </item>
     
