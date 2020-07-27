@@ -136,7 +136,8 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
     </div>
 </div>
 
-           <p>Además de crear, ejecutar, detener y eliminar contenedores como explicamos en <a href="posts/docker-comandos-basicos-primera-parte">nuestro post previo</a> hay muchas más operaciones que podemos realizar. Entre ellas se destacan el ver la configuración, darle almacenamiento persistente, e inspeccionar sus logs. En este artículo veremos ejemplos de cada una de estas acciones. Para poder ilustrarlas mejor, crearemos un nuevo contenedor con opciones adicionales.</p>
+           <p>Además de crear, ejecutar, detener y eliminar contenedores como explicamos en <a href="posts/docker-comandos-basicos-primera-parte">nuestro post previo</a>
+ hay muchas más operaciones que podemos realizar. Entre ellas se destacan el ver la configuración, darle almacenamiento persistente, e inspeccionar sus logs. En este artículo veremos ejemplos de cada una de estas acciones. Para poder ilustrarlas mejor, crearemos un nuevo contenedor con opciones adicionales.</p>
 <h2 id="comandos-de-administración">Comandos de administración</h2>
 <p>La salida de <code>docker help</code> devuelve dos secciones claramente separadas: <strong>Management Commands</strong> (agrupados por categoría) y la más genérica <strong>Commands</strong> (a secas). Ambos conjuntos nos permiten interactuar con Docker pero hasta este momento hemos utilizado los últimos exclusivamente. Sin embargo, es recomendable acostumbrarnos a utilizar los primeros por una cuestión de consistencia. Veamos la razón.</p>
 <p>En el artículo anterior aprendimos a mostrar la lista de imágenes y contenedores de la siguiente manera:</p>
@@ -165,7 +166,8 @@ docker container ls -a
 </li>
 </ul>
 <blockquote>
-<p>El <a href="https://docs.docker.com/storage/volumes/">uso de volúmenes</a> es el método recomendado para implementar almacenamiento persistente ya que es manejado enteramente por Docker. No depende de la estructura de directorios del host.</p>
+<p>El <a href="https://docs.docker.com/storage/volumes/" target="_blank">uso de volúmenes</a>
+ es el método recomendado para implementar almacenamiento persistente ya que es manejado enteramente por Docker. No depende de la estructura de directorios del host.</p>
 </blockquote>
 <p>Dicho de otra manera, el contenedor que acabamos de crear servirá el contenido del volumen <strong>sysarmy-webapp</strong>. Para saber dónde reside ese volumen con el fin de agregar archivos al mismo, podemos usar el comando cuya salida vemos en la imagen siguiente:</p>
 <pre><code>docker volume inspect sysarmy-webapp
@@ -174,7 +176,8 @@ docker container ls -a
 <p><img src="assets/docker-volume-inspect-1.png" alt="Inspeccionar volumen utilizado en el contenedor"></p>
 <p>Ahora que sabemos que el volumen está ubicado en <strong>/var/lib/docker/volumes/sysarmy-webapp/_data</strong>, vamos a insertar contenido en el mismo para que el contenedor lo muestre.</p>
 <h2 id="agregar-archivos-en-el-volumen">Agregar archivos en el volumen</h2>
-<p>Como primer paso, añadamos un archivo <strong>index.html</strong> y una copia de la <a href="https://github.com/moby/moby/blob/master/LICENSE">licencia Apache 2.0</a> al volumen:</p>
+<p>Como primer paso, añadamos un archivo <strong>index.html</strong> y una copia de la <a href="https://github.com/moby/moby/blob/master/LICENSE" target="_blank">licencia Apache 2.0</a>
+ al volumen:</p>
 <p><img src="assets/docker-agregar-archivos-volumen-1.png" alt="Agregar archivos a un volumen"></p>
 <p>Como ejemplo, usamos el siguiente <strong>index.html</strong> básico:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">body</span>&gt;

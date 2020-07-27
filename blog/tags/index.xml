@@ -6,15 +6,24 @@
     <description>Recent content in Tags on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>epic fails</title>
+      <link>https://sysarmy.com/blog/tags/epic-fails/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/epic-fails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>noticias</title>
       <link>https://sysarmy.com/blog/tags/noticias/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/noticias/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>podcast</title>
       <link>https://sysarmy.com/blog/tags/podcast/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/podcast/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>polemicaenvar</title>
       <link>https://sysarmy.com/blog/tags/polemicaenvar/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/polemicaenvar/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>sistemas</title>
       <link>https://sysarmy.com/blog/tags/sistemas/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/sistemas/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>sysarmy</title>
       <link>https://sysarmy.com/blog/tags/sysarmy/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/sysarmy/</guid>
       <description></description>

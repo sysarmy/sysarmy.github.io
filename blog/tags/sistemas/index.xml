@@ -6,10 +6,27 @@
     <description>Recent content in sistemas on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/sistemas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Polémica en /var S04E05 - Epic Fails</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</guid>
+      <description>&lt;p&gt;En este episodio seleccionamos alguno de los fails tecnológicos mas grandes de los últimos tiempo y condimentamos con algunas noticias de ipos falopa.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Escuchanos en &lt;a href=&#34;https://open.spotify.com/episode/4MikQU0AlJUNSpE769oVD4?si=jkX-MpWPTFCJNgWvEhZDLA&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Polémica en /var S04E06 - Noticias Julio</title>
@@ -17,8 +34,13 @@
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e06-noticias/</guid>
-      <description>&lt;p&gt;Llego el episodio de noticias del mes con muchas novedades TikTok, IPOs Falopa, Apple, Facebook, Gaming y todas las noticias del mundo de sistemas que estabas esperando.&lt;/p&gt;
-&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34;&gt;Reshi&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/peorth&#34;&gt;Andrea&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/godlike64&#34;&gt;Godlike&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/ajolo&#34;&gt;Jolo&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/jedux&#34;&gt;Edu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Llegó el episodio de noticias del mes con muchas novedades TikTok, IPOs Falopa, Apple, Facebook, Gaming y todas las noticias del mundo de sistemas que estabas esperando.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,7 +50,12 @@
       
       <guid>https://sysarmy.com/blog/posts/gitops-infraestructura-siguiente-nivel/</guid>
       <description>&lt;p&gt;La infraestructura evoluciona y al mismo tiempo trae nuevos desafíos. &lt;strong&gt;¿Puede GitOps ser el nuevo factor determinante en la industria?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DevOps más allá de un rol, es también una filosofía, en la cual hacer las cosas de la manera más automatizada e incorporando el conjunto de skills propios de Desarrollo y de Operaciones. Esto comenzó hace aproximadamente unos 10 años, con la aparición, primero de &lt;a href=&#34;https://puppet.com/&#34; title=&#34;Configuration management&#34;&gt;Puppet&lt;/a&gt; y &lt;a href=&#34;https://www.chef.io/products/automate/&#34;&gt;Chef&lt;/a&gt;, y luego con &lt;a href=&#34;https://www.ansible.com/&#34;&gt;Ansible&lt;/a&gt;. Fue un proceso predecible ya que &lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;DevOps&lt;/a&gt; (y posiblemente también &lt;a href=&#34;https://landing.google.com/sre/&#34;&gt;SRE&lt;/a&gt;), son en su mayoría una evolución de la antigua posición de System Administrator, que permite adaptar a ellos mismos a un nuevo rol para satisfacer los requisitos de la industria que se va actualizando junto con el paso del tiempo.&lt;/p&gt;</description>
+&lt;p&gt;DevOps más allá de un rol, es también una filosofía, en la cual hacer las cosas de la manera más automatizada e incorporando el conjunto de skills propios de Desarrollo y de Operaciones. Esto comenzó hace aproximadamente unos 10 años, con la aparición, primero de &lt;a href=&#34;https://puppet.com/&#34; target=&#34;_blank&#34;&gt;Puppet&lt;/a&gt;
+ y &lt;a href=&#34;https://www.chef.io/products/automate/&#34; target=&#34;_blank&#34;&gt;Chef&lt;/a&gt;
+, y luego con &lt;a href=&#34;https://www.ansible.com/&#34; target=&#34;_blank&#34;&gt;Ansible&lt;/a&gt;
+. Fue un proceso predecible ya que &lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34; target=&#34;_blank&#34;&gt;DevOps&lt;/a&gt;
+ (y posiblemente también &lt;a href=&#34;https://landing.google.com/sre/&#34; target=&#34;_blank&#34;&gt;SRE&lt;/a&gt;
+), son en su mayoría una evolución de la antigua posición de System Administrator, que permite adaptar a ellos mismos a un nuevo rol para satisfacer los requisitos de la industria que se va actualizando junto con el paso del tiempo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -38,7 +65,9 @@
       
       <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e04-1x-engineers/</guid>
       <description>&lt;p&gt;En este episodio vamos a estar charlando sobre consejos y lecciones aprendidas para 1x engineers. Topics sobre productividad, aprendizaje, lenguajes de programación, testing, tecnologías, devops, seguridad y project management. Participan en este episodio: Adriel Paredes(@adrielparedes), Juan (@godlike64), Andrea (@peorth) y Eduardo (@jedux)&lt;/p&gt;
-&lt;p&gt;Escuchanos en Spotify &lt;a href=&#34;https://open.spotify.com/episode/1RpnkNYnd1ovsrzq2r6CxB?si=tAYYoVSYShCQFjURNwRoHQ&#34;&gt;Parte 1&lt;/a&gt; &lt;a href=&#34;https://open.spotify.com/episode/6EAMtJVREYEcN4SuR7nVxh?si=wXAyogCsQgefePkXhlDPTw&#34;&gt;Parte 2&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Escuchanos en Spotify &lt;a href=&#34;https://open.spotify.com/episode/1RpnkNYnd1ovsrzq2r6CxB?si=tAYYoVSYShCQFjURNwRoHQ&#34; target=&#34;_blank&#34;&gt;Parte 1&lt;/a&gt;
+ &lt;a href=&#34;https://open.spotify.com/episode/6EAMtJVREYEcN4SuR7nVxh?si=wXAyogCsQgefePkXhlDPTw&#34; target=&#34;_blank&#34;&gt;Parte 2&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -57,7 +86,7 @@ Comandos de administración La salida de docker help devuelve dos secciones clar
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/posts/docker-comandos-basicos-primera-parte/</guid>
-      <description>Después de haber aprendido qué es Docker y qué soluciones brinda en el post anterior, ahora es momento de comenzar a aprender los comandos necesarios para sacar provecho de esta tecnología. Asumimos el uso de sudo o de un grupo que tenga los permisos para ejecutar estos comandos (otorgados a través de /etc/sudoers).
+      <description>Después de haber aprendido qué es Docker y qué soluciones brinda en el post anterior , ahora es momento de comenzar a aprender los comandos necesarios para sacar provecho de esta tecnología. Asumimos el uso de sudo o de un grupo que tenga los permisos para ejecutar estos comandos (otorgados a través de /etc/sudoers).
 Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un contenedor basado en esta, eso es solamente el principio.</description>
     </item>
     
@@ -67,7 +96,7 @@ Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un 
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/posts/que-es-docker/</guid>
-      <description>Es probable que la palabra contenedores sea moneda corriente en nuestro lugar de trabajo o algo relativamente desconocido. De una u otra forma, la necesidad de utilizarlos va creciendo a medida que lo hace la complejidad de las aplicaciones que creamos. Cuando cada una de ellas depende de ciertas librerías, de algún intérprete específico, o de una base de datos en particular, necesitamos tener cuidado para que no entren en conflicto unas con otras.</description>
+      <description>Es probable que la palabra &amp;lt;em&amp;gt;contenedores&amp;lt;/em&amp;gt; sea moneda corriente en nuestro lugar de trabajo o algo relativamente desconocido. De una u otra forma, la necesidad de utilizarlos va creciendo a medida que lo hace la complejidad de las aplicaciones que creamos. Cuando cada una de ellas depende de ciertas librerías, de algún intérprete específico, o de una base de datos en particular, necesitamos tener cuidado para que no entren en conflicto unas con otras.</description>
     </item>
     
     <item>
@@ -77,8 +106,12 @@ Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un 
       
       <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e03-ciencia-de-cohetes/</guid>
       <description>&lt;p&gt;En este episodio de polémica entramos a fondo en el ultimo lanzamiento de SpaceX. Que tecnologías usan los cohetes, un poco de historia espacial. Satelites-Ovnis Starlink y mucha data más.&lt;/p&gt;
-&lt;p&gt;Con la vuelta estelar de &lt;a href=&#34;https://twitter.com/ar_jorge1987&#34;&gt;Jorge&lt;/a&gt; además de &lt;a href=&#34;https://twitter.com/ajolo&#34;&gt;Jolo&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/godlike64&#34;&gt;Godlike&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/7tpFWZOH4Mpve474N76Lkv?si=yVkiOWPdRC27QWcEg1z2UQ&#34;&gt;Escuchanos en Spotify&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Con la vuelta estelar de &lt;a href=&#34;https://twitter.com/ar_jorge1987&#34; target=&#34;_blank&#34;&gt;Jorge&lt;/a&gt;
+ además de &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/7tpFWZOH4Mpve474N76Lkv?si=yVkiOWPdRC27QWcEg1z2UQ&#34; target=&#34;_blank&#34;&gt;Escuchanos en Spotify&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -88,8 +121,14 @@ Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un 
       
       <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e02-noticias/</guid>
       <description>&lt;p&gt;Llego el episodio de noticias del mes con muchas novedades del COVID-19, Apple, Facebook, Gaming y todas las noticias del mundo de sistemas que estabas esperando.&lt;/p&gt;
-&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34;&gt;Reshi&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/peorth&#34;&gt;Andrea&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/godlike64&#34;&gt;Godlike&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/ajolo&#34;&gt;Jolo&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/jedux&#34;&gt;Edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/5aiHPIHFFq5f0cDC374jHB?si=pEZsq7jtR9mWhA9317dhQQ&#34;&gt;Escuchanos en Spotify&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/5aiHPIHFFq5f0cDC374jHB?si=pEZsq7jtR9mWhA9317dhQQ&#34; target=&#34;_blank&#34;&gt;Escuchanos en Spotify&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -99,8 +138,14 @@ Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un 
       
       <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e01-noticias/</guid>
       <description>&lt;p&gt;Llego el episodio de noticias del mes de Mayo con muchas novedades del COVID-19, Apple, Facebook, Boeing y todas las noticias del mundo de sistemas que estabas esperando.&lt;/p&gt;
-&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34;&gt;Reshi&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/peorth&#34;&gt;Andrea&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/godlike64&#34;&gt;Godlike&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/ajolo&#34;&gt;Jolo&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/jedux&#34;&gt;Edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/3meTRXrE9jHy1kLS1dzRxX?si=Nmd4owV0RFeszZmr9f-yVA&#34;&gt;Escuchanos en Spotify&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/3meTRXrE9jHy1kLS1dzRxX?si=Nmd4owV0RFeszZmr9f-yVA&#34; target=&#34;_blank&#34;&gt;Escuchanos en Spotify&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -111,7 +156,8 @@ Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un 
       <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e00-noticias/</guid>
       <description>&lt;p&gt;Increíble pero cierto, arrancamos la 5ta temporada de Polémica en /var ! charlamos sobre algunas de las noticias que transcurrieron en el último mes(es).
 Nos adaptamos a los tiempos que corren y cambiamos el formato a una videollamada donde repasamos lo más interesante del mundo de sistemas.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/54rOiXC2dyoyKOaBxfw0IB?si=FYKsjR3ETeKWxMihlGlW5g&#34;&gt;Escuchanos en Spotify&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/54rOiXC2dyoyKOaBxfw0IB?si=FYKsjR3ETeKWxMihlGlW5g&#34; target=&#34;_blank&#34;&gt;Escuchanos en Spotify&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
   </channel>

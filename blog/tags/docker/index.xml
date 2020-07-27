@@ -27,7 +27,7 @@ Comandos de administración La salida de docker help devuelve dos secciones clar
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/posts/docker-comandos-basicos-primera-parte/</guid>
-      <description>Después de haber aprendido qué es Docker y qué soluciones brinda en el post anterior, ahora es momento de comenzar a aprender los comandos necesarios para sacar provecho de esta tecnología. Asumimos el uso de sudo o de un grupo que tenga los permisos para ejecutar estos comandos (otorgados a través de /etc/sudoers).
+      <description>Después de haber aprendido qué es Docker y qué soluciones brinda en el post anterior , ahora es momento de comenzar a aprender los comandos necesarios para sacar provecho de esta tecnología. Asumimos el uso de sudo o de un grupo que tenga los permisos para ejecutar estos comandos (otorgados a través de /etc/sudoers).
 Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un contenedor basado en esta, eso es solamente el principio.</description>
     </item>
     
@@ -37,7 +37,7 @@ Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un 
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/posts/que-es-docker/</guid>
-      <description>Es probable que la palabra contenedores sea moneda corriente en nuestro lugar de trabajo o algo relativamente desconocido. De una u otra forma, la necesidad de utilizarlos va creciendo a medida que lo hace la complejidad de las aplicaciones que creamos. Cuando cada una de ellas depende de ciertas librerías, de algún intérprete específico, o de una base de datos en particular, necesitamos tener cuidado para que no entren en conflicto unas con otras.</description>
+      <description>Es probable que la palabra &amp;lt;em&amp;gt;contenedores&amp;lt;/em&amp;gt; sea moneda corriente en nuestro lugar de trabajo o algo relativamente desconocido. De una u otra forma, la necesidad de utilizarlos va creciendo a medida que lo hace la complejidad de las aplicaciones que creamos. Cuando cada una de ellas depende de ciertas librerías, de algún intérprete específico, o de una base de datos en particular, necesitamos tener cuidado para que no entren en conflicto unas con otras.</description>
     </item>
     
   </channel>

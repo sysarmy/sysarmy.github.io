@@ -136,10 +136,12 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=319096
     </div>
 </div>
 
-           <p>Después de haber aprendido qué es Docker y qué soluciones brinda en <a href="posts/que-es-docker">el post anterior</a>, ahora es momento de comenzar a aprender los comandos necesarios para sacar provecho de esta tecnología. Asumimos el uso de sudo o de un grupo que tenga los permisos para ejecutar estos comandos (otorgados a través de <strong>/etc/sudoers</strong>).</p>
+           <p>Después de haber aprendido qué es Docker y qué soluciones brinda en <a href="posts/que-es-docker">el post anterior</a>
+, ahora es momento de comenzar a aprender los comandos necesarios para sacar provecho de esta tecnología. Asumimos el uso de sudo o de un grupo que tenga los permisos para ejecutar estos comandos (otorgados a través de <strong>/etc/sudoers</strong>).</p>
 <p>Si bien en el artículo anterior vimos cómo descargar una imagen y ejecutar un contenedor basado en esta, eso es solamente el principio. En esta oportunidad explicaremos otras formas de crear, así como de ejecutar, detener y eliminar contenedores.</p>
 <h2 id="más-sobre-la-creación-de-contenedores">Más sobre la creación de contenedores</h2>
-<p>Recordemos que docker run, seguido del nombre de una imagen, creará y ejecutará un contenedor basado en esta. Si dicha imagen no existe en el equipo host, Docker primero la obtendrá desde el <a href="https://hub.docker.com/">Hub</a>, mientras que en sucesivas ocasiones la utilizará sin necesidad de descargarla nuevamente.</p>
+<p>Recordemos que docker run, seguido del nombre de una imagen, creará y ejecutará un contenedor basado en esta. Si dicha imagen no existe en el equipo host, Docker primero la obtendrá desde el <a href="https://hub.docker.com/" target="_blank">Hub</a>
+, mientras que en sucesivas ocasiones la utilizará sin necesidad de descargarla nuevamente.</p>
 <blockquote>
 <p>Si no queremos despegarnos de la línea de comandos, también podemos buscar imágenes utilizando <code>docker search</code> seguido por un criterio de búsqueda.</p>
 </blockquote>
@@ -188,7 +190,8 @@ docker ps -a
 </code></pre>
 <p><img src="assets/docker-rm.png" alt="Eliminar contenedores"></p>
 <p>Siempre podemos ver la lista de imágenes que tenemos descargadas empleando <code>docker images</code> para asegurarnos de que no estamos desperdiciando espacio en el sistema de archivos del host con archivos que no empleamos más.</p>
-<p>En el <a href="posts/docker-comandos-basicos-segunda-parte">próximo post</a> de esta serie aprenderemos otras alternativas para realizar las tareas que detallamos en esta oportunidad y otras nuevas. ¡Nos leemos ahí!</p>
+<p>En el <a href="posts/docker-comandos-basicos-segunda-parte">próximo post</a>
+ de esta serie aprenderemos otras alternativas para realizar las tareas que detallamos en esta oportunidad y otras nuevas. ¡Nos leemos ahí!</p>
 
            <div class="ve-desktop">
 <ins class='dcmads' style='display:inline-block;width:728px;height:90px'
@@ -278,7 +281,7 @@ docker ps -a
 
 </aside>
 
-<meta itemprop="wordCount" content="781">
+<meta itemprop="wordCount" content="783">
 <meta itemprop="datePublished" content="2020-06-24">
 <meta itemprop="url" content="https://sysarmy.com/blog/posts/docker-comandos-basicos-primera-parte/">
 
