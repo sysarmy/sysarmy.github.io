@@ -36,6 +36,51 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <item>
+    <title>
+        <![CDATA[ Polémica en /var - S04E09 - Especial SRE - Simply Restart Everything ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e09-especial-sre-audios-mp3_rf_54684041_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e09-especial-sre_mf_54684041_feed_1.mp3" type="audio/mpeg" length="43320694"/>
+        <description>
+        <![CDATA[ Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este episodio nos acompañarán Marcos Lilljedahl y Gonzalo Darriba para charlar sobre la diferencia que tiene este nuevo rol con respecto al clásico SysAdmin. Mientras esperan el episodio no se olviden de completar la encuesta de sueldos ! https://sysar.my/sueldos20202 ]]>
+        </description>
+        <pubDate>Sun, 02 Aug 2020 21:41:52 +0200</pubDate>
+        <itunes:duration>01:30:15</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/54684041</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E08 - Especial DevOps - La nube son los padres ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e08-especial-devops-audios-mp3_rf_54683199_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e08-especial-devops_mf_54683199_feed_1.mp3" type="audio/mpeg" length="40278162"/>
+        <description>
+        <![CDATA[ Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este episodio nos acompañará Alexis Superí (https://twitter.com/axs14) quien se desempeña como Head de arquitectura de Santander Tecnología. Mientras esperan el episodio no se olviden de completar la encuesta de sueldos ! https://sysar.my/sueldos20202 ]]>
+        </description>
+        <pubDate>Sun, 02 Aug 2020 21:01:49 +0200</pubDate>
+        <itunes:duration>01:23:54</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/54683199</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E07 - Especial SysAdmin ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e07-especial-sysadmin-audios-mp3_rf_54682909_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e07-especial-sysadmin_mf_54682909_feed_1.mp3" type="audio/mpeg" length="42411633"/>
+        <description>
+        <![CDATA[ Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este episodio nos acompaña Sebastian Dominguez (@SebaMinguez) quien se desempeña como OpenSource/Containers Specialist en Accenture ademas de organizar el chapter rosarino de sysarmy, https://twitter.com/IT_Floss ]]>
+        </description>
+        <pubDate>Sun, 02 Aug 2020 20:51:55 +0200</pubDate>
+        <itunes:duration>01:28:21</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/54682909</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+        </item>
+    <item>
         <title>
         <![CDATA[ Polemica en /var - S04E05 - Epic Fails-final-final2 ]]>
         </title>
