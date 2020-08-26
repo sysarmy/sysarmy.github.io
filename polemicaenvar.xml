@@ -36,6 +36,23 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <item>
+        <title>
+            <![CDATA[ Polémica en /var - S04E11 - Noticias de Julio ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e11-noticias-de-audios-mp3_rf_55487352_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e11-noticias-de_mf_55487352_feed_1.mp3" type="audio/mpeg" length="49891639"/>
+        <description>
+            <![CDATA[ Repasamos todas las noticias del mes. Participan de este segmento Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Jorge (@ar_jorge1987) y Edu (@jedux). ]]>
+        </description>
+        <pubDate>Fri, 21 Aug 2020 06:51:04 +0200</pubDate>
+        <itunes:duration>01:43:56</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/55487352</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
     <title>
         <![CDATA[ Polémica en /var - S04E09 - Especial SRE - Simply Restart Everything ]]>
         </title>
