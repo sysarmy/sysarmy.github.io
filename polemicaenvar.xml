@@ -37,6 +37,23 @@
     <itunes:category text="Technology"/>
     <item>
         <title>
+            <![CDATA[ Polémica en /var - S04E12 - Java: de Tomcat a Minecraft ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e12-java-de-audios-mp3_rf_55893780_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e12-java-de_mf_55893780_feed_1.mp3" type="audio/mpeg" length="31382108"/>
+        <description>
+            <![CDATA[ En este episodio repasamos algunos de los desarrollos más conocidos dentro del mundo de Java. Participan de este segmento Andrea (@peorth), Reshi ( @Rhapsody_Girl), Juan (@godlike64), Jorge (@ar_jorge1987) y Edu (@jedux). ]]>
+        </description>
+        <pubDate>Mon, 31 Aug 2020 23:41:55 +0200</pubDate>
+        <itunes:duration>01:05:22</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/55893780</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
             <![CDATA[ Polémica en /var - S04E11 - Noticias de Julio ]]>
         </title>
         <link>
