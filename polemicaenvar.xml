@@ -37,6 +37,23 @@
     <itunes:category text="Technology"/>
     <item>
         <title>
+            <![CDATA[ Polémica en /var - S04E13 - Disaster Preparedness ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e13-disaster-preparedness-audios-mp3_rf_56099972_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e13-disaster-preparedness_mf_56099972_feed_1.mp3" type="audio/mpeg" length="18076377"/>
+        <description>
+            <![CDATA[ En este episodio charlamos sobre como prepararse para los desastres en el mundo IT. Simulacros, ejercito de monos, planes de gestión de incidente y anécdotas a escala google. Participan de este segmento Juan (@godlike64) y Edu (@jedux). ]]>
+        </description>
+        <pubDate>Fri, 04 Sep 2020 21:55:05 +0200</pubDate>
+        <itunes:duration>37:39</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/56099972</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
             <![CDATA[ Polémica en /var - S04E12 - Java: de Tomcat a Minecraft ]]>
         </title>
         <link>
