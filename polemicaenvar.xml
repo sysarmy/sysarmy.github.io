@@ -37,6 +37,41 @@
     <itunes:category text="Technology"/>
     <item>
         <title>
+            <![CDATA[ Polémica en /var - S04E16 - Proyectos a Escala (Agile - DevOps) ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e16-proyectos-a-audios-mp3_rf_60139505_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e16-proyectos-a_mf_60139505_feed_1.mp3" type="audio/mpeg" length="44624936"/>
+        <description>
+            <![CDATA[ Estas metodologías que compilan en el Word, escalan en el mundo real? En este episodio invitamos a Nicolas Esmoris de Accenture para charlar un poco sobre las complejidades de los proyectos grandes. Cualquiera puede leer el how-to de ágiles o DevOps pero que pasa cuando tenés más de un equipo o más de 50 personas. En este episodio participan Andrea (@peorth), Ariel (@ajolo), Edu (@jedux) y Nicolas (@obiwanae). ]]>
+        </description>
+        <pubDate>Tue, 10 Nov 2020 03:39:33 +0100</pubDate>
+        <itunes:duration>01:32:58</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/60139505</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+            <![CDATA[ Polémica en /var - S04E15 - Noticias de Agosto ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e15-noticias-de-audios-mp3_rf_60131714_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e15-noticias-de_mf_60131714_feed_1.mp3" type="audio/mpeg" length="30983584"/>
+        <description>
+            <![CDATA[ En este episodio repasamos las noticias de Agosto, caídas de internet, vulnerabilidades, ipos falopas y todo lo que paso en el mundo de la tecnología y los sistemas. En este episodio participan Andrea (@peorth), Edu (@jedux), Jorge (@ar_jorge1987), Juan (@godlike64), Mariano (@aragunde) y Reshi (@Rhapsody_Girl). ]]>
+        </description>
+        <pubDate>Mon, 09 Nov 2020 22:12:36 +0100</pubDate>
+        <itunes:duration>01:04:32</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/60131714</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+    <item>
+        <title>
             <![CDATA[ Polémica en /var - S04E14 - Postmortems ¿Qué pasó ayer? ]]>
         </title>
         <link>
