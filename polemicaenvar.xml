@@ -34,6 +34,40 @@
     <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+        <title>
+            <![CDATA[ Polémica en /var - S04E18 - Batalla Naval ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e18-batalla-naval-audios-mp3_rf_60897949_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e18-batalla-naval_mf_60897949_feed_1.mp3" type="audio/mpeg" length="30831238"/>
+        <description>
+            <![CDATA[¿Qué significa administrar una flota de workstations? ¿Cuáles son los riesgos de que te torpedeen una laptop con un ransomware? ¿La gestión del riesgo es para cualquiera? Participan del episodio: Godlike (@godlike64), Edu (@jedux) y Maxi Soler (@MaxiSoler) ]]>
+        </description>
+        <pubDate>Wed, 25 Nov 2020 03:40:00 +0100</pubDate>
+        <itunes:duration>01:04:13</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/60897949</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+            <![CDATA[Polémica en /var - S04E17 - Cuando Sec invade Ops ]]>
+        </title>
+        <link>
+            https://www.ivoox.com/polemica-var-s04e17-cuando-sec-audios-mp3_rf_60822154_1.html
+        </link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e17-cuando-sec_mf_60822154_feed_1.mp3" type="audio/mpeg" length="43748266"/>
+        <description>
+            <![CDATA[ En este episodio vamos a discutir sobre las diferentes interacciones que se encuentran entre los equipos de operaciones, como sysadmines, devops o sres, con los equipos de seguridad. En este episodio participan Jolo (@ajolo), Jorge (@ar_jorge1987) e Ivan Arce (@4Dgifts). ]]>
+        </description>
+        <pubDate>Tue, 24 Nov 2020 02:11:42 +0100</pubDate>
+        <itunes:duration>01:31:08</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/60822154</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+        </item>
     <itunes:category text="Technology"/>
     <item>
         <title>
