@@ -6,25 +6,23 @@
     <description>Recent content in noticias on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/noticias/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Polémica en /var S04E05 - Epic Fails</title>
-      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Polémica en /var S04E07 - Especial Sysadmin</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e07-sysadmin/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</guid>
-      <description>&lt;p&gt;En este episodio seleccionamos alguno de los fails tecnológicos mas grandes de los últimos tiempo y condimentamos con algunas noticias de ipos falopa.&lt;/p&gt;
-&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
-, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
-, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e07-sysadmin/</guid>
+      <description>&lt;p&gt;Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este primer especial vamos a hablar sobre sysadmin.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
 , &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
- y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Escuchanos en &lt;a href=&#34;https://open.spotify.com/episode/4MikQU0AlJUNSpE769oVD4?si=jkX-MpWPTFCJNgWvEhZDLA&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/SebaMinguez&#34; target=&#34;_blank&#34;&gt;Seba&lt;/a&gt;
+ quien se desempeña como OpenSource/Containers Specialist en Accenture ademas de organizar el chapter rosarino de sysarmy, &lt;a href=&#34;https://twitter.com/IT_Floss&#34; target=&#34;_blank&#34;&gt;IT_Floss&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
@@ -40,6 +38,23 @@
 , &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
 , &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
  y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polémica en /var S04E05 - Epic Fails</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</guid>
+      <description>&lt;p&gt;En este episodio seleccionamos alguno de los fails tecnológicos mas grandes de los últimos tiempo y condimentamos con algunas noticias de ipos falopa.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Escuchanos en &lt;a href=&#34;https://open.spotify.com/episode/4MikQU0AlJUNSpE769oVD4?si=jkX-MpWPTFCJNgWvEhZDLA&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     

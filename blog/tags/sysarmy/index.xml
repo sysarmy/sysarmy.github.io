@@ -35,19 +35,59 @@ Les agradecemos que nos dejen sus sugerencias para futuras encuestas en nuestro 
     </item>
     
     <item>
-      <title>Polémica en /var S04E05 - Epic Fails</title>
-      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</link>
+      <title>Polémica en /var S04E10 - AdminFest 11 años</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e10-adminfest11/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e10-adminfest11/</guid>
+      <description>&lt;p&gt;En este especial charlamos sobre los 11 años de AdminFest, de dónde surgió, qué fue cambiando año a año, mitos y leyendas + footage exclusivo de Juanma Cadrés y Enrique Ernel debatiendo detrás de cámara sobre las posturas del TCP y del UDP.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/Ritalin_P&#34; target=&#34;_blank&#34;&gt;Wendy&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polémica en /var S04E09 - Especial SRE - Simply Restart Everything</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e09-sre/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</guid>
-      <description>&lt;p&gt;En este episodio seleccionamos alguno de los fails tecnológicos mas grandes de los últimos tiempo y condimentamos con algunas noticias de ipos falopa.&lt;/p&gt;
-&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
-, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e09-sre/</guid>
+      <description>&lt;p&gt;Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este tercer especial vamos a hablar sobre la diferencia que tiene este nuevo rol con respecto al clásico SysAdmin.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ar_jorge1987&#34; target=&#34;_blank&#34;&gt;Jorge&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/marcosnils&#34; target=&#34;_blank&#34;&gt;Marcos Lilljedahl&lt;/a&gt;
+ y Gonzalo Darriba.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polémica en /var S04E08 - Especial DevOps - La nube son los padres</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e08-devops/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e08-devops/</guid>
+      <description>&lt;p&gt;Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este segundo especial vamos a hablar sobre DevOps.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
 , &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/axs14&#34; target=&#34;_blank&#34;&gt;Alexis&lt;/a&gt;
+ quien se desempeña como Head de arquitectura de Santander Tecnología.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polémica en /var S04E07 - Especial Sysadmin</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e07-sysadmin/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e07-sysadmin/</guid>
+      <description>&lt;p&gt;Julio es el mes de la apreciación a quienes administran sistemas y desde Polémica en /Var vamos a tener 3 especiales dedicados al tema. En este primer especial vamos a hablar sobre sysadmin.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
 , &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
- y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Escuchanos en &lt;a href=&#34;https://open.spotify.com/episode/4MikQU0AlJUNSpE769oVD4?si=jkX-MpWPTFCJNgWvEhZDLA&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/SebaMinguez&#34; target=&#34;_blank&#34;&gt;Seba&lt;/a&gt;
+ quien se desempeña como OpenSource/Containers Specialist en Accenture ademas de organizar el chapter rosarino de sysarmy, &lt;a href=&#34;https://twitter.com/IT_Floss&#34; target=&#34;_blank&#34;&gt;IT_Floss&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
@@ -63,6 +103,23 @@ Les agradecemos que nos dejen sus sugerencias para futuras encuestas en nuestro 
 , &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
 , &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
  y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polémica en /var S04E05 - Epic Fails</title>
+      <link>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/</guid>
+      <description>&lt;p&gt;En este episodio seleccionamos alguno de los fails tecnológicos mas grandes de los últimos tiempo y condimentamos con algunas noticias de ipos falopa.&lt;/p&gt;
+&lt;p&gt;Participan de este episodio: &lt;a href=&#34;https://twitter.com/Rhapsody_Girl&#34; target=&#34;_blank&#34;&gt;Reshi&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/peorth&#34; target=&#34;_blank&#34;&gt;Andrea&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/godlike64&#34; target=&#34;_blank&#34;&gt;Godlike&lt;/a&gt;
+, &lt;a href=&#34;https://twitter.com/ajolo&#34; target=&#34;_blank&#34;&gt;Jolo&lt;/a&gt;
+ y &lt;a href=&#34;https://twitter.com/jedux&#34; target=&#34;_blank&#34;&gt;Edu&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Escuchanos en &lt;a href=&#34;https://open.spotify.com/episode/4MikQU0AlJUNSpE769oVD4?si=jkX-MpWPTFCJNgWvEhZDLA&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
