@@ -6,10 +6,64 @@
     <description>Recent content in Tags on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aprender</title>
+      <link>https://sysarmy.com/blog/tags/aprender/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/aprender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://sysarmy.com/blog/tags/automation/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engineer</title>
+      <link>https://sysarmy.com/blog/tags/engineer/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jr</title>
+      <link>https://sysarmy.com/blog/tags/jr/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/jr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qa</title>
+      <link>https://sysarmy.com/blog/tags/qa/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quality</title>
+      <link>https://sysarmy.com/blog/tags/quality/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/tags/quality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>aws</title>
@@ -161,15 +215,6 @@
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sysarmy.com/blog/tags/epic-fails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aprender</title>
-      <link>https://sysarmy.com/blog/tags/aprender/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sysarmy.com/blog/tags/aprender/</guid>
       <description></description>
     </item>
     

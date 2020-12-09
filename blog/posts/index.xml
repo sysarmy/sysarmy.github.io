@@ -6,10 +6,22 @@
     <description>Recent content in Posts on El blog de quienes dan soporte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sysarmy.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 proyectos de portfolio para aspirantes a automation engineer</title>
+      <link>https://sysarmy.com/blog/posts/10-proyectos-para-automation-engineers/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sysarmy.com/blog/posts/10-proyectos-para-automation-engineers/</guid>
+      <description>&lt;h1 id=&#34;10-proyectos-de-portafolio-para-aspirantes-a-ingenieros-de-automatización&#34;&gt;10 proyectos de portafolio para aspirantes a ingenieros de automatización&lt;/h1&gt;
+&lt;p&gt;Aquellos que buscan entrar en el campo de la automatización de pruebas tienen dificultades para hacerlo por falta de experiencia. Una forma de ganar experiencia es, por supuesto, estudiar y practicar por su cuenta. Pero, &lt;strong&gt;¿cómo demostrar sus nuevos conocimientos a los empleadores?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Otros profesionales, como los desarrolladores de front-end, crean portafolios para resaltar sus habilidades, ¡y tú puedes hacer lo mismo que los ingenieros de automatización!&lt;/p&gt;
+&lt;p&gt;Aquí tienes &lt;strong&gt;10 proyectos&lt;/strong&gt; para tu portafolio de automatización de pruebas que te ayudarán a destacar entre la competencia.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Un repaso de los servicios de AWS</title>
