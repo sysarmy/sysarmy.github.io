@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sysarmy.com/blog/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/jumphost/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/posts/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/proxy/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/posts/proxyjump-tuneles-ssh/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/ssh/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/sysadmin/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sysarmy.com/blog/tags/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sysarmy.com/blog/posts/10-proyectos-para-automation-engineers/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
@@ -18,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://sysarmy.com/blog/</loc>
-    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sysarmy.com/blog/tags/engineer/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
@@ -33,22 +68,12 @@
   </url>
   
   <url>
-    <loc>https://sysarmy.com/blog/posts/</loc>
-    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sysarmy.com/blog/tags/qa/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sysarmy.com/blog/tags/quality/</loc>
-    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +104,6 @@
   
   <url>
     <loc>https://sysarmy.com/blog/tags/python/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sysarmy.com/blog/tags/sysadmin/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
