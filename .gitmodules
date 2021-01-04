@@ -1,0 +1,4 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/sysarmy/blog.git
+	branch = gh-pages
