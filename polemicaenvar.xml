@@ -36,6 +36,126 @@
     <itunes:type>episodic</itunes:type>
     <item>
         <title>
+        <![CDATA[ Polémica en /var - S04E31 - Las Noticias de Diciembre ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e31-las-noticias-audios-mp3_rf_63690296_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e31-las-noticias_mf_63690296_feed_1.mp3" type="audio/mpeg" length="42240478"/>
+        <description>
+        <![CDATA[ En este episodio repasamos las noticias de Diciembre, productos fallidos, roturas de internet, vulnerabilidades, ipos falopas y todo lo que paso en el mundo de la tecnología y los sistemas. Novedades de CentOS, Webex, Flash murio ,Unix en x86 y la despedida del 2020. ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 21:50:57 +0100</pubDate>
+        <itunes:duration>01:28:00</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63690296</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E30 - Lo que google se llevó ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e30-lo-que-audios-mp3_rf_63689840_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e30-lo-que_mf_63689840_feed_1.mp3" type="audio/mpeg" length="39543388"/>
+        <description>
+        <![CDATA[ En este episodio vamos a repasar esos productos de google que amabamos y que llegaron a su fin. Búsquedas laborales Google Wave Google+ / Google Buzz / Orkut? Jaiku? Google Talk Inbox by Gmail / Sparrow Google Reader Google Picasa Project Ara Google Audio Ads Google Play Music Writely Demo Google Wave Cierre del episodio ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 21:25:06 +0100</pubDate>
+        <itunes:duration>01:22:22</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63689840</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E29 - Incident Response ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e29-incident-response-audios-mp3_rf_63689672_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e29-incident-response_mf_63689672_feed_1.mp3" type="audio/mpeg" length="45663773"/>
+        <description>
+        <![CDATA[ En este episodio vamos a charlar con Lucas Coronel de Prisma Medios de Pago sobre como gestionar incidentes de seguridad. Vamos a indagar en todo el papelerío que hay que llenar y si solo es para que el auditor ponga un tilde o realmente sirve para algo. #Incident #response #security #csirt #soc ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 21:17:17 +0100</pubDate>
+        <itunes:duration>01:35:07</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63689672</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E28 - Las Noticias de Noviembre ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e28-las-noticias-audios-mp3_rf_63689164_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e28-las-noticias_mf_63689164_feed_1.mp3" type="audio/mpeg" length="41636318"/>
+        <description>
+        <![CDATA[ En este episodio repasamos las noticias de Noviembre, productos fallidos, roturas de internet, vulnerabilidades, ipos falopas y todo lo que paso en el mundo de la tecnología y los sistemas. Tiktok, Github, Guido Van Rossum, python, Las Toninas, noticias de internet y todo lo relacionado al sector. ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 20:49:53 +0100</pubDate>
+        <itunes:duration>01:26:44</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63689164</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E27 - Especial Homebankings ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e27-especial-homebankings-audios-mp3_rf_63688793_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e27-especial-homebankings_mf_63688793_feed_1.mp3" type="audio/mpeg" length="30305027"/>
+        <description>
+        <![CDATA[ Esta noche se suman Sebastian Ducci y Sergio Goldentair de Accenture para hablar de Monolitos, Microservicios y el apasionante mundo de la tecnología bancaria. Migrar a microservicios es como ir al autorservicio? dicen que sí, y si les preguntas por qué, no hay porque. ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 20:33:29 +0100</pubDate>
+        <itunes:duration>01:03:08</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63688793</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E26 - Especial DevOps 2 ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e26-especial-devops-audios-mp3_rf_63681313_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e26-especial-devops_mf_63681313_feed_1.mp3" type="audio/mpeg" length="52217582"/>
+        <description>
+        <![CDATA[ En este episodio vamos a hablar repasar los datos del reporte "State of DevOps 2020" presentado por Puppet y Circle CI. Para los que no lo conocen, es un reporte anual que mide el nivel de adherencia a prácticas DevOps en empresas de todo el mundo. Cada año se libera el reporte con una serie de análisis en base a las respuestas. ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 15:03:35 +0100</pubDate>
+        <itunes:duration>01:48:47</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63681313</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E25 -Especial Flow ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e25-especial-flow-audios-mp3_rf_63680880_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e25-especial-flow_mf_63680880_feed_1.mp3" type="audio/mpeg" length="40541056"/>
+        <description>
+        <![CDATA[ En este episodio vamos a hablar sobre Flow con Claudio Leyer sobre los internals de flow. Historia del OTT, que es IPTV. Algunas decisiones de arquitectura de Cablevision Flow. Que productos usan, Como trabajan sus equipos internos, Cuanto trafico tuvieron durante la cuarentena y que planes futuros tienen. ]]>
+        </description>
+        <pubDate>Sat, 09 Jan 2021 14:45:29 +0100</pubDate>
+        <itunes:duration>01:24:27</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/63680880</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
+        <![CDATA[ Polémica en /var - S04E19 - Noticias de Septiembre ]]>
+        </title>
+        <link>https://www.ivoox.com/polemica-var-s04e19-noticias-de-audios-mp3_rf_61851172_1.html</link>
+        <enclosure url="https://www.ivoox.com/polemica-var-s04e19-noticias-de_mf_61851172_feed_1.mp3" type="audio/mpeg" length="48734101"/>
+        <description>
+        <![CDATA[ En este episodio repasamos las noticias de Septiembre, productos fallidos, roturas de internet, vulnerabilidades, ipos falopas y todo lo que paso en el mundo de la tecnología y los sistemas. Participan: Andrea (@peorth), Edu (@jedux), Jorge (@ar_jorge1987), Juan (@godlike64), Mariano (@aragunde) y Reshi (@Rhapsody_Girl) ]]>
+        </description>
+        <pubDate>Wed, 09 Dec 2020 05:16:35 +0100</pubDate>
+        <itunes:duration>01:41:31</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/61851172</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+        <title>
             <![CDATA[ Polémica en /var - S04E18 - Batalla Naval ]]>
         </title>
         <link>
