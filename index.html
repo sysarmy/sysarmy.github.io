@@ -1,114 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="shortcut icon" href="/petops/favicon.svg" />
-        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-        <meta name="theme-color" content="#000000" />
-        <link rel="manifest" href="/manifest.json" />
-        <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet" />
-        <title>#PetOps | Happy SysAdmin Day!</title>
-        <link href="/petops/static/css/main.6f68fcb5.chunk.css" rel="stylesheet" />
+<html lang="es">
 
-        <meta property="fb:app_id" content="376651492541539" />
-		<meta property="og:locale" content="en_US" />
-		<meta property="og:type" content="website" />
-		<meta property="og:site_name" content="#PetOps" />
-		<meta property="og:title" content="#PetOps | Happy SysAdmin Day!" />
-		<meta property="og:description" content="Remember when System Administration was a craft? Get to relive simpler times, when each server was like your own pet." />
-		<meta property="og:url" content="https://sysarmy.com/petops" />
-		<meta property="og:image" content="https://sysarmy.com/petops/petops.jpg" />
-		<meta property="og:image:width" content="1200" />
-		<meta property="og:image:height" content="630" />
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MW9RRK2');</script>
+  <!-- End Google Tag Manager -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>sysarmy - El soporte de quienes dan soporte</title>
+  <link rel="shortcut icon" href="favicon.png" />
+  <meta name='keywords'
+    content='sysadmin, sistemas, desarrollo, developer, administración de sistemas, administrador de sistemas, linux, cloud, docker, kubernetes' />
+  <meta name='description' content='sysarmy - Comunidad de Sistemas.' />
+  <!--[if IE 6]>
+    <html id="ie6" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
+  <!--[if IE 7]>
+    <html id="ie7" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
+  <!--[if IE 8]>
+    <html id="ie8" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
+    <![endif]-->
 
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:site" content="@sysarmy" />
-		<meta name="twitter:title" content="#PetOps | Happy SysAdmin Day!" />
-		<meta name="twitter:description" content="Remember when System Administration was a craft? Get to relive simpler times, when each server was like your own pet." />
-		<meta name="twitter:url" content="https://sysarmy.com/petops" />
-		<meta name="twitter:image" content="https://sysarmy.com/petops/petops.jpg" />
-    </head>
-    <body>
-    	  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW9RRK2"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
 
-        <noscript>You need to enable JavaScript to run this app.</noscript>
-        <div id="root"></div>
-        <script>
-            !(function (l) {
-                function e(e) {
-                    for (var r, t, n = e[0], o = e[1], u = e[2], i = 0, f = []; i < n.length; i++) (t = n[i]), c[t] && f.push(c[t][0]), (c[t] = 0);
-                    for (r in o) Object.prototype.hasOwnProperty.call(o, r) && (l[r] = o[r]);
-                    for (s && s(e); f.length; ) f.shift()();
-                    return p.push.apply(p, u || []), a();
-                }
-                function a() {
-                    for (var e, r = 0; r < p.length; r++) {
-                        for (var t = p[r], n = !0, o = 1; o < t.length; o++) {
-                            var u = t[o];
-                            0 !== c[u] && (n = !1);
-                        }
-                        n && (p.splice(r--, 1), (e = i((i.s = t[0]))));
-                    }
-                    return e;
-                }
-                var t = {},
-                    c = { 2: 0 },
-                    p = [];
-                function i(e) {
-                    if (t[e]) return t[e].exports;
-                    var r = (t[e] = { i: e, l: !1, exports: {} });
-                    return l[e].call(r.exports, r, r.exports, i), (r.l = !0), r.exports;
-                }
-                (i.m = l),
-                    (i.c = t),
-                    (i.d = function (e, r, t) {
-                        i.o(e, r) || Object.defineProperty(e, r, { enumerable: !0, get: t });
-                    }),
-                    (i.r = function (e) {
-                        "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, { value: "Module" }), Object.defineProperty(e, "__esModule", { value: !0 });
-                    }),
-                    (i.t = function (r, e) {
-                        if ((1 & e && (r = i(r)), 8 & e)) return r;
-                        if (4 & e && "object" == typeof r && r && r.__esModule) return r;
-                        var t = Object.create(null);
-                        if ((i.r(t), Object.defineProperty(t, "default", { enumerable: !0, value: r }), 2 & e && "string" != typeof r))
-                            for (var n in r)
-                                i.d(
-                                    t,
-                                    n,
-                                    function (e) {
-                                        return r[e];
-                                    }.bind(null, n)
-                                );
-                        return t;
-                    }),
-                    (i.n = function (e) {
-                        var r =
-                            e && e.__esModule
-                                ? function () {
-                                      return e.default;
-                                  }
-                                : function () {
-                                      return e;
-                                  };
-                        return i.d(r, "a", r), r;
-                    }),
-                    (i.o = function (e, r) {
-                        return Object.prototype.hasOwnProperty.call(e, r);
-                    }),
-                    (i.p = "/");
-                var r = (window.webpackJsonp = window.webpackJsonp || []),
-                    n = r.push.bind(r);
-                (r.push = e), (r = r.slice());
-                for (var o = 0; o < r.length; o++) e(r[o]);
-                var s = n;
-                a();
-            })([]);
-        </script>
-        <script src="/petops/static/js/1.e9e93295.chunk.js"></script>
-        <script src="/petops/static/js/main.7d616a19.chunk.js"></script>
-    </body>
+    <meta charset="UTF-8" />
+    <meta property="fb:admins" content="ajolo" />
+    <meta property="og:description" content="Manpage de la Comunidad de Sistemas." />
+    <meta property="og:image" content="https://sysarmy.com/images/logo.png" />
+    <meta property="og:site_name" content="sysarmy" />
+    <meta property="og:title" content="sysarmy - El soporte de quienes dan soporte" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://sysarmy.com/" />
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@sysarmy">
+    <meta name="twitter:creator" content="@sysarmy">
+    <meta name="twitter:title" content="sysarmy">
+    <meta name="twitter:description" content="Sysarmy es la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.">
+    <meta name="twitter:image:src" content="https://sysarmy.com/images/logo.png">
+
+  <script src="js/main.js"></script>
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW9RRK2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript">
+  var userLang = navigator.language || navigator.userLanguage; 
+  if (userLang == 'es') {
+    window.location.href = ('https://' + window.location.hostname + '/es/');
+  }else{
+    window.location.href = ('https://' + window.location.hostname + '/en/');
+  }
+</script>
+</body>
+
 </html>

@@ -1,9 +1,9 @@
 {
-  "main.css": "/petops/static/css/main.6f68fcb5.chunk.css",
-  "main.js": "/petops/static/js/main.7d616a19.chunk.js",
-  "main.js.map": "/petops/static/js/main.7d616a19.chunk.js.map",
-  "static/js/1.e9e93295.chunk.js": "/petops/static/js/1.e9e93295.chunk.js",
-  "static/js/1.e9e93295.chunk.js.map": "/petops/static/js/1.e9e93295.chunk.js.map",
+  "main.css": "/petops/static/css/main.af4f1261.chunk.css",
+  "main.js": "/petops/static/js/main.16af2672.chunk.js",
+  "main.js.map": "/petops/static/js/main.16af2672.chunk.js.map",
+  "static/js/1.3af94051.chunk.js": "/petops/static/js/1.3af94051.chunk.js",
+  "static/js/1.3af94051.chunk.js.map": "/petops/static/js/1.3af94051.chunk.js.map",
   "runtime~main.js": "/petops/static/js/runtime~main.2fba300a.js",
   "runtime~main.js.map": "/petops/static/js/runtime~main.2fba300a.js.map",
   "static/media/fixing1.svg": "/petops/static/media/fixing1.5c01e547.svg",
@@ -56,8 +56,8 @@
   "static/media/sad3.svg": "/petops/static/media/sad3.33c261ec.svg",
   "static/media/sad4.svg": "/petops/static/media/sad4.ea6c1258.svg",
   "static/media/Criatura.css": "/petops/static/media/base0.bd9705a1.svg",
-  "static/css/main.6f68fcb5.chunk.css.map": "/petops/static/css/main.6f68fcb5.chunk.css.map",
+  "static/css/main.af4f1261.chunk.css.map": "/petops/static/css/main.af4f1261.chunk.css.map",
   "index.html": "/petops/index.html",
-  "precache-manifest.d079b245e15e1af179c00b77332e5f2c.js": "/petops/precache-manifest.d079b245e15e1af179c00b77332e5f2c.js",
+  "precache-manifest.838afa15cc989bd14bc6348025c2ae83.js": "/petops/precache-manifest.838afa15cc989bd14bc6348025c2ae83.js",
   "service-worker.js": "/petops/service-worker.js"
 }
