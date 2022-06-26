@@ -1,26 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
+    <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MW9RRK2');</script>
+    <!-- End Google Tag Manager -->
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Wordle - A daily word game</title>
-    <meta name="description" content="Guess the hidden word in 6 tries. A new puzzle is available each day.">
+    <title>#Bofhle - A daily BOFH game</title>
+    <meta name="description" content="Celebrate SysAdmin Day by guessing the hidden command in 6 tries. A new puzzle is available each day.">
     <!-- FB Meta Tags -->
-    <meta property="og:url" content="https://www.powerlanguage.co.uk/wordle/">
+    <meta property="og:url" content="https://sysarmy.com/bofhle/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Wordle - A daily word game">
-    <meta property="og:description" content="Guess the hidden word in 6 tries. A new puzzle is available each day.">
-    <meta property="og:image" content="wordle_og_1200x630.png">
+    <meta property="og:title" content="#Bofhle - A daily BOFH game">
+    <meta property="og:description" content="Celebrate SysAdmin Day by guessing the hidden command in 6 tries. A new puzzle is available each day.">
+    <meta property="og:image" content="bofhle_og_1200x630.png">
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <!--     <meta property="twitter:domain" content="powerlanguage.co.uk"> -->
+    <!--     <meta property="twitter:domain" content="sysarmy.com"> -->
     <meta name="theme-color" content="#6aaa64">
-    <!-- <link rel="manifest" href="https://www.powerlanguage.co.uk/wordle/manifest.json"> -->
-    <link href="wordle_logo_32x32.png" rel="icon shortcut" sizes="3232">
-    <!-- <link  href="https://www.powerlanguage.co.uk/wordle/images/wordle_logo_192x192.png" rel="apple-touch-icon"> -->
-    <link rel="stylesheet" type="text/css" href="wordle.css" />
+    <link href="bofhle_logo_32x32.png" rel="icon shortcut" sizes="3232">
+    <!-- <link  href="bofhle_logo_192x192.png" rel="apple-touch-icon"> -->
+    <link rel="stylesheet" type="text/css" href="data:text/css;charset=UTF-8;base64,LmhpZGRlbiB7CglkaXNwbGF5OiBub25lOwoJb3BhY2l0eTogMDsKCXRyYW5zaXRpb246IG9wYWNpdHkgMC4yczsKfQoKLm92ZXJsYXkgewoJcG9zaXRpb246IGFic29sdXRlOwoJd2lkdGg6IDEwMCU7CgloZWlnaHQ6IDEwMCU7Cgl0b3A6IDA7CglsZWZ0OiAwOwoJanVzdGlmeS1jb250ZW50OiBjZW50ZXI7CgliYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1iYWNrZ3JvdW5kKTsKCWFuaW1hdGlvbjogU2xpZGVJbiAxMDBtcyBsaW5lYXI7Cgl6LWluZGV4OiAyMDAwOwp9Cgo6aG9zdChbb3Blbl0pIC5vdmVybGF5IHsKCWRpc3BsYXk6IGZsZXg7Cn0KCi5jb250ZW50IHsKCXBvc2l0aW9uOiByZWxhdGl2ZTsKCWNvbG9yOiB2YXIoLS1jb2xvci10b25lLTEpOwoJcGFkZGluZzogMCAzMnB4OwoJbWF4LXdpZHRoOiA1MDBweDsKCW1hcmdpbjogYXV0bzsKCW92ZXJmbG93LXk6IGF1dG87CgloZWlnaHQ6IDEwMCU7CglkaXNwbGF5OiBmbGV4OwoJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKfQoKLmNvbnRlbnQtY29udGFpbmVyIHsKCWhlaWdodDogMTAwJTsKfQoKLm92ZXJsYXkuY2xvc2luZyB7CglhbmltYXRpb246IFNsaWRlT3V0IDE1MG1zIGxpbmVhcjsKfQoKaGVhZGVyIHsKCWRpc3BsYXk6IGZsZXg7CglqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKCWFsaWduLWl0ZW1zOiBjZW50ZXI7Cglwb3NpdGlvbjogcmVsYXRpdmU7Cn0KCmgxIHsKCWZvbnQtd2VpZ2h0OiA3MDA7Cglmb250LXNpemU6IDE2cHg7CglsZXR0ZXItc3BhY2luZzogMC41cHg7Cgl0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwoJdGV4dC1hbGlnbjogY2VudGVyOwoJbWFyZ2luLWJvdHRvbTogMTBweDsKfQoKZ2FtZS1pY29uIHsKCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCXJpZ2h0OiAwOwoJdXNlci1zZWxlY3Q6IG5vbmU7CgljdXJzb3I6IHBvaW50ZXI7Cn0KCkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1pbi1kZXZpY2Utd2lkdGg6MzIwcHgpIGFuZCAobWF4LWRldmljZS13aWR0aDo0ODBweCkgewoJLmNvbnRlbnQgewoJCW1heC13aWR0aDogMTAwJTsKCQlwYWRkaW5nOiAwOwoJfQoKCWdhbWUtaWNvbiB7CgkJcGFkZGluZzogMCAxNnB4OwoJfQoKfQoKQGtleWZyYW1lcyBTbGlkZUluIHsKCTAlIHsKCQl0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMzBweCk7CgkJb3BhY2l0eTogMDsKCX0KCgkxMDAlIHsKCQl0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMHB4KTsKCQlvcGFjaXR5OiAxOwoJfQoKfQoKQGtleWZyYW1lcyBTbGlkZU91dCB7CgkwJSB7CgkJdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDBweCk7CgkJb3BhY2l0eTogMTsKCX0KCgk5MCUgewoJCW9wYWNpdHk6IDA7Cgl9CgoJMTAwJSB7CgkJb3BhY2l0eTogMDsKCQl0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoNjBweCk7Cgl9Cgp9CgoKICAuc2V0dGluZyB7CgogICAgdHJhbnNpdGlvbjogYmFja2dyb3VuZC1jb2xvciAwLjI1czsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47CiAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIHZhcigtLWNvbG9yLXRvbmUtNCk7CiAgICBwYWRkaW5nOiAxNnB4IDA7CiAgfQoKICBhLCBhOnZpc2l0ZWQgewogICAgY29sb3I6IHZhcigtLWNvbG9yLXRvbmUtMik7CiAgfQoKICAudGl0bGUgewogICAgZm9udC1zaXplOiAxOHB4OwogIH0KICAudGV4dCB7CiAgICBwYWRkaW5nLXJpZ2h0OiA4cHg7CiAgfQogIC5kZXNjcmlwdGlvbiB7CiAgICBmb250LXNpemU6IDEycHg7CiAgICBjb2xvcjogdmFyKC0tY29sb3ItdG9uZS0yKTsKICB9CgogICNmb290bm90ZSB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICBib3R0b206IDA7CiAgICBsZWZ0OiAwOwogICAgcmlnaHQ6IDA7CiAgICBwYWRkaW5nOiAxNnB4OwogICAgY29sb3I6IHZhcigtLWNvbG9yLXRvbmUtMik7CiAgICBmb250LXNpemU6IDEycHg7CiAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47CiAgICBhbGlnbi1pdGVtczogZmxleC1lbmQ7CiAgfQoKICAjcHJpdmFjeS1wb2xpY3ksCiAgI2NvcHlyaWdodCB7CiAgICB0ZXh0LWFsaWduOiBsZWZ0OwogIH0KCiAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWluLWRldmljZS13aWR0aCA6IDMyMHB4KSBhbmQgKG1heC1kZXZpY2Utd2lkdGggOiA0ODBweCkgewogICAgLnNldHRpbmcgewogICAgICBwYWRkaW5nOiAxNnB4OwogICAgfQogIH0KCgoKLmZsYXNoIHsKCWJhY2tncm91bmQtY29sb3I6ICB2YXIoLS1jb2xvci10b25lLTIpOwoJdHJhbnNpdGlvbjogIGJhY2tncm91bmQtY29sb3IgMC4xcyBlYXNlLW91dDsKfQoKI2lucHV0bG9hZCB7CglwYWRkaW5nOiAgMC41ZW0gMDsKfQ==">
     <style>
     /* Global Styles & Colors */
     :root {
@@ -36,7 +39,7 @@
         /* Colorblind colors */
         --orange: #f5793a;
         --blue: #85c0f9;
-        font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
+        font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
         font-size: 16px;
         --header-height: 50px;
         --keyboard-height: 200px;
@@ -126,8 +129,13 @@
 </head>
 
 <body class="nightmode">
+    <body>
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW9RRK2"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <game-app></game-app>
-    <div id='header-container' style='display: none;'>
+    <div id="header-container" style="display: none;">
         <style>
         .toaster {
             position: absolute;
@@ -221,19 +229,16 @@
         </style>
         <game-theme-manager>
             <div id="game">
-                <header>
+                <header style="padding:1em">
                     <div class="menu">
                         <button id="help-button" class="icon" aria-label="help">
                             <game-icon icon="help"></game-icon>
                         </button>
                     </div>
                     <div class="title">
-                        WORDLE
+                        <img src="bofhle.png">
                     </div>
                     <div class="menu">
-                        <button id="save-button" class="icon" aria-label="save">
-                            <game-icon icon="save"></game-icon>
-                        </button>
                         <button id="statistics-button" class="icon" aria-label="statistics">
                             <game-icon icon="statistics"></game-icon>
                         </button>
@@ -250,10 +255,10 @@
                 <game-page></game-page>
                 <div class="toaster" id="game-toaster"></div>
                 <div class="toaster" id="system-toaster"></div>
-        </game-theme-manager>
+        
     </div>
     <div id="debug-tools"></div>
-    </div>
+    </game-theme-manager></div>
     <div id="save" class="hidden">
         <div class="overlay">
             <div class="content">
@@ -266,21 +271,6 @@
                 <div class="content-container">
                     <slot name="content">
                       <div class="sections">
-    <section>
-      <div class="setting" id="saveButton">
-        <div class="text">
-          <div class="title">Save Stats</div>
-          <div class="description">Save stats to a local .json file</div>
-        </div>
-      </div>
-      <div class="setting" id="loadButton">
-        <div class="text">
-          <div class="title">Load Stats</div>
-          <div class="description">Also from a local .json file</div>
-          <input id='inputload' type='file' accept=".json"></input>
-        </div>
-      </div>
-    </section>
 
   </div>
                     </slot>
@@ -288,8 +278,8 @@
             </div>
         </div>
     </div>
-    <script async="" src="wordle.js"></script>
-    <script async="" src="savemenu.js"></script>
+    <script async="" src="src/wordle.js"></script>
+    <script async="" src="data:application/javascript;charset=UTF-8;base64,ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInNhdmUtY2xvc2UiKS5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIChmdW5jdGlvbihhKSB7CiAgICBsZXQgcyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYXZlJyk7CiAgICBzLmNsYXNzTGlzdC50b2dnbGUoJ2hpZGRlbicpOwoKfSkpOwoKZnVuY3Rpb24gbihlLCBhLCBzKSB7CiAgICByZXR1cm4gYSBpbiBlID8gT2JqZWN0LmRlZmluZVByb3BlcnR5KGUsIGEsIHsKICAgICAgICAgICAgdmFsdWU6IHMsCiAgICAgICAgICAgIGVudW1lcmFibGU6ICEwLAogICAgICAgICAgICBjb25maWd1cmFibGU6ICEwLAogICAgICAgICAgICB3cml0YWJsZTogITAKICAgICAgICB9KSA6IGVbYV0gPSBzLCBlCn0KCmNvbnN0IGRlZmF1bHRfc3RhdHMgPSB7CiAgICAgICAgICAgIGN1cnJlbnRTdHJlYWs6IDAsCiAgICAgICAgICAgIG1heFN0cmVhazogMCwKICAgICAgICAgICAgZ3Vlc3Nlczogbih7CiAgICAgICAgICAgICAgICAxOiAwLAogICAgICAgICAgICAgICAgMjogMCwKICAgICAgICAgICAgICAgIDM6IDAsCiAgICAgICAgICAgICAgICA0OiAwLAogICAgICAgICAgICAgICAgNTogMCwKICAgICAgICAgICAgICAgIDY6IDAKICAgICAgICAgICAgfSwgJ2ZhaWwnLCAwKSwKICAgICAgICAgICAgd2luUGVyY2VudGFnZTogMCwKICAgICAgICAgICAgZ2FtZXNQbGF5ZWQ6IDAsCiAgICAgICAgICAgIGdhbWVzV29uOiAwLAogICAgICAgICAgICBhdmVyYWdlR3Vlc3NlczogMAogICAgICAgIH07CgoKZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInNhdmVCdXR0b24iKS5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIChmdW5jdGlvbihhKSB7CiAgICBsZXQgcyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYXZlQnV0dG9uJyk7CiAgICBjb25zb2xlLmxvZygnc2F2ZS1idXR0b24nKQogICAgcy5jbGFzc0xpc3QuYWRkKCdmbGFzaCcpOwogICAgc2V0VGltZW91dCgoKSA9PiAKICAgIHMuY2xhc3NMaXN0LnJlbW92ZSgnZmxhc2gnKSwgMjAwKTsKCiAgICAvLyBnZXQgc3RhdGlzdGljcyBmcm9tIGxvY2FsIHN0b3JhZ2UhCiAgICBsZXQgc3RhdHMgPSB3aW5kb3cubG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3N0YXRpc3RpY3MnKSB8fCBKU09OLnN0cmluZ2lmeShkZWZhdWx0X3N0YXRzKTsKCiAgICBsZXQgZmlsZSA9IG5ldyBCbG9iKFtzdGF0c10sIHt0eXBlOiAndGV4dC9qc29uJ30pOwogICAgbGV0IGZpbGVuYW1lID0gYHdvcmRsZV9zdGF0c18ke25ldyBEYXRlKCkudG9JU09TdHJpbmcoKS5zdWJzdHJpbmcoMCwxMCl9Lmpzb25gCiAgICBsZXQgbGluayA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImEiKSwKICAgICAgICB1cmwgPSBVUkwuY3JlYXRlT2JqZWN0VVJMKGZpbGUpOwogICAgICAgIGxpbmsuaHJlZiA9IHVybDsKICAgICAgICBsaW5rLmRvd25sb2FkID0gZmlsZW5hbWU7CiAgICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChsaW5rKTsKICAgICAgICBsaW5rLmNsaWNrKCk7CiAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICBkb2N1bWVudC5ib2R5LnJlbW92ZUNoaWxkKGxpbmspOwogICAgICAgICAgICB3aW5kb3cuVVJMLnJldm9rZU9iamVjdFVSTCh1cmwpOyAgCiAgICAgICAgfSwgMCk7IAoKfSkpCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJpbnB1dGxvYWQiKS5hZGRFdmVudExpc3RlbmVyKCJjaGFuZ2UiLCAoZnVuY3Rpb24oYSkgewogICAgbGV0IHMgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjaW5wdXRsb2FkJyk7CgogICAgbmV3IFJlc3BvbnNlKHMuZmlsZXNbMF0pLmpzb24oKS50aGVuKGpzb24gPT4gewogICAgICAgIHdpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnc3RhdGlzdGljcycsIEpTT04uc3RyaW5naWZ5KGpzb24pKTsKICAgICAgICBjb25zb2xlLmRlYnVnKCdsb2FkZWQgc3RhdHMhIHJlZnJlc2hpbmcnLCBqc29uKTsKICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKCk7CiAgICAgIH0sIGVyciA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ2NvdWxkIG5vdCBsb2FkIGRhdGEhJywgZXJyLCBqc29uKTsKICAgICAgfSkKCgp9KSk="></script>
     <script>
     (function() {
         // Defining the hash before the main bundle allows the bundle access window.hash
@@ -297,6 +287,7 @@
         window.wordle.hash = 'e65ce0a5';
     })();
     </script>
-</body>
 
-</html>
+
+</body></html>
+
