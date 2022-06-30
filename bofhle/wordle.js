@@ -1298,7 +1298,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
 "fdisk",
 "nginx",
 "cjpeg",
-"javah"]
+"javah"],
         Ia = "present",
         Ma = "correct",
         Oa = "absent";
