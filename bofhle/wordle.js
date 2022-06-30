@@ -1222,7 +1222,10 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
 "zhack",
 "zless",
 "zmore",
-"zpool"],
+"zpool",
+"nginx",
+"cjpeg",
+"javah"],
         La = ["gzcat",
 "virsh",
 "inetd",
@@ -1292,7 +1295,10 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
 "zdump",
 "pydoc",
 "nmcli",
-"fdisk"],
+"fdisk",
+"nginx",
+"cjpeg",
+"javah"]
         Ia = "present",
         Ma = "correct",
         Oa = "absent";
