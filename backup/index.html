@@ -113,10 +113,13 @@
 	<script src="vendor/countdowntime/moment-timezone-with-data.min.js"></script>
 	<script src="vendor/countdowntime/countdowntime.js"></script>
 	<script>
+		
+		/* Get the current month (jan=0, dec=11) to validate the year to show */
+		var selectedYear=(moment().month() > 2 ? moment().year() + 1 : moment().year());
 		$('.cd100').countdown100({
 			/*Set Endtime here*/
 			/*Endtime must be > current time*/
-			endtimeYear: 2023,
+			endtimeYear: selectedYear,
 			endtimeMonth: 3,
 			endtimeDate: 31,
 			endtimeHours: 0,
