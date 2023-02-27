@@ -37,6 +37,23 @@
     <itunes:type>episodic</itunes:type>
     <item>
     <title>
+        <![CDATA[ S07E01 - Las noticias de Febrero ]]>
+        </title>
+        <link>https://www.ivoox.com/s07e01-las-noticias-febrero-audios-mp3_rf_103697779_1.html</link>
+        <enclosure url="https://www.ivoox.com/s07e01-las-noticias-febrero_mf_103697779_feed_1.mp3" type="audio/mpeg" length="42769389"/>
+        <description>
+        <![CDATA[ Siguen los despidos. La gente sigue boludeando con ChatGPT. Elon sigue rompiendo Twitter...y nosotros seguimos mirando todo desde el living (?). Charlamos las noticias de IT del mes y hacemos terapia Links a los art&iacute;culos que charlamos: - Why take a bigger role for no bump in pay: https://swizec.com/blog/why-take-a-bi... - Introduction to class warfare for the software engineer: https://medium.com/@lloyd-f-hough/an-... - Come to the dark side: hunting IT professionals on the dark web https://securelist.com/darknet-it-hea... - Digital Ocean Layoffs: https://www.theregister.com/2023/02/1... - Meta Takes Aim at Bosses Who Don&rsquo;t Actually Do Anything https://www.vice.com/en/article/bvm9m... - ChatGPT premium https://www.xataka.com/basics/chatgpt... ]]>
+        </description>
+        <pubDate>Mon, 27 Feb 2023 01:32:23 +0100</pubDate>
+        <itunes:duration>01:29:06</itunes:duration>
+        <itunes:season>7</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/103697779</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
         <![CDATA[ Polémica en /var - Las noticias de Enero ]]>
         </title>
         <link>https://www.ivoox.com/polemica-var-las-noticias-enero-audios-mp3_rf_102283342_1.html</link>
