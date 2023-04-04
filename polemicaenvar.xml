@@ -37,6 +37,21 @@
     <itunes:type>episodic</itunes:type>
     <item>
     <title>
+        <![CDATA[ S07E02 - Las noticias de Marzo ]]>
+        </title>
+        <link>https://www.ivoox.com/s07e02-las-noticias-marzo-audios-mp3_rf_105787441_1.html</link>
+        <enclosure url="https://www.ivoox.com/s07e02-las-noticias-marzo_mf_105787441_feed_1.mp3" type="audio/mpeg" length="70490262"/>
+        <description>
+        <![CDATA[ En un mes vamos a estar todos jugando al nuevo Counter Strike, haciendo terapia con una IA, y buscando trabajo. Esto y mucha falopa m&aacute;s de tecnolog&iacute;a en las noticias de Marzo ]]>
+        </description>
+        <pubDate>Wed, 05 Apr 2023 01:44:28 +0200</pubDate>
+        <itunes:duration>01:13:25</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/105787441</guid>
+        <itunes:image href="https://static-1.ivoox.com/canales/0/6/4/0/8811565380460_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
         <![CDATA[ S07E01 - Las noticias de Febrero ]]>
         </title>
         <link>https://www.ivoox.com/s07e01-las-noticias-febrero-audios-mp3_rf_103697779_1.html</link>
