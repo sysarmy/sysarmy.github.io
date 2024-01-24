@@ -37,6 +37,56 @@
     <itunes:type>episodic</itunes:type>
     <item>
     <title>
+        <![CDATA[ S08E00 - Las noticias de diciembre ]]>
+        </title>
+        <link>https://www.ivoox.com/s08e00-las-noticias-diciembre-audios-mp3_rf_123125146_1.html</link>
+        <enclosure url="https://www.ivoox.com/s08e00-las-noticias-diciembre_mf_123125146_feed_1.mp3" type="audio/mpeg" length="113982788"/>
+        <description>
+        <![CDATA[ DevOps, passwords que dejan mucho que desear, GTA y gaming, inteligencia artificial, y m&aacute;s en el primer episodio de 2024. ]]>
+        </description>
+        <pubDate>Wed, 24 Jan 2024 04:30:05 +0100</pubDate>
+        <itunes:duration>01:44:10</itunes:duration>
+        <itunes:season>8</itunes:season>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/123125146</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
+        <![CDATA[ S07E12 - Las noticias de noviembre ]]>
+        </title>
+        <link>https://www.ivoox.com/s07e12-las-noticias-noviembre-audios-mp3_rf_123125114_1.html</link>
+        <enclosure url="https://www.ivoox.com/s07e12-las-noticias-noviembre_mf_123125114_feed_1.mp3" type="audio/mpeg" length="131689565"/>
+        <description>
+        <![CDATA[ &iquest;Qu&eacute; tiene que ver Chuck Norris con el HTML? &iquest;Qu&eacute; pas&oacute; con OpenAI ahora? &iquest;Hay cosas hardcodeadas hasta en el kernel de Linux? &Eacute;stas y muchas respuestas m&aacute;s en el &uacute;ltimo episodio de Pol&eacute;mica en /var del a&ntilde;o ]]>
+        </description>
+        <pubDate>Wed, 24 Jan 2024 04:28:14 +0100</pubDate>
+        <itunes:duration>60:01:45</itunes:duration>
+        <itunes:season>7</itunes:season>
+        <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/123125114</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
+        <![CDATA[ S07E11 - Las noticias de octubre ]]>
+        </title>
+        <link>https://www.ivoox.com/s07e11-las-noticias-octubre-audios-mp3_rf_123125107_1.html</link>
+        <enclosure url="https://www.ivoox.com/s07e11-las-noticias-octubre_mf_123125107_feed_1.mp3" type="audio/mpeg" length="108611574"/>
+        <description>
+        <![CDATA[ Nos juntamos a repasar las noticias de octubre en el mundo de la tecnolog&iacute;a! ]]>
+        </description>
+        <pubDate>Wed, 24 Jan 2024 04:26:45 +0100</pubDate>
+        <itunes:duration>01:50:54</itunes:duration>
+        <itunes:season>7</itunes:season>
+        <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/123125107</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
         <![CDATA[ S07E10 - El post Nerdearla y las noticias de septiembre ]]>
         </title>
         <link>https://www.ivoox.com/s07e10-el-post-nerdearla-noticias-audios-mp3_rf_122960665_1.html</link>
@@ -53,7 +103,7 @@
         <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
     </item>
     <item>
-        <title>
+    <title>
         <![CDATA[ S07E09 - Especial Nerdearla 2023 ]]>
         </title>
         <link>https://www.ivoox.com/s07e09-especial-nerdearla-2023-audios-mp3_rf_122960643_1.html</link>
@@ -70,7 +120,7 @@
         <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
     </item>
     <item>
-        <title>
+    <title>
         <![CDATA[ S07E08 - Explorando Agosto: Filtraciones, GenZ y Novedades del Open Source en la antesala de Nerdearla23 ]]>
         </title>
         <link>https://www.ivoox.com/s07e08-explorando-agosto-filtraciones-genz-novedades-audios-mp3_rf_122960555_1.html</link>
