@@ -37,6 +37,23 @@
     <itunes:type>episodic</itunes:type>
     <item>
     <title>
+        <![CDATA[ S08E01 - Low-Context DevOps ]]>
+        </title>
+        <link>https://www.ivoox.com/s08e01-low-context-devops-audios-mp3_rf_123175155_1.html</link>
+        <enclosure url="https://www.ivoox.com/s08e01-low-context-devops_mf_123175155_feed_1.mp3" type="audio/mpeg" length="42359744"/>
+        <description>
+        <![CDATA[ &iquest;Tu trabajo se est&aacute; ahogando en complejidades innecesarias? &iquest;Sent&iacute;s que cada tarea nueva cuesta demasiado esfuerzo en comenzar? &iquest;Los onboardings a tu equipo cada vez son mas extensos? En este nuevo especial de Pol&eacute;mica en /var, @jedux, @peorth, @leborg y @nachichuri vamos a explorar el concepto de Low-Context DevOps, una serie de sugerencias que prometen aumentar la productividad y reducir los dolores de cabeza en el d&iacute;a a d&iacute;a laboral. Link al art&iacute;culo: https://www.usenix.org/publications/loginonline/low-context-devops &iexcl;Seguinos en nuestras redes! https://twitter.com/sysarmy https://www.instagram.com/sysarmy/ https://sysarmy.com/ ]]>
+        </description>
+        <pubDate>Thu, 25 Jan 2024 03:53:45 +0100</pubDate>
+        <itunes:duration>28:17</itunes:duration>
+        <itunes:season>8</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/123175155</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
         <![CDATA[ S08E00 - Las noticias de diciembre ]]>
         </title>
         <link>https://www.ivoox.com/s08e00-las-noticias-diciembre-audios-mp3_rf_123125146_1.html</link>
