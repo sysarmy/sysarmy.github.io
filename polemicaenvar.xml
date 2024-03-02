@@ -35,6 +35,41 @@
     <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+    <title>
+        <![CDATA[ S08E03 - Estimar tareas rompió Agile, ¿qué hacemos ahora? ]]>
+        </title>
+        <link>https://www.ivoox.com/s08e03-estimar-tareas-rompio-agile-que-hacemos-audios-mp3_rf_125200127_1.html</link>
+        <enclosure url="https://www.ivoox.com/s08e03-estimar-tareas-rompio-agile-que-hacemos_mf_125200127_feed_1.mp3" type="audio/mpeg" length="30448788"/>
+        <description>
+        <![CDATA[ &iquest;Story points? &iquest;Esfuerzo? &iquest;Talles de remera? &iquest;Activos de Marcos Paz? Independientemente de la unidad de medida que uses, en este episodio on-prem de Pol&eacute;mica en /var vamos a hablar de c&oacute;mo ha afectado la estimaci&oacute;n de tareas a Agile como herramienta, y qu&eacute; podemos hacer para mitigar los problemas que &eacute;sto pueda ocasionar. Link al art&iacute;culo: https://medium.com/virtuslab/why-sprint-estimation-has-broken-agile-70801e1edc4f &iexcl;Seguinos en nuestras redes! https://twitter.com/sysarmy https://www.instagram.com/sysarmy/ https://sysarmy.com/ ]]>
+        </description>
+        <pubDate>Sat, 02 Mar 2024 16:16:22 +0100</pubDate>
+        <itunes:duration>31:43</itunes:duration>
+        <itunes:season>8</itunes:season>
+        <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/125200127</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
+        <![CDATA[ S08E02 - Las noticias de enero ]]>
+        </title>
+        <link>https://www.ivoox.com/s08e02-las-noticias-enero-audios-mp3_rf_125200064_1.html</link>
+        <enclosure url="https://www.ivoox.com/s08e02-las-noticias-enero_mf_125200064_feed_1.mp3" type="audio/mpeg" length="99407857"/>
+        <description>
+        <![CDATA[ Nos juntamos a repasar las noticias del mundo de tecnolog&iacute;a durante enero, en el d&iacute;a que vuelan flechas y corazones por doquier ]]>
+        </description>
+        <pubDate>Sat, 02 Mar 2024 16:13:32 +0100</pubDate>
+        <itunes:duration>01:34:15</itunes:duration>
+        <itunes:season>8</itunes:season>
+        <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/125200064</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
     <item>
     <title>
         <![CDATA[ S08E01 - Low-Context DevOps ]]>
