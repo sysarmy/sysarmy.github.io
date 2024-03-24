@@ -35,7 +35,23 @@
     <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
+    <item>
+    <title>
+        <![CDATA[ S08E04 - Trabajo remoto en 2024 ]]>
+        </title>
+        <link>https://www.ivoox.com/s08e04-trabajo-remoto-2024-audios-mp3_rf_126380802_1.html</link>
+        <enclosure url="https://www.ivoox.com/s08e04-trabajo-remoto-2024_mf_126380802_feed_1.mp3" type="audio/mpeg" length="48471606"/>
+        <description>
+        <![CDATA[ &iquest;Volvemos a la oficina o apostamos al trabajo remoto? &iquest;Afecta a la productividad trabajar desde casa? &iquest;Qu&eacute; ven las empresas y qu&eacute; busca hoy el mundo tech? Con invitado especial en la mesa, revisamos un informe de We Work Remotely sobre el estado del trabajo remoto y charlamos un poco de qu&eacute; forma se va a agarrar la pala en 2024 Visita nuestro blog! https://sysarmy.com/blog/ &iexcl;Seguinos en nuestras redes! https://twitter.com/sysarmy https://www.instagram.com/sysarmy/ https://sysarmy.com/ ]]>
+        </description>
+        <pubDate>Sun, 24 Mar 2024 05:23:07 +0100</pubDate>
+        <itunes:duration>50:29</itunes:duration>
+        <itunes:season>8</itunes:season>
+        <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/126380802</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
     <item>
     <title>
         <![CDATA[ S08E03 - Estimar tareas rompió Agile, ¿qué hacemos ahora? ]]>
