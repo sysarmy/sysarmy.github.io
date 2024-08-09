@@ -37,6 +37,23 @@
     <itunes:type>episodic</itunes:type>
     <item>
     <title>
+        <![CDATA[ S08E12 - FinOps 2024 ]]>
+        </title>
+        <link>https://www.ivoox.com/s08e12-finops-2024-audios-mp3_rf_132638129_1.html</link>
+        <enclosure url="https://www.ivoox.com/s08e12-finops-2024_mf_132638129_feed_1.mp3" type="audio/mpeg" length="29967299"/>
+        <description>
+        <![CDATA[ Manejar una cuenta de un proveedor de servicios en la nube es muy complejo. &iquest;Y qu&eacute; pasa cuando son 10? &iquest;Y si son 100? En este episodio especial vamos a analizar el estado del arte de FinOps, la pr&aacute;ctica organizacional que busca traer un poco de orden al caos de los cloud providers, y veremos si podemos aprender algo de los grandes jugadores del mercado &#127877; Link al art&iacute;culo: https://www.finops.org/insights/key-priorities-shift-in-2024/ Visita nuestro blog! https://sysarmy.com/blog/ &iexcl;Seguinos en nuestras redes! https://twitter.com/sysarmy https://www.instagram.com/sysarmy https://sysarmy.com ]]>
+        </description>
+        <pubDate>Fri, 09 Aug 2024 03:01:45 +0200</pubDate>
+        <itunes:duration>31:12</itunes:duration>
+        <itunes:season>8</itunes:season>
+        <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid>https://www.ivoox.com/132638129</guid>
+        <itunes:image href="https://static-2.ivoox.com/canales/7/8/6/c/786cede2b010ba6a4bc11163c029e220_XXL.jpg"/>
+    </item>
+    <item>
+    <title>
         <![CDATA[ S08E11 - Encuesta de sueldos 2024.01 ]]>
         </title>
         <link>https://www.ivoox.com/s08e11-encuesta-sueldos-2024-01-audios-mp3_rf_132531202_1.html</link>
