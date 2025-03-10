@@ -14,53 +14,160 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>sysarmy - El soporte de quienes dan soporte</title>
   <link rel="shortcut icon" href="favicon.png" />
+  <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <meta name='keywords'
     content='sysadmin, sistemas, desarrollo, developer, administración de sistemas, administrador de sistemas, linux, cloud, docker, kubernetes' />
   <meta name='description' content='sysarmy - Comunidad de Sistemas.' />
-  <!--[if IE 6]>
-    <html id="ie6" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-    <![endif]-->
-  <!--[if IE 7]>
-    <html id="ie7" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-    <![endif]-->
-  <!--[if IE 8]>
-    <html id="ie8" dir="ltr" lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns" xmlns:fb="http://ogp.me/ns/fb">
-    <![endif]-->
+  <meta charset="UTF-8" />
+  <meta property="fb:admins" content="ajolo" />
+  <meta property="og:description" content="Manpage de la Comunidad de Sistemas." />
+  <meta property="og:image" content="https://sysarmy.com/images/logo.png" />
+  <meta property="og:site_name" content="sysarmy" />
+  <meta property="og:title" content="sysarmy - El soporte de quienes dan soporte" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sysarmy.com/" />
 
-
-    <meta charset="UTF-8" />
-    <meta property="fb:admins" content="ajolo" />
-    <meta property="og:description" content="Manpage de la Comunidad de Sistemas." />
-    <meta property="og:image" content="https://sysarmy.com/images/logo.png" />
-    <meta property="og:site_name" content="sysarmy" />
-    <meta property="og:title" content="sysarmy - El soporte de quienes dan soporte" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://sysarmy.com/" />
-    
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@sysarmy">
-    <meta name="twitter:creator" content="@sysarmy">
-    <meta name="twitter:title" content="sysarmy">
-    <meta name="twitter:description" content="Sysarmy es la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.">
-    <meta name="twitter:image:src" content="https://sysarmy.com/images/logo.png">
-
-  <script src="js/main.js"></script>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@sysarmy">
+  <meta name="twitter:creator" content="@sysarmy">
+  <meta name="twitter:title" content="sysarmy">
+  <meta name="twitter:description"
+    content="Sysarmy es la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.">
+  <meta name="twitter:image:src" content="https://sysarmy.com/images/logo.png">
 </head>
 
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW9RRK2"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<script type="text/javascript">
-  //var userLang = navigator.language || navigator.userLanguage; 
-  //if (userLang == 'es') {
-  //  window.location.href = ('https://' + window.location.hostname + '/es/');
-  //}else{
-  //  window.location.href = ('https://' + window.location.hostname + '/en/');
-  //}
-  window.location.href = ('https://timeline.sysarmy.com');
-</script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW9RRK2" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <header class="terminal-header">
+    <span class="prompt">~$</span>
+    <input type="text" class="command-input" readonly placeholder="man sysarmy">
+    <span id="lang-selector">
+      <span class="lang-option">es</span>
+      |
+      <span class="lang-option">
+        <a href="en">en</a>
+      </span>
+    </span>
+  </header>
+
+  <section class="hero">
+    <div class="hero-background"></div>
+    <div class="hero-background"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <img src="https://i.postimg.cc/nzVf2r1P/10-anios-de-guardia.png" alt="Sysarmy Logo" class="hero-logo">
+      <h1>El soporte de quienes dan soporte</h1>
+      <p>Somos una comunidad de sistemas que hace más de 12 años nuclea a profesionales del área para favorecer el
+        contacto y el intercambio de conocimiento de manera informal.</p>
+      <div class="social-links social-links-hero">
+        <a href="https://sysar.my/discord" target="_blank"><i class="fab fa-discord fa-lg"></i></a>
+        <a href="https://www.meetup.com/sysarmy" target="_blank"><i class="fab fa-meetup fa-lg"></i></a>
+        <a href="https://twitter.com/sysarmy" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
+        <a href="https://instagram.com/sysarmy" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="features-container">
+      <a class="feature-card" href="https://www.meetup.com/sysarmy/" target="_blank">
+        <i class="fas fa-beer fa-2x" style="margin-bottom: 1rem; color: var(--accent-color);"></i>
+        <h3>#AdminBirras</h3>
+        <p>Nos juntamos el primer jueves de cada mes para compartir experiencias y conocimientos en un ambiente
+          relajado.</p>
+      </a>
+      <a class="feature-card" href="https://openqube.io/sueldos" target="_blank">
+        <i class="fas fa-chart-line fa-2x" style="margin-bottom: 1rem; color: var(--accent-color);"></i>
+        <h3>Encuesta de Sueldos</h3>
+        <p>Realizamos la encuesta más grande de sueldos IT en Argentina, con más de 6000 respuestas por edición.
+        </p>
+      </a>
+      <a class="feature-card" href="https://www.youtube.com/watch?v=Fe5auHAIo5w&list=PLPXjriojfnRUFxHXucPTF1AFQlG4z3vro"
+        target="_blank">
+        <i class="fas fa-microphone fa-2x" style="margin-bottom: 1rem; color: var(--accent-color);"></i>
+        <h3>Polémica en /var</h3>
+        <p>Nuestro podcast mensual donde repasamos las noticias del mundo Linux, sistemas y tecnología.</p>
+      </a>
+    </div>
+    <br>
+    <div class="features-container">
+      <a class="feature-card" href="https://sysarmy.com/blog/" target="_blank">
+        <i class="fa-solid fa-rss fa-2x" style="margin-bottom: 1rem; color: var(--accent-color);"></i>
+        <h3>Blog</h3>
+        <p>En nuestro blog publicamos novedades y artículos relacionados a nuestra comunidad y tecnología en
+          general.</p>
+      </a>
+      <a class="feature-card" href="https://tienda.sysarmy.com/" target="_blank">
+        <i class="fa-solid fa-shop fa-2x" style="margin-bottom: 1rem; color: var(--accent-color);"></i>
+        <h3>Tienda online</h3>
+        <p>Lo querés. Lo necesitas. Lo tenés en la tienda online de @sysarmy.</p>
+      </a>
+      <a class="feature-card" href="https://timeline.sysarmy.com/" target="_blank">
+        <i class="fa-solid fa-timeline fa-2x" style="margin-bottom: 1rem; color: var(--accent-color);"></i>
+        <h3>Timeline</h3>
+        <p>Más de 12 años de comunidad no son en vano. Revisá todas las cosas que pasaron en nuestro timeline.
+        </p>
+      </a>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <h4>+9500</h4>
+        <p>Miembros en Discord</p>
+      </div>
+      <div class="stat-item">
+        <h4>+6000</h4>
+        <p>Respuestas en Encuestas</p>
+      </div>
+      <div class="stat-item">
+        <h4>12+</h4>
+        <p>Años de Comunidad</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero nerdearla-hero">
+    <div class="hero-background nerdearla-bg"></div>
+    <div class="hero-background nerdearla-bg"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h2 style="font-size: 3rem; margin-bottom: 1.5rem;">NERDEARLA</h2>
+      <p style="font-size: 1.2rem; margin-bottom: 2rem;">Como comunidad organizamos Nerdearla, el evento de
+        tecnología gratuito más grande de Iberoamérica.</p>
+      <a href="https://nerdear.la" target="_blank" class="cta-button" style="font-size: 1.2rem;">
+        <i class="fas fa-external-link-alt"></i> Conocer más
+      </a>
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>Unite a la comunidad</h2>
+    <div class="cta-buttons">
+      <a href="https://sysar.my/discord" class="cta-button" target="_blank"><i class="fab fa-discord"></i>
+        Discord</a>
+      <a href="https://meetup.com/sysarmy" class="cta-button" target="_blank"><i class="fas fa-users"></i>
+        Meetup</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>sysarmy <span id="current-year">2025</span> - root@sysarmy.com</p>
+    <div class="social-links">
+      <a href="https://sysar.my/discord" target="_blank"><i class="fab fa-discord fa-lg"></i></a>
+      <a href="https://www.meetup.com/sysarmy" target="_blank"><i class="fab fa-meetup fa-lg"></i></a>
+      <a href="https://twitter.com/sysarmy" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
+      <a href="https://youtube.com/sysarmyar" target="_blank"><i class="fab fa-youtube fa-lg"></i></a>
+      <a href="https://instagram.com/sysarmy" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>
+      <a href="https://www.linkedin.com/groups/4736196/" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
+    </div>
+  </footer>
+  <script src="js/main.js"></script>
 </body>
 
 </html>
