@@ -11,6 +11,7 @@
     <!-- End Google Tag Manager -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>sysarmy - El soporte de quienes dan soporte</title>
     <link rel="shortcut icon" href="../favicon.png" />
     <meta name='keywords'
@@ -24,7 +25,9 @@
     <meta property="og:title" content="sysarmy - El soporte de quienes dan soporte" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://sysarmy.com/" />
-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -35,40 +38,44 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <!-- <div class="titlewbd">
-        <h1>#worldbackupday</h1>
-    </div> -->
+    
+    <div class="all">
+        <div class="titlewbd">
+            <h1>#worldbackupday</h1>
+        </div>
     <div class="copy-dialog">
         <div class="header">
             <h2>Copying Files</h2>
         </div>
         <div class="content">
             <div class="transfer-info">
-                <p><span class="label">From:</span> <a href="#">/var/polemica</a></p>
-                <p><span class="label">To:</span> <a href="#">/dev/null</a></p>
+                <p> <b>From </b><a href="#">/var/polemica</a> <b>to</b> <a href="#">/dev/null</a> </p>
             </div>
             <div class="progress-section">
-                <p id="itemsRemaining">Items remaining: Calculating...</p>
                 <div class="progress-bar">
                     <div class="progress" id="progressBar" style="width: 0%;"></div>
                 </div>
-                <p class="speed" id="transferSpeed">Speed: 12.5 MB/s</p>
-                <p class="time" id="timeRemaining">Time remaining: Calculating...</p>
+               
             </div>
             <div class="graph-section">
-                <canvas id="transferGraph" width="368" height="99"></canvas>
+                <canvas id="transferGraph" width="329" height="99"></canvas>
             </div>
+            <p class="time">Time remaining: <b id="timeRemaining">Calculating...</b></p>
             <div class="details" id="details">
                 <!-- <p>Copying: Calculating... (250 MB)</p> -->
-                <p>Items copied: Calculating...</p>
+                <p id="itemsRemaining">Items remaining: Calculating...</p>
+                <p class="speed" id="transferSpeed">Speed: 12.5 MB/s</p>
             </div>
-        </div>
-        <div class="buttons">
-            <button id="pauseBtn">Pause</button>
-            <button id="cancelBtn">Cancel</button>
             <button id="detailsBtn">More details</button>
         </div>
+        <div class="buttons">
+            
+            <button id="pauseBtn">Pause</button>
+            <button id="cancelBtn">Cancel</button>
+            
+        </div>
     </div>
+</div>
     <script src="script.js"></script>
 </body>
 

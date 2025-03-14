@@ -41,7 +41,7 @@ function updateTransfer() {
     const hours = Math.floor((secondsLeft % (24 * 3600)) / 3600);
     const minutes = Math.floor((secondsLeft % 3600) / 60);
     const seconds = Math.floor(secondsLeft % 60);
-    timeRemaining.textContent = `Time remaining: ${days}d ${hours}h ${minutes}m ${seconds}s`;
+    timeRemaining.textContent = `${days}d ${hours}h ${minutes}m ${seconds}s`;
 
     // Dynamic speed (fluctuates between 10-15 MB/s)
     const speed = 10 + Math.random() * 5;
@@ -55,7 +55,7 @@ function updateTransfer() {
     // Check if finished
     if (secondsLeft <= 0) {
         itemsRemaining.textContent = 'Items remaining: 0';
-        timeRemaining.textContent = 'Time remaining: Finished';
+        timeRemaining.textContent = 'Finished';
         progressBar.style.width = '100%';
         pauseBtn.disabled = true;
         cancelBtn.disabled = true;
@@ -101,7 +101,7 @@ cancelBtn.addEventListener('click', () => {
     alert('Copy operation canceled. #nohaybackup');
     clearInterval(updateInterval);
     itemsRemaining.textContent = 'Items remaining: 0';
-    timeRemaining.textContent = 'Time remaining: Canceled';
+    timeRemaining.textContent = 'Canceled';
     progressBar.style.width = '100%';
     pauseBtn.disabled = true;
     cancelBtn.disabled = true;
