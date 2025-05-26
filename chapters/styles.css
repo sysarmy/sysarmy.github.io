@@ -1,0 +1,194 @@
+/* Hero Section */
+.hero {
+    min-height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 8rem 2rem 4rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-content {
+    max-width: 800px;
+    z-index: 1;
+    position: relative;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+}
+
+/* Chapters Grid */
+.chapters {
+    padding: 4rem 2rem;
+    background: var(--terminal-bg);
+}
+
+.chapters-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.chapters-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.chapter-card {
+    border: 1px solid var(--text-color);
+    padding: 2rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.02);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.chapter-card p {
+    flex-grow: 1;
+}
+
+
+.chapter-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: var(--accent-color);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+
+.chapter-card:hover {
+    background: rgba(255, 255, 255, 0.05);
+    transform: translateY(-2px);
+}
+
+.chapter-card:hover::before {
+    transform: scaleX(1);
+}
+
+.chapter-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.chapter-flag {
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+.chapter-info h3 {
+    color: var(--accent-color);
+    font-size: 1.3rem;
+    margin-bottom: 0.2rem;
+}
+
+.chapter-location {
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+}
+
+.chapter-social {
+    display: flex;
+    gap: 1rem;
+    margin-top: auto;
+    padding-top: 1rem;
+}
+
+.social-link {
+    color: var(--text-color);
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.social-link:hover {
+    color: var(--accent-color);
+    transform: translateY(-2px);
+}
+
+.main-chapter {
+    grid-column: 1 / -1;
+    background: rgba(255, 255, 255, 0.05);
+    border: 2px solid var(--accent-color);
+}
+
+.main-chapter::before {
+    transform: scaleX(1);
+}
+
+.main-badge {
+    background: var(--accent-color);
+    color: var(--terminal-bg);
+    padding: 0.2rem 0.5rem;
+    font-size: 0.8rem;
+    border-radius: 2px;
+    margin-left: auto;
+}
+
+/* Navigation */
+.nav-back {
+    padding: 5rem;
+    text-align: center;
+}
+
+.nav-back a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-family: var(--font-mono);
+    border: 1px solid var(--text-color);
+    padding: 0.8rem 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.nav-back a:hover {
+    background: var(--text-color);
+    color: var(--terminal-bg);
+}
+
+.social-links a {
+    color: var(--text-color);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+    color: var(--accent-color);
+    transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    .chapters-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .main-chapter {
+        grid-column: 1;
+    }
+
+    .chapter-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .chapter-flag {
+        margin-bottom: 0.5rem;
+    }
+}
