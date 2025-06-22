@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pitchear.la</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="../favicon.png" />
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="header">
+            <img src="../images/SYSARMY_logo-01.png" alt="Sysarmy Logo" class="logo">
+            <h1>🐂 Pitcheala</h1>
+            <h2>#AdminBirras 🍺</h2>
+            <h3>¡Un juego para emprendedores chantas!</h3>
+        </div>
+
+        <div class="startup-display">
+            <div id="startup-name" class="startup-name">
+                <p>- - - - -</p>
+            </div>
+        </div>
+
+        <div class="game-controls">
+            <button id="generate-btn" class="generate-button">
+                Generar startup
+            </button>
+
+            <div id="timer-display" class="timer-display hidden">
+                <div class="timer-circle">
+                    <span id="countdown-number">30</span>
+                </div>
+                <p class="timer-label">¡Pitcheala!</p>
+            </div>
+
+            <div id="game-over" class="game-over hidden">
+                <h2>¡Fin!</h2>
+                <p>¿Conseguiste inversores?</p>
+            </div>
+        </div>
+
+        <div class="instructions">
+            <h3>¿Cómo se juega?</h3>
+            <ol>
+                <li>Apretá en "Generar startup"</li>
+                <li>Acabás de fundar una empresa. Tenés 22 segundos. <strong>¡Vendela!</strong></li>
+                <li>El resto dice si invertiría o no</li>
+            </ol>
+        </div>
+
+        <div class="footer">
+            <p>Hecho con <3 por <a href="https://sysarmy.com" target="_blank">Sysarmy</a>
+                    inspirado en <a href="https://github.com/dcts/bullpitch" target="_blank">Bullpitch</a></p>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
