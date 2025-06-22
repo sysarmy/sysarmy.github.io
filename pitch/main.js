@@ -19,6 +19,19 @@ const techPrefixes = [
     "Clave",
     "Front",
     "JS",
+    "Cyber",
+    "Quantum",
+    "Blockchain",
+    "Agile",
+    "Micro",
+    "Nano",
+    "Smart",
+    "Digital",
+    "Virtual",
+    "Meta",
+    "Web3",
+    "Edge",
+    "IoT",
 ];
 
 const argentineSuffixes = [
@@ -40,6 +53,25 @@ const argentineSuffixes = [
     "ucha",
     "ón",
     ".ar",
+    "itor",
+    ".ai",
+    "ware",
+    "bot",
+    "ly",
+    "ify",
+    "ster",
+    "ology",
+    "ology",
+    "gram",
+    "net",
+    "hub",
+    "space",
+    "works",
+    "chain",
+    "verse",
+    "point",
+    "link",
+    "flow",
 ];
 
 const argentineWords = [
@@ -60,7 +92,16 @@ const argentineWords = [
     "Impuesto",
     "Tango",
     "Token",
-];
+    "Churro",
+    "Guita",
+    "Milanesa",
+    "Chipa",
+    "Pochoclo",
+    "Chimichurri",
+    "Cumbia",
+    "Fernet",
+    "Birome"
+    ];
 
 
 // DOM elements
