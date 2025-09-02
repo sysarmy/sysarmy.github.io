@@ -308,6 +308,7 @@ const years = ["2025", "2026", "2027", "2030", "2035", "2040"];
 
 // DOM elements
 const generateBtn = document.getElementById('generate-btn');
+const regenerateBtn = document.getElementById('regenerate-btn');
 const startupNameEl = document.getElementById('keynote-name');
 const timerDisplay = document.getElementById('timer-display');
 const countdownNumber = document.getElementById('countdown-number');
@@ -404,7 +405,7 @@ const endGame = () => {
     timerDisplay.classList.add('hidden');
     gameOverDisplay.classList.remove('hidden');
     generateBtn.disabled = false;
-    generateBtn.textContent = 'Generar nueva startup';
+    generateBtn.textContent = 'Generar nueva Keynote';
 
     // Reset timer circle styles
     const timerCircle = document.querySelector('.timer-circle');
@@ -421,11 +422,33 @@ const startGame = () => {
         gameState = 'pitching';
         generateBtn.disabled = true;
         generateBtn.textContent = 'Pitching...';
+        regenerateBtn.disabled = false;
         setTimeout(() => {
             startCountdown();
         }, 1000);
     }
 };
 
+const regenerateTitle = () => {
+    if (gameState === 'pitching') {
+        // Clear any running countdown
+        clearInterval(countdownInterval);
+
+        // Reset timer styles and display
+        const timerCircle = document.querySelector('.timer-circle');
+        timerCircle.classList.remove('pulse');
+        timerCircle.style.background = '';
+        countdownNumber.style.color = '';
+
+        // Generate and show new keynote title
+        currentStartupName = generateUniqueKeynoteTitle();
+        displayKeynoteTitle(currentStartupName);
+
+        // Restart countdown
+        startCountdown();
+    }
+};
+
 // Event listeners
 generateBtn.addEventListener('click', startGame);
+regenerateBtn.addEventListener('click', regenerateTitle);
