@@ -49,6 +49,19 @@ function changeBackground() {
     currentBgIndex = (currentBgIndex + 1) % backgroundImages.length;
 }
 
+const FLOATING_PROMOS = [
+    { png: 'server-adminbirras.png', href: 'https://sysar.my/birras' },
+    { png: 'server-sueldos.png', href: 'https://openqube.io/sueldos' },
+    { png: 'server-nerdearla.png', href: 'https://tickets.nerdearla.com?utm_source=sysarmy' },
+];
+
+function floatingPromoSrc(png) {
+    if (png.startsWith('http://') || png.startsWith('https://') || png.startsWith('/')) {
+        return png;
+    }
+    return `images/${png}`;
+}
+
 const nerdearlaImages = [
     'https://resizer.glanacion.com/resizer/v2/nerdearla-es-un-evento-de-dos-dias-virtual-y-OCCNB6BJZREDPEPG4C4SV4HRPM.jpg?auth=3bab0c22ca5e3330b3ad1a40be621d9eb9e0f26708956f71f8a3707c72cc1206&width=1200&quality=70&smart=false&height=801',
     'https://nerdear.la/static/img/n24ar2.jpg',
@@ -70,6 +83,14 @@ function changeNerdearlaBackground() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    const promoLink = document.getElementById('floating-promo');
+    const promoImg = document.getElementById('floating-promo-img');
+    if (promoLink && promoImg && FLOATING_PROMOS.length > 0) {
+        const pick = FLOATING_PROMOS[Math.floor(Math.random() * FLOATING_PROMOS.length)];
+        promoLink.href = pick.href;
+        promoImg.src = floatingPromoSrc(pick.png);
+    }
+
     typeCommand(commands[0]);
 
     heroBackgrounds[0].style.backgroundImage = `url(${backgroundImages[0]})`;
