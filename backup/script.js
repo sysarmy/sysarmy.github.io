@@ -10,8 +10,8 @@ const details = document.getElementById('details');
 const canvas = document.getElementById('transferGraph');
 const ctx = canvas.getContext('2d');
 
-// Target date: March 31, 2025, 00:00 ART
-const targetDate = new Date('2025-03-31T00:00:00-03:00').getTime();
+// Target date: March 31, 2027, 00:00 ART
+const targetDate = new Date('2027-03-31T00:00:00-03:00').getTime();
 //const targetDate = new Date().getTime() + 300000;
 const startDate = new Date().getTime();
 const totalSeconds = (targetDate - startDate) / 1000; // Total seconds from now to target
