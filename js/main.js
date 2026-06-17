@@ -52,7 +52,8 @@ function changeBackground() {
 const FLOATING_PROMOS = [
     { png: 'server-adminbirras.png', href: 'https://sysar.my/birras' },
     { png: 'server-sueldos.png', href: 'https://openqube.io/sueldos' },
-    { png: 'server-nerdearla.png', href: 'https://tickets.nerdearla.com?utm_source=sysarmy' },
+    { png: 'server-adminfest.png', href: 'https://adminfest.com' },
+    // { png: 'server-nerdearla.png', href: 'https://tickets.nerdearla.com?utm_source=sysarmy' },
 ];
 
 function floatingPromoSrc(png) {
