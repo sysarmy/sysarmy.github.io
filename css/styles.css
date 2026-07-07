@@ -306,6 +306,84 @@ footer {
   }
 }
 
+/* AdminFest banner */
+
+.adminfest-banner {
+  --adminfest-green: #2ee6a0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1001;
+  background: #050805;
+  border-bottom: 1px solid var(--adminfest-green);
+  box-shadow: 0 0 12px rgba(46, 230, 160, 0.25);
+  color: #d7f5e8;
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  text-decoration: none;
+  padding: 0.55rem 1rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 0.55rem;
+  text-align: center;
+  transition: background 0.25s ease, box-shadow 0.25s ease;
+}
+
+.adminfest-banner:hover {
+  background: #0a140f;
+  box-shadow: 0 0 18px rgba(46, 230, 160, 0.45);
+}
+
+.adminfest-banner-prompt {
+  color: var(--adminfest-green);
+  font-weight: 700;
+}
+
+.adminfest-banner strong {
+  color: var(--adminfest-green);
+  font-weight: 700;
+}
+
+.adminfest-banner-sep {
+  color: var(--adminfest-green);
+  opacity: 0.6;
+}
+
+.adminfest-banner-url {
+  color: var(--adminfest-green);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.adminfest-banner:hover .adminfest-banner-url {
+  color: #ffffff;
+}
+
+.adminfest-banner-cursor {
+  color: var(--adminfest-green);
+  animation: adminfest-blink 1.1s steps(1) infinite;
+}
+
+@keyframes adminfest-blink {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
+}
+
+@media (max-width: 699px) {
+  .adminfest-banner {
+    font-size: 0.75rem;
+    padding: 0.5rem 0.6rem;
+    gap: 0.4rem;
+  }
+
+  .adminfest-banner-cursor {
+    display: none;
+  }
+}
+
 /* AdminFest callout */
 
 .logo-fixed {

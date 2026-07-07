@@ -83,7 +83,49 @@ function changeNerdearlaBackground() {
     currentNerdealaBgIndex = (currentNerdealaBgIndex + 1) % nerdearlaImages.length;
 }
 
+// Last Friday of a given month (month is 0-indexed)
+function lastFridayOfMonth(year, month) {
+    const date = new Date(year, month + 1, 0); // last day of month
+    const offset = (date.getDay() - 5 + 7) % 7; // days back to Friday (5)
+    date.setDate(date.getDate() - offset);
+    return date;
+}
+
+// Show the AdminFest banner during July (from July 1st, hidden after August 1st),
+// displaying the automatically-calculated last Friday of July (Día del SysAdmin).
+function setupAdminfestBanner() {
+    const banner = document.getElementById('adminfest-banner');
+    const dateEl = document.getElementById('adminfest-date');
+    if (!banner || !dateEl) return;
+
+    const now = new Date();
+    if (now.getMonth() !== 6) return; // 6 = July
+
+    const sysadminDay = lastFridayOfMonth(now.getFullYear(), 6);
+    const locale = (document.documentElement.lang || 'es').toLowerCase().startsWith('en') ? 'en-US' : 'es-AR';
+    const formatted = sysadminDay.toLocaleDateString(locale, {
+        weekday: 'long',
+        day: 'numeric',
+        month: 'long'
+    });
+    dateEl.textContent = formatted.charAt(0).toUpperCase() + formatted.slice(1);
+
+    banner.style.display = 'flex';
+
+    // Offset the fixed header and page content so the banner doesn't overlap.
+    const header = document.querySelector('.terminal-header');
+    const applyOffset = () => {
+        const h = banner.offsetHeight;
+        document.body.style.paddingTop = h + 'px';
+        if (header) header.style.top = h + 'px';
+    };
+    applyOffset();
+    window.addEventListener('resize', applyOffset);
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+    setupAdminfestBanner();
+
     const promoLink = document.getElementById('floating-promo');
     const promoImg = document.getElementById('floating-promo-img');
     if (promoLink && promoImg && FLOATING_PROMOS.length > 0) {
